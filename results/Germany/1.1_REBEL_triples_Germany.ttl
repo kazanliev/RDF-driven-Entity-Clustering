@@ -1,0 +1,119 @@
+<1954> <sports season of league or competition> <FIFA World Cup> .
+<1974> <sports season of league or competition> <FIFA World Cup> .
+<Adidas> <stock exchange> <Frankfurt Stock Exchange> .
+<Adolf Hitler> <position held> <chancellor of Germany> .
+<Adolf Hitler> <member of political party> <Nazi Party> .
+<Allianz> <stock exchange> <Frankfurt Stock Exchange> .
+<Arthur Schopenhauer> <influenced by> <Friedrich Nietzsche> .
+<Berlin International Film Festival> <instance of> <film festival> .
+<Berlin International Film Festival> <location> <Berlin> .
+<Bosch> <stock exchange> <Frankfurt Stock Exchange> .
+<Bundesrat> <part of> <Federal legislative power> .
+<Bundesstadt> <country> <Germany> .
+<Bundestag> <chairperson> <Frank-Walter Steinmeier> .
+<Bundestag> <part of> <Federal legislative power> .
+<Bundesverfassungsgericht> <instance of> <supreme court> .
+<Bundeswehr> <has part> <Luftwaffe> .
+<Bundeswehr> <has part> <Heer> .
+<Bundeswehr> <office held by head of the organization> <Minister of Defence> .
+<Bundeswehr> <has part> <Marine> .
+<Charles VI> <spouse> <Maria Theresa> .
+<Czech Republic> <shares border with> <Germany> .
+<Czech Republic> <shares border with> <Austria> .
+<Czech Republic> <shares border with> <Poland> .
+<Denmark> <shares border with> <Poland> .
+<Denmark> <shares border with> <Germany> .
+<Deutsche Telekom> <stock exchange> <Frankfurt Stock Exchange> .
+<EU> <diplomatic relation> <OECD> .
+<EU> <contains administrative territorial entity> <Germany> .
+<East Francia> <replaced by> <Holy Roman Empire> .
+<European Charter for Regional or Minority Languages> <applies to jurisdiction> <European Union> .
+<European Economic Community> <founded by> <West Germany> .
+<European Union> <contains administrative territorial entity> <Germany> .
+<FIFA World Cup> <has part> <1990> .
+<FIFA World Cup> <has part> <2014> .
+<FIFA World Cup> <has part> <1954> .
+<FIFA World Cup> <has part> <1974> .
+<Federal Administrative Court> <instance of> <supreme court> .
+<Federal Court of Justice> <instance of> <supreme court> .
+<Federal Social Court> <instance of> <supreme court> .
+<Federal legislative power> <has part> <Bundesrat> .
+<Federal legislative power> <has part> <Bundestag> .
+<Francis I> <spouse> <Maria Theresa> .
+<Frank-Walter Steinmeier> <employer> <Bundestag> .
+<Frankish Kingdom> <replaced by> <Holy Roman Empire> .
+<Fraunhofer Society> <country> <Germany> .
+<Friedrich Engels> <influenced by> <Arthur Schopenhauer> .
+<Friedrich Nietzsche> <influenced by> <Friedrich Engels> .
+<Friedrich Nietzsche> <influenced by> <Arthur Schopenhauer> .
+<Friedrich Wilhelm Joseph Schelling> <influenced by> <Johann Gottlieb Fichte> .
+<Georg Wilhelm Friedrich Hegel> <influenced by> <Johann Gottlieb Fichte> .
+<Georg Wilhelm Friedrich Hegel> <influenced by> <Friedrich Wilhelm Joseph Schelling> .
+<German Empire> <inception> <1871> .
+<Germany> <shares border with> <Austria> .
+<Germany> <inception> <18 August 1866> .
+<Germany> <replaces> <North German Confederation> .
+<Germany> <shares border with> <Poland> .
+<Germany> <member of> <G20> .
+<Germany> <member of> <UNESCO> .
+<Germany> <contains administrative territorial entity> <West Germany> .
+<Germany> <member of> <EU> .
+<Germany> <shares border with> <Switzerland> .
+<Germany> <contains administrative territorial entity> <German Democratic Republic> .
+<Germany> <member of> <NATO> .
+<Germany> <member of> <European Union> .
+<Germany> <contains administrative territorial entity> <Bundesstadt> .
+<Germany> <shares border with> <Denmark> .
+<Germany> <member of> <OECD> .
+<Germany> <shares border with> <Czech Republic> .
+<Golden Bear> <conferred by> <Berlin International Film Festival> .
+<Gottfried Böhm> <award received> <Pritzker Prize> .
+<Heer> <part of> <Bundeswehr> .
+<Helmholtz Association> <country> <Germany> .
+<Hermann Muthesius> <member of> <Werkbund> .
+<Holy Roman Empire> <replaces> <East Francia> .
+<Holy Roman Empire> <replaces> <Frankish Kingdom> .
+<Hugo Boss> <stock exchange> <Frankfurt Stock Exchange> .
+<Humboldt University of Berlin> <named after> <Wilhelm von Humboldt> .
+<Humboldt University of Berlin> <inception> <1810> .
+<Leibniz Association> <country> <Germany> .
+<Ludwig Mies van der Rohe> <movement> <Expressionist architecture> .
+<Ludwig Mies van der Rohe> <notable work> <skyscraper> .
+<Ludwig van Beethoven> <genre> <Baroque period> .
+<Luftwaffe> <part of> <Bundeswehr> .
+<Lusatia> <located in the administrative territorial entity> <Saxony> .
+<Lusatia> <located in the administrative territorial entity> <Brandenburg> .
+<Maria Theresa> <spouse> <Charles VI> .
+<Maria Theresa> <spouse> <Francis I> .
+<Marine> <part of> <Bundeswehr> .
+<Max Planck Society> <country> <Germany> .
+<North German Confederation> <replaced by> <Germany> .
+<Nowhere in Africa> <award received> <Academy Award for Best Foreign Language Film> .
+<OECD> <diplomatic relation> <EU> .
+<Otto III> <position held> <Holy Roman Emperor> .
+<Otto von Bismarck> <country of citizenship> <German Empire> .
+<Poland> <shares border with> <Czech Republic> .
+<Poland> <shares border with> <Germany> .
+<Poland> <shares border with> <Denmark> .
+<Richard Wagner> <genre> <opera> .
+<Siemens> <stock exchange> <Frankfurt Stock Exchange> .
+<Summer Games> <point in time> <1936> .
+<Summer Games> <location> <Garmisch-Partenkirchen> .
+<Tag der Deutschen Einheit> <country> <Germany> .
+<Tag der Deutschen Einheit> <instance of> <national day of Germany> .
+<The Lives of Others> <award received> <Academy Award for Best Foreign Language Film> .
+<The Tin Drum> <award received> <Academy Award for Best Foreign Language Film> .
+<Treaty of Aix-la-Chapelle> <participant> <Maria Theresa> .
+<Volkswagen Group> <stock exchange> <Frankfurt Stock Exchange> .
+<Werkbund> <founded by> <Hermann Muthesius> .
+<West Germany> <located in the administrative territorial entity> <Germany> .
+<West Germany> <member of> <NATO> .
+<West Germany> <member of> <European Economic Community> .
+<Wilhelm von Humboldt> <employer> <Humboldt University of Berlin> .
+<Winter Games> <location> <Garmisch-Partenkirchen> .
+<Winter Games> <point in time> <1936> .
+<World War II in Europe> <start time> <1 September 1939> .
+<assassination of Austria's crown prince> <point in time> <28 June 1914> .
+<chancellor of Germany> <officeholder> <Adolf Hitler> .
+<national day of Germany> <country> <Germany> .
+<skyscraper> <architect> <Ludwig Mies van der Rohe> .

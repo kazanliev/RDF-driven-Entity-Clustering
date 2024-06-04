@@ -1,0 +1,10 @@
+{
+    "City 1": {
+        "Berlin": "Capital",
+        "Los_Angeles": "City"
+    },
+    "Politician 1": {
+        "Mahatma_Gandhi": "Leader",
+        "Barack_Obama": "Politician"
+    }
+}

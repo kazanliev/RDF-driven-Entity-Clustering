@@ -1,0 +1,451 @@
+{
+    "1": [
+        "Somerville_station",
+        "West_Pullman_station"
+    ],
+    "2": [
+        "Al-Qaeda",
+        "Taliban"
+    ],
+    "3": [
+        "Hurricane_Harvey"
+    ],
+    "4": [
+        "Hurricane_Irma"
+    ],
+    "5": [
+        "START_I",
+        "Trans-Pacific_Partnership"
+    ],
+    "6": [
+        "Great_Recession",
+        "Great_Depression"
+    ],
+    "7": [
+        "Illinois_Senate",
+        "United_States_Senate"
+    ],
+    "8": [
+        "Civil_Rights_Act_of_1968",
+        "Don't_Ask,_Don't_Tell_Repeal_Act_of_2010",
+        "Religious_Freedom_Restoration_Act"
+    ],
+    "9": [
+        "Antiquities_Act"
+    ],
+    "10": [
+        "Iraq_War",
+        "Operation_Unified_Protector",
+        "Battle_of_Shiloh",
+        "American_Civil_War"
+    ],
+    "11": [
+        "Paul_Ryan",
+        "Tom_Carper",
+        "Barack_Obama",
+        "Jefferson_Davis",
+        "John_McCain",
+        "Stanley_Armour_Dunham",
+        "Tim_Kaine",
+        "Maya_Soetoro-Ng",
+        "Benjamin_Franklin",
+        "Anthony_Albanese",
+        "Vladimir_Putin",
+        "Joe_Biden",
+        "Elena_Kagan",
+        "Jimmy_Carter",
+        "Sarah_Palin",
+        "Bill_Clinton",
+        "Anwar_al-Awlaki",
+        "Alan_Keyes",
+        "Muammar_Gaddafi",
+        "Michelle_Obama",
+        "Mitt_Romney",
+        "Dick_Cheney",
+        "Ronald_Reagan",
+        "Robert_F._Kennedy",
+        "Calvin_Coolidge",
+        "Ken_Salazar",
+        "Edward_Snowden",
+        "Sonia_Sotomayor",
+        "Hillary_Clinton",
+        "Valerie_Jarrett",
+        "Nelson_Mandela",
+        "Donald_Trump",
+        "Osama_bin_Laden",
+        "Dmitry_Medvedev",
+        "David_Petraeus",
+        "John_Paul_Stevens",
+        "Abraham_Lincoln",
+        "Leon_Panetta",
+        "Alice_Palmer_(politician)",
+        "Timothy_Geithner",
+        "David_Souter",
+        "Ted_Kennedy",
+        "Lolo_Soetoro",
+        "Dwight_D._Eisenhower",
+        "Pope_Francis",
+        "Benjamin_Netanyahu",
+        "Barack_Obama_Sr.",
+        "Mahmoud_Abbas",
+        "George_Zimmerman",
+        "Carol_Moseley_Braun",
+        "Laurence_Tribe",
+        "Evan_Bayh",
+        "Peter_Fitzgerald_(politician)",
+        "Jeremiah_Wright",
+        "Tom_Coburn",
+        "Ben_Bernanke",
+        "Margaret_Thatcher",
+        "Ra\u00fal_Castro",
+        "Jeffrey_Goldberg"
+    ],
+    "12": [
+        "Medicaid",
+        "Medicare_Advantage"
+    ],
+    "13": [
+        "Race_and_ethnicity_in_the_United_States_Census",
+        "Secure_Communities",
+        "Diplomatic_mission",
+        "Jack_Ryan",
+        "Sana\u02bda",
+        "Islamic_State_of_Iraq_and_the_Levant",
+        "Coronavirus_disease_2019"
+    ],
+    "14": [
+        "United_States_Secret_Service",
+        "Drug_Enforcement_Administration"
+    ],
+    "15": [
+        "Hamas",
+        "Hezbollah"
+    ],
+    "16": [
+        "LibriVox",
+        "Project_Gutenberg"
+    ],
+    "17": [
+        "Citibank",
+        "New_York_Public_Interest_Research_Group",
+        "Chrysler",
+        "United_States_Armed_Forces",
+        "Columbia_University",
+        "82nd_Airborne_Division",
+        "Harvard_University",
+        "Punahou_School",
+        "Pittsburgh_Steelers",
+        "National_Security_Agency",
+        "Central_Intelligence_Agency",
+        "Norwegian_Nobel_Committee",
+        "Fisher_House_Foundation",
+        "Ancestry.com",
+        "Northwestern_University",
+        "Calvert_School",
+        "General_Motors",
+        "Cairo_University",
+        "Brookings_Institution",
+        "United_Nations_Security_Council",
+        "Occidental_College",
+        "Joyce_Foundation",
+        "Harvard_Law_School",
+        "Invesco",
+        "Hobby_Lobby",
+        "Gamaliel_Foundation",
+        "Al_Arabiya",
+        "Audio_Publishers_Association",
+        "Gallup_(company)",
+        "Congressional_Budget_Office",
+        "C-SPAN",
+        "Sidwell_Friends_School",
+        "Sidley_Austin",
+        "United_States_Navy",
+        "Developing_Communities_Project",
+        "Federal_Election_Commission",
+        "Fiat_Automobiles",
+        "Business_International_Corporation"
+    ],
+    "18": [
+        "Australian_Labor_Party"
+    ],
+    "19": [
+        "Pew_Research_Center"
+    ],
+    "20": [
+        "NASA"
+    ],
+    "21": [
+        "Chicago_White_Sox"
+    ],
+    "22": [
+        "United_Nations",
+        "Arab_League"
+    ],
+    "23": [
+        "Egypt",
+        "Yemen",
+        "Kenya",
+        "Indonesia",
+        "Australia",
+        "Ethiopia",
+        "Cuba",
+        "Libya",
+        "Somalia",
+        "Syria",
+        "Palestinian_National_Authority",
+        "France",
+        "Iraq",
+        "Russia",
+        "Pakistan",
+        "Israel",
+        "Mexico",
+        "Afghanistan",
+        "Iran",
+        "Saudi_Arabia",
+        "South_Africa"
+    ],
+    "24": [
+        "McCormick_Place",
+        "Macondo_Prospect"
+    ],
+    "25": [
+        "Hawaii",
+        "Indiana",
+        "Delaware",
+        "Wisconsin",
+        "Missouri",
+        "Virginia",
+        "Kansas",
+        "Illinois",
+        "Massachusetts",
+        "Iowa",
+        "Texas",
+        "Alaska",
+        "Colorado",
+        "North_Carolina"
+    ],
+    "26": [
+        "New_York_City",
+        "Abbottabad",
+        "Mosul",
+        "Nairobi",
+        "Assisi",
+        "South_Jakarta",
+        "Los_Angeles",
+        "Jakarta",
+        "Denver",
+        "Baghdad",
+        "Sinjar",
+        "Chicago",
+        "Vatican_City",
+        "Seattle",
+        "Mexico_City",
+        "Honolulu",
+        "Crimea",
+        "Benghazi",
+        "Molokai",
+        "Havana",
+        "Melbourne",
+        "Central_Jakarta",
+        "Sochi",
+        "Johannesburg",
+        "Islamabad",
+        "Times_Square",
+        "Menteng"
+    ],
+    "27": [
+        "Kalorama_(Washington,_D.C.)"
+    ],
+    "28": [
+        "Central_Asia"
+    ],
+    "29": [
+        "Chicago_Tribune",
+        "The_New_York_Times",
+        "The_New_York_Times_International_Edition"
+    ],
+    "30": [
+        "Time_(magazine)",
+        "Money_(magazine)"
+    ],
+    "31": [
+        "Harvard_Law_Review"
+    ],
+    "32": [
+        "Grammy_Award_for_Best_Spoken_Word_Album",
+        "Nobel_Peace_Prize",
+        "Nobel_Prize",
+        "Emmy_Award"
+    ],
+    "33": [
+        "Academy_Awards"
+    ],
+    "34": [
+        "Ann_Dunham"
+    ],
+    "35": [
+        "Madelyn_Dunham"
+    ],
+    "36": [
+        "Gautama_Buddha"
+    ],
+    "37": [
+        "Arctic"
+    ],
+    "38": [
+        "Protestantism"
+    ],
+    "39": [
+        "Camp_David"
+    ],
+    "40": [
+        "The_Pentagon"
+    ],
+    "41": [
+        "White_House"
+    ],
+    "42": [
+        "East_Jerusalem"
+    ],
+    "43": [
+        "Bruce_Springsteen"
+    ],
+    "44": [
+        "Sandy_Hook_Elementary_School_shooting"
+    ],
+    "45": [
+        "Netflix"
+    ],
+    "46": [
+        "Rush_(band)"
+    ],
+    "47": [
+        "NJPW_The_New_Beginning"
+    ],
+    "48": [
+        "Promised_Land"
+    ],
+    "49": [
+        "Sheila_Miyoshi_Jager"
+    ],
+    "50": [
+        "2014_Winter_Olympics"
+    ],
+    "51": [
+        "Super_Bowl"
+    ],
+    "52": [
+        "Altgeld_Gardens_Homes"
+    ],
+    "53": [
+        "United_States_Senate_Committee_on_Foreign_Relations"
+    ],
+    "54": [
+        "National_Football_League"
+    ],
+    "55": [
+        "HIV"
+    ],
+    "56": [
+        "Democratic_National_Convention"
+    ],
+    "57": [
+        "Tony_Rezko"
+    ],
+    "58": [
+        "Surveillance_court"
+    ],
+    "59": [
+        "Obama_Foundation"
+    ],
+    "60": [
+        "NATO"
+    ],
+    "61": [
+        "Shooting_of_Michael_Brown"
+    ],
+    "62": [
+        "Barack_Obama_Presidential_Center"
+    ],
+    "63": [
+        "The_Holocaust"
+    ],
+    "64": [
+        "Zionism"
+    ],
+    "65": [
+        "Wailuku_River"
+    ],
+    "66": [
+        "International_Space_Station"
+    ],
+    "67": [
+        "Keystone_Pipeline"
+    ],
+    "68": [
+        "Courage"
+    ],
+    "69": [
+        "Cuban_thaw"
+    ],
+    "70": [
+        "Project_Cassandra"
+    ],
+    "71": [
+        "Federal_Reserve"
+    ],
+    "72": [
+        "Mars"
+    ],
+    "73": [
+        "Palestinians"
+    ],
+    "74": [
+        "Iron_Dome"
+    ],
+    "75": [
+        "Arab_Spring"
+    ],
+    "76": [
+        "Super_Bowl_XLIII"
+    ],
+    "77": [
+        "18_Months"
+    ],
+    "78": [
+        "Julian_calendar"
+    ],
+    "79": [
+        "Space_Shuttle"
+    ],
+    "80": [
+        "Equal_Credit_Opportunity_Act"
+    ],
+    "81": [
+        "LGBT"
+    ],
+    "82": [
+        "Luo_people"
+    ],
+    "83": [
+        "Syrian_Civil_War"
+    ],
+    "84": [
+        "HuffPost"
+    ],
+    "85": [
+        "United_Nations_Security_Council_Resolution_2334"
+    ],
+    "86": [
+        "1985_Chicago_Bears_season"
+    ],
+    "87": [
+        "World_War_II"
+    ],
+    "88": [
+        "American_Factory"
+    ],
+    "89": [
+        "Obergefell_v._Hodges"
+    ]
+}

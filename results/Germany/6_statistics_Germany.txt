@@ -1,0 +1,30 @@
+Number of words in the input file: 10097
+Number of sentences in the input file: 421
+Number of REBEL triples: 71
+Number of DBpedia triples: 28457
+Number of combined triples: 28528
+Number of DBpedia entities (w/o REBEL): 333
+Results for jaccard, average, Silhouette: Clusters - 110, Score - 0.1689834242791932
+Results for jaccard, complete, Silhouette: Clusters - 96, Score - 0.16594087262986618
+Results for jaccard, single, Silhouette: Clusters - 190, Score - 0.12307765532885179
+Results for jaccard, weighted, Silhouette: Clusters - 100, Score - 0.16889064796068862
+Results for jaccard, centroid, Silhouette: Clusters - 232, Score - 0.11167626937297952
+Results for jaccard, median, Silhouette: Clusters - 200, Score - 0.11378702454994577
+Results for jaccard, ward, Silhouette: Clusters - 59, Score - 0.1703312031439633
+Best score for jaccard: ward, Silhouette: Clusters - 59, Score - 0.1703312031439633
+Results for sorensen, average, Silhouette: Clusters - 98, Score - 0.23724549360157782
+Results for sorensen, complete, Silhouette: Clusters - 96, Score - 0.23212162262281333
+Results for sorensen, single, Silhouette: Clusters - 131, Score - 0.16761618573957535
+Results for sorensen, weighted, Silhouette: Clusters - 95, Score - 0.23666218279461698
+Results for sorensen, centroid, Silhouette: Clusters - 174, Score - 0.1706053808385431
+Results for sorensen, median, Silhouette: Clusters - 188, Score - 0.15998540666612848
+Results for sorensen, ward, Silhouette: Clusters - 71, Score - 0.2477567582706057
+Best score for sorensen: ward, Silhouette: Clusters - 71, Score - 0.2477567582706057
+Results for cosine, average, Silhouette: Clusters - 96, Score - 0.23261710635962746
+Results for cosine, complete, Silhouette: Clusters - 99, Score - 0.23479330730225792
+Results for cosine, single, Silhouette: Clusters - 128, Score - 0.16872377575115322
+Results for cosine, weighted, Silhouette: Clusters - 94, Score - 0.23991511083046685
+Results for cosine, centroid, Silhouette: Clusters - 169, Score - 0.1613191831607259
+Results for cosine, median, Silhouette: Clusters - 205, Score - 0.1485518898238181
+Results for cosine, ward, Silhouette: Clusters - 74, Score - 0.2470423060323514
+Best score for cosine: ward, Silhouette: Clusters - 74, Score - 0.2470423060323514

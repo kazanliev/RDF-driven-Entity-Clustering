@@ -1,0 +1,38 @@
+2024-05-27 20:27:03,034 - Pipeline started at 2024-05-27 20:27:03
+2024-05-27 20:27:03,035 - ----- ARTICLE NAME:  input/Germany -------
+2024-05-27 20:27:03,035 - Property extraction for input/Germany started at 2024-05-27 20:27:03
+2024-05-27 20:33:23,347 - Property extraction for input/Germany ended at 2024-05-27 20:33:23
+2024-05-27 20:33:23,348 - Property extraction for input/Germany took 380.312232 seconds
+2024-05-27 20:33:23,348 - Remove forbidden properties for input/Germany started at 2024-05-27 20:33:23
+2024-05-27 20:33:23,751 - Remove forbidden properties for input/Germany ended at 2024-05-27 20:33:23
+2024-05-27 20:33:23,751 - Remove forbidden properties for input/Germany took 0.401796 seconds
+2024-05-27 20:33:23,751 - CSV to TTL conversion (DBPedia) for input/Germany started at 2024-05-27 20:33:23
+2024-05-27 20:33:23,823 - CSV to TTL conversion (DBPedia) for input/Germany ended at 2024-05-27 20:33:23
+2024-05-27 20:33:23,823 - CSV to TTL conversion (DBPedia) for input/Germany took 0.071488 seconds
+2024-05-27 20:33:23,823 - CSV to TTL conversion (REBEL) for input/Germany started at 2024-05-27 20:33:23
+2024-05-27 20:33:23,838 - CSV to TTL conversion (REBEL) for input/Germany ended at 2024-05-27 20:33:23
+2024-05-27 20:33:23,838 - CSV to TTL conversion (REBEL) for input/Germany took 0.014565 seconds
+2024-05-27 20:33:23,838 - Combine REBEL Triples and DBPedia Triples for input/Germany started at 2024-05-27 20:33:23
+2024-05-27 20:33:23,910 - Combine REBEL Triples and DBPedia Triples for input/Germany ended at 2024-05-27 20:33:23
+2024-05-27 20:33:23,910 - Combine REBEL Triples and DBPedia Triples for input/Germany took 0.072004 seconds
+2024-05-27 20:33:23,910 - Combine REBEL Triples and DBPedia Entities for input/Germany started at 2024-05-27 20:33:23
+2024-05-27 20:33:23,931 - Combine REBEL Triples and DBPedia Entities for input/Germany ended at 2024-05-27 20:33:23
+2024-05-27 20:33:23,931 - Combine REBEL Triples and DBPedia Entities for input/Germany took 0.020202 seconds
+2024-05-27 20:33:23,931 - Create hypernym dictionary for input/Germany started at 2024-05-27 20:33:23
+2024-05-27 20:35:56,267 - Create hypernym dictionary for input/Germany ended at 2024-05-27 20:35:56
+2024-05-27 20:35:56,267 - Create hypernym dictionary for input/Germany took 152.335786 seconds
+2024-05-27 20:35:56,268 - Clustering for input/Germany started at 2024-05-27 20:35:56
+2024-05-27 20:40:05,747 - Clustering for input/Germany ended at 2024-05-27 20:40:05
+2024-05-27 20:40:05,747 - Clustering for input/Germany took 249.47928 seconds
+2024-05-27 20:40:05,748 - Adding hypernyms to clusters for input/Germany started at 2024-05-27 20:40:05
+2024-05-27 20:40:05,878 - Adding hypernyms to clusters for input/Germany ended at 2024-05-27 20:40:05
+2024-05-27 20:40:05,878 - Adding hypernyms to clusters for input/Germany took 0.130469 seconds
+2024-05-27 20:40:05,879 - Label clusters for input/Germany started at 2024-05-27 20:40:05
+2024-05-27 20:40:06,284 - Label clusters for input/Germany ended at 2024-05-27 20:40:06
+2024-05-27 20:40:06,284 - Label clusters for input/Germany took 0.405475 seconds
+2024-05-27 20:40:06,285 - Statistics for input/Germany started at 2024-05-27 20:40:06
+2024-05-27 20:40:06,444 - Statistics for input/Germany ended at 2024-05-27 20:40:06
+2024-05-27 20:40:06,444 - Statistics for input/Germany took 0.159273 seconds
+2024-05-27 20:40:06,444 - Pipeline ended at 2024-05-27 20:40:06
+2024-05-27 20:40:06,444 - Total pipeline execution time: 783.409947 seconds
+2024-05-27 20:40:06,445 - Adding rdf:type and dcterms:subject values to entities for input/Germany started at 2024-05-27 20:40:06

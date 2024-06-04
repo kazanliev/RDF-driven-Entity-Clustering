@@ -1,0 +1,49 @@
+<http://dbpedia.org/resource/1985_Chicago_Bears_season> <point in time> <1985> .
+<http://dbpedia.org/resource/Democratic_National_Convention> <point in time> <2004> .
+<http://dbpedia.org/resource/2014_Winter_Olympics> <country> <Russia> .
+<http://dbpedia.org/resource/2014_Winter_Olympics> <point in time> <2014> .
+<http://dbpedia.org/resource/2014_Winter_Olympics> <location> <Sochi> .
+<http://dbpedia.org/resource/82nd_Airborne_Division> <conflict> <war in Afghanistan> .
+<http://dbpedia.org/resource/Barack_Obama> <member of political party> <Democratic Party> .
+<http://dbpedia.org/resource/Barack_Obama> <candidacy in election> <presidential election> .
+<http://dbpedia.org/resource/Barack_Obama> <educated at> <University of Chicago Law School> .
+<http://dbpedia.org/resource/Barack_Obama> <significant event> <inauguration of Barack Obama> .
+<http://dbpedia.org/resource/Barack_Obama_Presidential_Center> <owned by> <University of Chicago> .
+<http://dbpedia.org/resource/Benjamin_Netanyahu> <position held> <Israeli Prime Minister> .
+<http://dbpedia.org/resource/Grammy_Award_for_Best_Spoken_Word_Album> <instance of> <Grammy Award> .
+<http://dbpedia.org/resource/Rush_(band)> <member of political party> <Democratic> .
+<http://dbpedia.org/resource/Cairo_University> <country> <Egypt> .
+<http://dbpedia.org/resource/Democratic_National_Convention> <location> <Denver, Colorado> .
+<http://dbpedia.org/resource/Don't_Ask,_Don't_Tell_Repeal_Act_of_2010> <main subject> <LGBT rights> .
+<http://dbpedia.org/resource/Elena_Kagan> <member of political party> <Democratic Party> .
+<http://dbpedia.org/resource/Harvard_Law_Review> <publisher> <Harvard Law School> .
+<http://dbpedia.org/resource/Illinois_Senate> <applies to jurisdiction> <Illinois> .
+<http://dbpedia.org/resource/Illinois> <located in the administrative territorial entity> <Illinois> .
+<http://dbpedia.org/resource/Illinois> <located in the administrative territorial entity> <Illinois> .
+<http://dbpedia.org/resource/Joe_Biden> <member of political party> <Democratic Party> .
+<http://dbpedia.org/resource/John_McCain> <member of political party> <Republican> .
+<http://dbpedia.org/resource/Ken_Salazar> <position held> <Secretary of the Interior> .
+<http://dbpedia.org/resource/Laurence_Tribe> <educated at> <Harvard Law School> .
+<http://dbpedia.org/resource/Madelyn_Dunham> <date of death> <November 2, 2008> .
+<http://dbpedia.org/resource/Mahmoud_Abbas> <position held> <President of the Palestinian National Authority> .
+<http://dbpedia.org/resource/Menteng> <located in the administrative territorial entity> <South Jakarta> .
+<http://dbpedia.org/resource/Michelle_Obama> <spouse> <Barack> .
+<http://dbpedia.org/resource/Obergefell_v._Hodges> <court> <Supreme Court> .
+<http://dbpedia.org/resource/Occidental_College> <located in the administrative territorial entity> <Los Angeles> .
+<http://dbpedia.org/resource/Osama_bin_Laden> <date of death> <May 1, 2011> .
+<http://dbpedia.org/resource/Palestinian_National_Authority> <officeholder> <Mahmoud Abbas> .
+<http://dbpedia.org/resource/Sanaʽa> <country> <Yemen> .
+<http://dbpedia.org/resource/Battle_of_Shiloh> <located in the administrative territorial entity> <Washington, D.C.> .
+<http://dbpedia.org/resource/Sochi> <country> <Russia> .
+<http://dbpedia.org/resource/Sonia_Sotomayor> <member of political party> <Democratic Party> .
+<http://dbpedia.org/resource/South_Jakarta> <contains administrative territorial entity> <Menteng Dalam> .
+<http://dbpedia.org/resource/Syrian_Civil_War> <significant event> <a chemical weapons attack in Syria> .
+<http://dbpedia.org/resource/Tim_Kaine> <member of political party> <Democratic Party> .
+<http://dbpedia.org/resource/United_Nations_Security_Council_Resolution_2334> <publication date> <December 23, 2016> .
+<http://dbpedia.org/resource/Valerie_Jarrett> <position held> <Senior Advisor to the President> .
+<http://dbpedia.org/resource/Yemen> <capital> <Sanaa> .
+<http://dbpedia.org/resource/Syria> <part of> <Syrian civil war> .
+<http://dbpedia.org/resource/HIV> <end time> <December 22, 2010> .
+<http://dbpedia.org/resource/Barack_Obama> <point in time> <January 20, 2009> .
+<http://dbpedia.org/resource/Barack_Obama> <participant> <Barack Obama> .
+<http://dbpedia.org/resource/Shooting_of_Michael_Brown> <has effect> <protests> .

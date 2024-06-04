@@ -1,0 +1,409 @@
+Summary of Clustering Evaluation
+
+Total number of clusters: 232
+Number of evaluated clusters: 29
+Number of excluded (one-element) clusters: 203
+Number of entities in the evaluated clusters: 130
+Number of accurately placed entities in the evaluated clusters: 122
+Number of accurate clusters in the evaluated clusters: 29
+
+
+Coherence Measure: 0.9706959706959708
+Precision Measure: 0.9384615384615385
+Coherent Clusters Measure: 1.0
+Precision Measure x (Evaluated clusters/Clusters): 0.11730769230769231
+
+Ignored clusters:
+- Completion 1
+- Reconstruction 1
+- Miscellaneous Cluster 1
+- War 1
+- Sea 1
+- Sea 2
+- Book 1
+- State 2
+- Region 1
+- Series 1
+- Series 2
+- Miscellaneous Cluster 2
+- Miscellaneous Cluster 4
+- Miscellaneous Cluster 5
+- Miscellaneous Cluster 6
+- Period 1
+- Phase 1
+- Style 1
+- Term 1
+- Form 1
+- Miscellaneous Cluster 7
+- Organisation 1
+- Director 1
+- Filmmaker 1
+- Director 2
+- Architect 1
+- Rihm 1
+- Architect 2
+- Blacksmith 1
+- Painter 2
+- Miscellaneous Cluster 8
+- Filmmaker 2
+- Architect 3
+- Writer 1
+- Dramatist 1
+- Filmmaker 3
+- Composer 2
+- Composer 3
+- Company 2
+- Initiative 1
+- Club 1
+- Organization 2
+- Institute 1
+- Studio 1
+- Branch 1
+- Branch 2
+- General 1
+- Business 1
+- Group 4
+- People 1
+- Name 1
+- Philosopher 2
+- Philosopher 3
+- Historian 1
+- Philosopher 4
+- Miscellaneous Cluster 9
+- Party 1
+- Party 2
+- Poet 1
+- Writer 2
+- Peninsula 1
+- Region 2
+- World 2
+- Region 3
+- Bank 1
+- Castle 1
+- Range 1
+- Peninsula 2
+- Body 2
+- Range 2
+- Miscellaneous Cluster 10
+- Miscellaneous Cluster 11
+- Body 3
+- Organisation 2
+- Miscellaneous Cluster 12
+- Branch 3
+- Association 1
+- Palace 1
+- Zone 1
+- Barrier 1
+- Agency 1
+- Organization 3
+- Association 2
+- Name 2
+- Body 4
+- Form 2
+- Forces 1
+- Institution 1
+- League 1
+- Confederation 1
+- Church 1
+- Place 1
+- Cathedral 1
+- Liberal 1
+- Architect 4
+- Director 3
+- Miscellaneous Cluster 13
+- Novelist 1
+- Germany 1
+- Chancellor 1
+- Miscellaneous Cluster 14
+- State 4
+- Founder 1
+- Miscellaneous Cluster 15
+- Artist 1
+- Band 1
+- Novelist 2
+- Politician 2
+- Germany 2
+- King 2
+- Miscellaneous Cluster 16
+- Painter 3
+- Painter 4
+- Edifice 1
+- Palace 2
+- Composer 4
+- Leader 1
+- Senator 1
+- Philosopher 5
+- Physician 1
+- School 1
+- Composer 5
+- Miscellaneous Cluster 17
+- Composer 6
+- Politician 3
+- Emperor 1
+- Philosopher 6
+- Knight 1
+- Statesman 1
+- Service 1
+- Leader 2
+- Family 1
+- River 1
+- Miscellaneous Cluster 18
+- Miscellaneous Cluster 19
+- Church 2
+- Miscellaneous Cluster 20
+- Term 3
+- Miscellaneous Cluster 21
+- Composer 7
+- Composer 8
+- Language 1
+- Driver 1
+- Driver 2
+- Division 1
+- Body 5
+- Coalition 1
+- Treaty 1
+- Competition 1
+- Miscellaneous Cluster 22
+- Alliance 1
+- Species 1
+- Movement 1
+- Miscellaneous Cluster 23
+- Miscellaneous Cluster 24
+- World 3
+- Agreement 1
+- Miscellaneous Cluster 25
+- Style 2
+- Belief 1
+- Week 1
+- Genocide 1
+- Period 2
+- Depression 1
+- World 4
+- Miscellaneous Cluster 26
+- Miscellaneous Cluster 27
+- Pogrom 1
+- Event 1
+- Day 1
+- Ceremony 1
+- Laws 1
+- Settlement 1
+- System 1
+- Style 3
+- Subdivision 1
+- Conflict 1
+- Process 1
+- Planet 1
+- Constitution 1
+- Novel 1
+- Magazine 1
+- Miscellaneous Cluster 28
+- Period 3
+- Treaty 2
+- Resource 1
+- Series 3
+- Ceremony 2
+- Tribe 1
+- Name 3
+- Designation 1
+- Genre 1
+- Academics 1
+- Initialism 1
+- Designation 2
+- Worldwide 1
+- Items 1
+- Miscellaneous Cluster 29
+- Language 2
+- Collection 1
+- Fruit 1
+- Language 3
+- Agreement 2
+
+Evaluated Clusters:
+
+Cluster: Organization 1
+- World_Health_Organization: 1 (accurately placed)
+- International_Monetary_Fund: 1 (accurately placed)
+
+Cluster: Body 1
+- National_Diet: 1 (accurately placed)
+- Bundestag: 1 (accurately placed)
+
+Cluster: Airport 1
+- Munich_Airport: 1 (accurately placed)
+- Frankfurt_Airport: 1 (accurately placed)
+- Berlin_Brandenburg_Airport: 1 (accurately placed)
+
+Cluster: Group 1
+- New_Leipzig_School: 1 (accurately placed)
+- Die_Brücke: 1 (accurately placed)
+- Der_Blaue_Reiter: 1 (accurately placed)
+
+Cluster: University 1
+- Heidelberg_University: 1 (accurately placed)
+- Leipzig_University: 1 (accurately placed)
+
+Cluster: Municipality 1
+- Neuendorf-Sachsenbande: 1 (accurately placed)
+- Saterland: 1 (accurately placed)
+- Nebra_(Unstrut): 0
+
+Cluster: World 1
+- Gamescom: 1 (accurately placed)
+- Frankfurt_Book_Fair: 1 (accurately placed)
+
+Cluster: Park 1
+- Saxon_Switzerland_National_Park: 1 (accurately placed)
+- Hainich_National_Park: 1 (accurately placed)
+- Berchtesgaden_National_Park: 1 (accurately placed)
+- Müritz_National_Park: 1 (accurately placed)
+- Bavarian_Forest_National_Park: 1 (accurately placed)
+
+Cluster: State 1
+- Saarland: 1 (accurately placed)
+- Hesse: 1 (accurately placed)
+- Saxony: 1 (accurately placed)
+- Lower_Saxony: 1 (accurately placed)
+- Brandenburg: 1 (accurately placed)
+- Bavaria: 1 (accurately placed)
+- Schleswig-Holstein: 1 (accurately placed)
+
+Cluster: City 1
+- Rostock: 1 (accurately placed)
+- Vienna: 1 (accurately placed)
+- Nuremberg: 1 (accurately placed)
+- Freiburg_im_Breisgau: 1 (accurately placed)
+- Munich: 1 (accurately placed)
+- Frankfurt: 1 (accurately placed)
+- Hamburg: 1 (accurately placed)
+- Berlin: 1 (accurately placed)
+- Potsdam: 1 (accurately placed)
+- Ruhr: 1 (accurately placed)
+- Augsburg: 1 (accurately placed)
+- Rome: 1 (accurately placed)
+- Bonn: 1 (accurately placed)
+- Aachen: 1 (accurately placed)
+- Garmisch-Partenkirchen: 1 (accurately placed)
+
+Cluster: Country 1
+- France: 1 (accurately placed)
+- Norway: 1 (accurately placed)
+- Turkey: 1 (accurately placed)
+- Kosovo: 1 (accurately placed)
+- Austria: 1 (accurately placed)
+- Greece: 1 (accurately placed)
+- Hungary: 1 (accurately placed)
+- Ukraine: 1 (accurately placed)
+- Switzerland: 1 (accurately placed)
+- Denmark: 1 (accurately placed)
+- Serbia: 1 (accurately placed)
+- Belgium: 1 (accurately placed)
+- Afghanistan: 1 (accurately placed)
+- Czech_Republic: 1 (accurately placed)
+- Luxembourg: 1 (accurately placed)
+- Russia: 1 (accurately placed)
+- Netherlands: 1 (accurately placed)
+- Namibia: 1 (accurately placed)
+- China: 1 (accurately placed)
+
+Cluster: War 2
+- Austro-Prussian_War: 1 (accurately placed)
+- Franco-Prussian_War: 1 (accurately placed)
+
+Cluster: Miscellaneous Cluster 3
+- Federal_Social_Court: 1 (accurately placed)
+- Federal_Fiscal_Court: 1 (accurately placed)
+
+Cluster: State 3
+- West_Germany: 0
+- North_German_Confederation: 0
+- Kamerun: 0
+- East_Germany: 1 (accurately placed)
+- East_Berlin: 1 (accurately placed)
+- Czechoslovakia: 1 (accurately placed)
+- Nazi_Germany: 1 (accurately placed)
+- Togoland: 1 (accurately placed)
+- Austria-Hungary: 1 (accurately placed)
+- Roman_Empire: 1 (accurately placed)
+- Weimar_Republic: 1 (accurately placed)
+- Holy_Roman_Empire: 1 (accurately placed)
+- East_Francia: 1 (accurately placed)
+
+Cluster: Philosopher 1
+- Johann_Gottlieb_Fichte: 1 (accurately placed)
+- Immanuel_Kant: 1 (accurately placed)
+- Georg_Wilhelm_Friedrich_Hegel: 1 (accurately placed)
+- Friedrich_Wilhelm_Joseph_Schelling: 1 (accurately placed)
+
+Cluster: Politician 1
+- Friedrich_Ebert: 1 (accurately placed)
+- Olaf_Scholz: 1 (accurately placed)
+- Angela_Merkel: 1 (accurately placed)
+- Frank-Walter_Steinmeier: 1 (accurately placed)
+
+Cluster: Composer 1
+- George_Frideric_Handel: 1 (accurately placed)
+- Johann_Sebastian_Bach: 1 (accurately placed)
+- Dieterich_Buxtehude: 1 (accurately placed)
+
+Cluster: DJ 1
+- Robin_Schulz: 1 (accurately placed)
+- Paul_Kalkbrenner: 1 (accurately placed)
+- Paul_van_Dyk: 1 (accurately placed)
+
+Cluster: Painter 1
+- Carl_Spitzweg: 1 (accurately placed)
+- Caspar_David_Friedrich: 1 (accurately placed)
+- Max_Liebermann: 1 (accurately placed)
+
+Cluster: King 1
+- Charles_VI_of_France: 1 (accurately placed)
+- Francis_I_of_France: 1 (accurately placed)
+
+Cluster: Dynasty 1
+- Hohenstaufen: 1 (accurately placed)
+- Salian_dynasty: 1 (accurately placed)
+
+Cluster: Company 1
+- Robert_Bosch_GmbH: 0
+- ProSiebenSat.1_Media: 0
+- BBC: 0
+- Allianz: 0
+- Mercedes-Benz: 1 (accurately placed)
+- BMW: 1 (accurately placed)
+- Opel: 1 (accurately placed)
+- Adidas: 1 (accurately placed)
+- Audi: 1 (accurately placed)
+- Porsche: 1 (accurately placed)
+- Deutsche_Telekom: 1 (accurately placed)
+- Volkswagen: 1 (accurately placed)
+- Hugo_Boss: 1 (accurately placed)
+- Bertelsmann: 1 (accurately placed)
+
+Cluster: Union 1
+- Max_Planck_Society: 1 (accurately placed)
+- Leibniz_Association: 1 (accurately placed)
+
+Cluster: Part 1
+- Joint_Medical_Service_(Germany): 1 (accurately placed)
+- Joint_Support_Service_(Germany): 1 (accurately placed)
+
+Cluster: Subcontinent 1
+- West_Africa: 1 (accurately placed)
+- East_Africa: 1 (accurately placed)
+
+Cluster: Term 2
+- Western_Pomerania: 1 (accurately placed)
+- Rhineland: 1 (accurately placed)
+- Swabia: 1 (accurately placed)
+
+Cluster: Group 2
+- Herero_people: 1 (accurately placed)
+- Nama_people: 1 (accurately placed)
+
+Cluster: Group 3
+- Sorbs: 1 (accurately placed)
+- Frisians: 1 (accurately placed)
+
+Cluster: Roman 1
+- Roman_province: 1 (accurately placed)
+- Germania: 1 (accurately placed)

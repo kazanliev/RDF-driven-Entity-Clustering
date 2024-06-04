@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Berlin> <twinned administrative body> <Los Angeles> .
+<http://dbpedia.org/resource/Los_Angeles> <twinned administrative body> <Berlin> .

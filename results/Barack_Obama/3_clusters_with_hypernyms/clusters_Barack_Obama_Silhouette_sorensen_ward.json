@@ -1,0 +1,441 @@
+{
+    "1": {
+        "Maya_Soetoro-Ng": "Maternal",
+        "Edward_Snowden": "Employee",
+        "Lolo_Soetoro": "Not found",
+        "Barack_Obama_Sr.": "Not found",
+        "Sheila_Miyoshi_Jager": "Not found",
+        "George_Zimmerman": "American",
+        "Laurence_Tribe": "Professor",
+        "Jeremiah_Wright": "Not found",
+        "Jeffrey_Goldberg": "Journalist"
+    },
+    "2": {
+        "Anwar_al-Awlaki": "American",
+        "Osama_bin_Laden": "Founder"
+    },
+    "3": {
+        "Bruce_Springsteen": "Musician",
+        "Pope_Francis": "Pope"
+    },
+    "4": {
+        "Stanley_Armour_Dunham": "Grandfather",
+        "Ann_Dunham": "Mother",
+        "Madelyn_Dunham": "Grandmother"
+    },
+    "5": {
+        "Tony_Rezko": "Businessman",
+        "Gautama_Buddha": "Not found"
+    },
+    "6": {
+        "HIV": "Not found"
+    },
+    "7": {
+        "Barack_Obama": "Politician",
+        "John_McCain": "Not found",
+        "Tim_Kaine": "Not found",
+        "Joe_Biden": "Not found",
+        "Jimmy_Carter": "Not found",
+        "Sarah_Palin": "Politician",
+        "Bill_Clinton": "Politician",
+        "Mitt_Romney": "Businessman",
+        "Dick_Cheney": "Not found",
+        "Calvin_Coolidge": "Not found",
+        "Hillary_Clinton": "Not found",
+        "Donald_Trump": "Not found"
+    },
+    "8": {
+        "Muammar_Gaddafi": "Not found",
+        "Nelson_Mandela": "Revolutionary",
+        "Margaret_Thatcher": "Not found"
+    },
+    "9": {
+        "Jefferson_Davis": "Not found",
+        "Benjamin_Franklin": "Not found",
+        "Ronald_Reagan": "Politician",
+        "Robert_F._Kennedy": "Politician",
+        "Abraham_Lincoln": "President",
+        "Ted_Kennedy": "Not found",
+        "Dwight_D._Eisenhower": "Not found"
+    },
+    "10": {
+        "Anthony_Albanese": "Not found",
+        "Vladimir_Putin": "Not found",
+        "Dmitry_Medvedev": "Not found",
+        "David_Petraeus": "Officer",
+        "Benjamin_Netanyahu": "Not found",
+        "Mahmoud_Abbas": "Not found",
+        "Ra\u00fal_Castro": "Not found"
+    },
+    "11": {
+        "Paul_Ryan": "Speaker",
+        "Tom_Carper": "Not found",
+        "Elena_Kagan": "Justice",
+        "Alan_Keyes": "Activist",
+        "Michelle_Obama": "Lawyer",
+        "Ken_Salazar": "Not found",
+        "Sonia_Sotomayor": "Justice",
+        "Valerie_Jarrett": "Official",
+        "John_Paul_Stevens": "Justice",
+        "Leon_Panetta": "Not found",
+        "Alice_Palmer_(politician)": "Educator",
+        "Timothy_Geithner": "Maker",
+        "David_Souter": "Justice",
+        "Carol_Moseley_Braun": "Not found",
+        "Evan_Bayh": "Lawyer",
+        "Peter_Fitzgerald_(politician)": "United",
+        "Tom_Coburn": "Politician",
+        "Ben_Bernanke": "Not found"
+    },
+    "12": {
+        "United_Nations": "Organization",
+        "Arab_League": "Organization"
+    },
+    "13": {
+        "Egypt": "Country",
+        "Yemen": "Country",
+        "Kenya": "Country",
+        "Indonesia": "Country",
+        "Australia": "Country",
+        "Ethiopia": "State",
+        "Cuba": "State",
+        "Libya": "Country",
+        "Somalia": "Country",
+        "Syria": "Country",
+        "Palestinian_National_Authority": "Body",
+        "France": "State",
+        "Iraq": "Country",
+        "Russia": "State",
+        "Pakistan": "Country",
+        "Israel": "State",
+        "Mexico": "Republic",
+        "Afghanistan": "Country",
+        "Iran": "State",
+        "Saudi_Arabia": "State",
+        "South_Africa": "State"
+    },
+    "14": {
+        "Hawaii": "Not found",
+        "Indiana": "State",
+        "Delaware": "States",
+        "Missouri": "State",
+        "Virginia": "State",
+        "Kansas": "State",
+        "Illinois": "State",
+        "Massachusetts": "Not found",
+        "Iowa": "State",
+        "Texas": "State",
+        "Alaska": "State",
+        "Colorado": "State"
+    },
+    "15": {
+        "Denver": "Capital",
+        "Wisconsin": "State",
+        "North_Carolina": "State"
+    },
+    "16": {
+        "Abbottabad": "City",
+        "Mosul": "City",
+        "Nairobi": "Capital",
+        "Jakarta": "Capital",
+        "Baghdad": "Capital",
+        "Vatican_City": "Enclave",
+        "Mexico_City": "Capital",
+        "Benghazi": "City",
+        "Havana": "City",
+        "Melbourne": "Capital"
+    },
+    "17": {
+        "New_York_City": "Not found",
+        "Los_Angeles": "City",
+        "Chicago": "Not found",
+        "Seattle": "City",
+        "Honolulu": "Capital",
+        "Johannesburg": "City",
+        "Islamabad": "City"
+    },
+    "18": {
+        "Central_Asia": "Region",
+        "Crimea": "Mass",
+        "Molokai": "Island"
+    },
+    "19": {
+        "Assisi": "Town",
+        "South_Jakarta": "City",
+        "Sinjar": "Town",
+        "Central_Jakarta": "Cities",
+        "Kalorama_(Washington,_D.C.)": "Not found",
+        "Sochi": "City",
+        "Times_Square": "Intersection",
+        "Menteng": "Subdistrict"
+    },
+    "20": {
+        "Punahou_School": "School",
+        "Calvert_School": "Not found",
+        "Harvard_Law_School": "Schools",
+        "Sidwell_Friends_School": "Not found"
+    },
+    "21": {
+        "Columbia_University": "League",
+        "Harvard_University": "University",
+        "Northwestern_University": "University",
+        "Cairo_University": "Egypt",
+        "Occidental_College": "College"
+    },
+    "22": {
+        "Citibank": "Division",
+        "New_York_Public_Interest_Research_Group": "York",
+        "Chrysler": "Manufacturer",
+        "Ancestry.com": "Not found",
+        "General_Motors": "Corporation",
+        "Invesco": "Company",
+        "Hobby_Lobby": "Chain",
+        "Sidley_Austin": "S"
+    },
+    "23": {
+        "Netflix": "Provider"
+    },
+    "24": {
+        "Brookings_Institution": "American",
+        "Pew_Research_Center": "American"
+    },
+    "25": {
+        "Norwegian_Nobel_Committee": "Not found",
+        "Fisher_House_Foundation": "Treatment",
+        "United_Nations_Security_Council": "Organs",
+        "Joyce_Foundation": "Foundation",
+        "Gamaliel_Foundation": "Not found",
+        "Developing_Communities_Project": "Faith"
+    },
+    "26": {
+        "82nd_Airborne_Division": "Division",
+        "United_States_Navy": "Branch"
+    },
+    "27": {
+        "Pittsburgh_Steelers": "Team",
+        "Chicago_White_Sox": "Team"
+    },
+    "28": {
+        "Illinois_Senate": "Chamber",
+        "United_States_Senate": "Chamber"
+    },
+    "29": {
+        "LibriVox": "Group",
+        "Project_Gutenberg": "Effort"
+    },
+    "30": {
+        "Al_Arabiya": "Not found",
+        "C-SPAN": "Cable"
+    },
+    "31": {
+        "United_States_Armed_Forces": "Forces",
+        "Rush_(band)": "Band"
+    },
+    "32": {
+        "National_Football_League": "League"
+    },
+    "33": {
+        "Federal_Reserve": "Not found"
+    },
+    "34": {
+        "Al-Qaeda": "Organization",
+        "Taliban": "Movement"
+    },
+    "35": {
+        "Hamas": "Organization",
+        "Hezbollah": "Shi",
+        "Australian_Labor_Party": "Party"
+    },
+    "36": {
+        "Audio_Publishers_Association": "Not found",
+        "Gallup_(company)": "Not found",
+        "Fiat_Automobiles": "Automaker",
+        "Business_International_Corporation": "Publishing",
+        "Protestantism": "Form"
+    },
+    "37": {
+        "National_Security_Agency": "Organization",
+        "Central_Intelligence_Agency": "Service",
+        "Congressional_Budget_Office": "Agency",
+        "Federal_Election_Commission": "Agency",
+        "NASA": "Agency"
+    },
+    "38": {
+        "United_States_Secret_Service": "Agency",
+        "Drug_Enforcement_Administration": "United"
+    },
+    "39": {
+        "United_States_Senate_Committee_on_Foreign_Relations": "Committee"
+    },
+    "40": {
+        "Medicaid": "Program",
+        "Medicare_Advantage": "United"
+    },
+    "41": {
+        "Courage": "Choice"
+    },
+    "42": {
+        "United_Nations_Security_Council_Resolution_2334": "Not found"
+    },
+    "43": {
+        "Equal_Credit_Opportunity_Act": "United"
+    },
+    "44": {
+        "Diplomatic_mission": "Group",
+        "Islamic_State_of_Iraq_and_the_Levant": "Group"
+    },
+    "45": {
+        "Race_and_ethnicity_in_the_United_States_Census": "Items",
+        "Secure_Communities": "Not found",
+        "Jack_Ryan": "Not found",
+        "Sana\u02bda": "Not found",
+        "Coronavirus_disease_2019": "Not found"
+    },
+    "46": {
+        "Project_Cassandra": "Not found"
+    },
+    "47": {
+        "Chicago_Tribune": "Newspaper",
+        "The_New_York_Times": "Newspaper",
+        "The_New_York_Times_International_Edition": "Not found"
+    },
+    "48": {
+        "Time_(magazine)": "Magazine",
+        "Harvard_Law_Review": "Review",
+        "Money_(magazine)": "Magazine"
+    },
+    "49": {
+        "Promised_Land": "Land",
+        "Arctic": "Region",
+        "East_Jerusalem": "Sector"
+    },
+    "50": {
+        "McCormick_Place": "Center",
+        "Camp_David": "Retreat",
+        "Macondo_Prospect": "Oil"
+    },
+    "51": {
+        "Somerville_station": "Not found",
+        "West_Pullman_station": "Station"
+    },
+    "52": {
+        "The_Pentagon": "Headquarters",
+        "White_House": "Residence"
+    },
+    "53": {
+        "Barack_Obama_Presidential_Center": "Library",
+        "Altgeld_Gardens_Homes": "Not found"
+    },
+    "54": {
+        "Shooting_of_Michael_Brown": "Not found"
+    },
+    "55": {
+        "Civil_Rights_Act_of_1968": "Not found",
+        "Don't_Ask,_Don't_Tell_Repeal_Act_of_2010": "United",
+        "Antiquities_Act": "Act",
+        "Religious_Freedom_Restoration_Act": "Not found"
+    },
+    "56": {
+        "Operation_Unified_Protector": "Operation",
+        "Battle_of_Shiloh": "Battle",
+        "American_Civil_War": "War"
+    },
+    "57": {
+        "Iraq_War": "Conflict",
+        "World_War_II": "War"
+    },
+    "58": {
+        "The_Holocaust": "Genocide",
+        "Sandy_Hook_Elementary_School_shooting": "Not found"
+    },
+    "59": {
+        "Arab_Spring": "Wave",
+        "Syrian_Civil_War": "Not found"
+    },
+    "60": {
+        "Great_Recession": "Period",
+        "Great_Depression": "Depression"
+    },
+    "61": {
+        "Zionism": "Movement"
+    },
+    "62": {
+        "Surveillance_court": "Branch"
+    },
+    "63": {
+        "Keystone_Pipeline": "System",
+        "NJPW_The_New_Beginning": "Event"
+    },
+    "64": {
+        "Julian_calendar": "Reform"
+    },
+    "65": {
+        "Grammy_Award_for_Best_Spoken_Word_Album": "Not found",
+        "Emmy_Award": "Not found"
+    },
+    "66": {
+        "Nobel_Peace_Prize": "Nobel",
+        "Nobel_Prize": "Set",
+        "Academy_Awards": "Ceremony"
+    },
+    "67": {
+        "Palestinians": "Group",
+        "Luo_people": "Not found"
+    },
+    "68": {
+        "START_I": "Treaty",
+        "Trans-Pacific_Partnership": "Agreement"
+    },
+    "69": {
+        "NATO": "Alliance"
+    },
+    "70": {
+        "LGBT": "Initialism"
+    },
+    "71": {
+        "Iron_Dome": "System",
+        "Democratic_National_Convention": "Series"
+    },
+    "72": {
+        "International_Space_Station": "Station"
+    },
+    "73": {
+        "Mars": "Planet"
+    },
+    "74": {
+        "Wailuku_River": "Course"
+    },
+    "75": {
+        "HuffPost": "Not found"
+    },
+    "76": {
+        "Obama_Foundation": "Not found"
+    },
+    "77": {
+        "18_Months": "Album"
+    },
+    "78": {
+        "American_Factory": "Not found"
+    },
+    "79": {
+        "Obergefell_v._Hodges": "Not found"
+    },
+    "80": {
+        "Hurricane_Harvey": "Not found",
+        "Hurricane_Irma": "Not found"
+    },
+    "81": {
+        "Super_Bowl_XLIII": "Game",
+        "1985_Chicago_Bears_season": "Not found"
+    },
+    "82": {
+        "2014_Winter_Olympics": "Event",
+        "Super_Bowl": "Game"
+    },
+    "83": {
+        "Cuban_thaw": "Not found"
+    },
+    "84": {
+        "Space_Shuttle": "Not found"
+    }
+}

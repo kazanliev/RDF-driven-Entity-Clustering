@@ -1,0 +1,533 @@
+{
+    "1": [
+        "Robert_Bosch_GmbH",
+        "ProSiebenSat.1_Media",
+        "BBC",
+        "Siemens",
+        "Allianz",
+        "Mercedes-Benz",
+        "BMW",
+        "Opel",
+        "Adidas",
+        "Audi",
+        "Porsche",
+        "BBC_News",
+        "Deutsche_Telekom",
+        "Volkswagen",
+        "Hugo_Boss",
+        "Bertelsmann"
+    ],
+    "2": [
+        "Kraftwerk"
+    ],
+    "3": [
+        "Deutsche_Welle"
+    ],
+    "4": [
+        "Hohenstaufen",
+        "House_of_Habsburg",
+        "Salian_dynasty"
+    ],
+    "5": [
+        "Fraunhofer_Society",
+        "Stockholm_International_Peace_Research_Institute",
+        "Bundesliga",
+        "Max_Planck_Society",
+        "Leibniz_Association"
+    ],
+    "6": [
+        "Luftwaffe",
+        "Joint_Medical_Service_(Germany)",
+        "United_States_Navy",
+        "Bundeswehr",
+        "Joint_Support_Service_(Germany)"
+    ],
+    "7": [
+        "Stasi"
+    ],
+    "8": [
+        "Free_Democratic_Party_of_Switzerland",
+        "Socialist_Unity_Party_of_Germany",
+        "Nazi_Party",
+        "Social_Democratic_Party_of_Germany"
+    ],
+    "9": [
+        "G20",
+        "OECD",
+        "UNESCO",
+        "FIFA",
+        "ADAC",
+        "European_Film_Academy"
+    ],
+    "10": [
+        "Paris_Agreement"
+    ],
+    "11": [
+        "Neanderthal"
+    ],
+    "12": [
+        "Brick_Gothic"
+    ],
+    "13": [
+        "Autobahn"
+    ],
+    "14": [
+        "Volksmusik",
+        "Tr\u00fcmmerfilm",
+        "Race_and_ethnicity_in_the_United_States_Census"
+    ],
+    "15": [
+        "Reformation"
+    ],
+    "16": [
+        "Art_Deco"
+    ],
+    "17": [
+        "Evangelicalism"
+    ],
+    "18": [
+        "LGBT"
+    ],
+    "19": [
+        "World_War_I",
+        "World_War_II"
+    ],
+    "20": [
+        "French_Revolutionary_Wars",
+        "Cologne_War",
+        "Napoleonic_Wars",
+        "Austro-Prussian_War",
+        "Franco-Prussian_War"
+    ],
+    "21": [
+        "German_Unity_Day",
+        "Oktoberfest"
+    ],
+    "22": [
+        "Berlin_International_Film_Festival"
+    ],
+    "23": [
+        "Lower_Paleolithic"
+    ],
+    "24": [
+        "The_Tin_Drum"
+    ],
+    "25": [
+        "Taliban"
+    ],
+    "26": [
+        "Kristallnacht",
+        "The_Holocaust"
+    ],
+    "27": [
+        "UEFA_European_Championship",
+        "Olympic_Games"
+    ],
+    "28": [
+        "Berlin_Fashion_Week"
+    ],
+    "29": [
+        "Peaceful_Revolution",
+        "German_Revolution_of_1918\u201319"
+    ],
+    "30": [
+        "Golden_Twenties",
+        "Wirtschaftswunder"
+    ],
+    "31": [
+        "Great_Depression"
+    ],
+    "32": [
+        "Eastern_Bloc",
+        "Frankfurt_School",
+        "Fortune_Global_500"
+    ],
+    "33": [
+        "Catholic_Church",
+        "Protestantism"
+    ],
+    "34": [
+        "German_Football_Association",
+        "World_Bank",
+        "European_Central_Bank",
+        "European_Space_Agency",
+        "Deutscher_Werkbund"
+    ],
+    "35": [
+        "National_Diet",
+        "Bundestag",
+        "Bundesrat_of_Germany"
+    ],
+    "36": [
+        "Gamescom",
+        "Frankfurt_Book_Fair",
+        "Leipzig_Book_Fair"
+    ],
+    "37": [
+        "Heidelberg_University",
+        "Leipzig_University"
+    ],
+    "38": [
+        "Babelsberg_Studio",
+        "Eurostat",
+        "European_Commission",
+        "Cambridge_University_Press",
+        "Frankfurt_Stock_Exchange"
+    ],
+    "39": [
+        "Renaissance",
+        "New_Objectivity",
+        "Heimatfilm",
+        "Weser_Renaissance",
+        "Romanesque_architecture",
+        "Gr\u00fcnderzeit"
+    ],
+    "40": [
+        "Neue_Deutsche_Welle"
+    ],
+    "41": [
+        "Nuremberg_Laws"
+    ],
+    "42": [
+        "Judaism",
+        "Alevism"
+    ],
+    "43": [
+        "Atlanticism"
+    ],
+    "44": [
+        "Abitur"
+    ],
+    "45": [
+        "Herero_people",
+        "Sorbs",
+        "Sinti",
+        "Belarusians",
+        "Frisians",
+        "Nama_people"
+    ],
+    "46": [
+        "Proto-Germanic_language",
+        "Proto-Indo-European_language"
+    ],
+    "47": [
+        "Bronze_Age"
+    ],
+    "48": [
+        "New_Leipzig_School",
+        "Die_Br\u00fccke",
+        "Der_Blaue_Reiter"
+    ],
+    "49": [
+        "Nordic_Bronze_Age"
+    ],
+    "50": [
+        "Teutons"
+    ],
+    "51": [
+        "World_Health_Organization",
+        "International_Monetary_Fund"
+    ],
+    "52": [
+        "NATO",
+        "Warsaw_Pact"
+    ],
+    "53": [
+        "Zollverein",
+        "German_Confederation",
+        "North_German_Confederation_Treaty"
+    ],
+    "54": [
+        "Berlin_Conference",
+        "Munich_Agreement"
+    ],
+    "55": [
+        "Treaty_of_Lisbon",
+        "Maastricht_Treaty"
+    ],
+    "56": [
+        "Weimar_Constitution"
+    ],
+    "57": [
+        "Serbo-Croatian",
+        "Arabic",
+        "North_Frisian_language"
+    ],
+    "58": [
+        "Academy_Awards",
+        "Pritzker_Architecture_Prize",
+        "European_Film_Awards",
+        "Deutscher_Filmpreis"
+    ],
+    "59": [
+        "Bible"
+    ],
+    "60": [
+        "West_Germany",
+        "North_German_Confederation",
+        "Kamerun",
+        "East_Germany",
+        "East_Berlin",
+        "Czechoslovakia",
+        "Nazi_Germany",
+        "Togoland",
+        "Austria-Hungary",
+        "Roman_Empire",
+        "Weimar_Republic",
+        "South_West_Africa",
+        "European_Economic_Community",
+        "Holy_Roman_Empire",
+        "East_Francia"
+    ],
+    "61": [
+        "Hanseatic_League",
+        "United_Nations",
+        "Scandinavia"
+    ],
+    "62": [
+        "Federal_Social_Court",
+        "Federal_Constitutional_Court",
+        "Federal_Fiscal_Court",
+        "Federal_Labour_Court",
+        "Federal_Administrative_Court_(Germany)"
+    ],
+    "63": [
+        "Baltic_Sea",
+        "North_Sea"
+    ],
+    "64": [
+        "Rhine"
+    ],
+    "65": [
+        "Berlin_Wall",
+        "Neuschwanstein_Castle",
+        "Berlin_Zoological_Garden",
+        "Sanssouci",
+        "World_Heritage_Site"
+    ],
+    "66": [
+        "Munich_Airport",
+        "Frankfurt_Airport",
+        "Berlin_Brandenburg_Airport"
+    ],
+    "67": [
+        "Heidelberg_Castle",
+        "Wartburg",
+        "Reichstag_building"
+    ],
+    "68": [
+        "Dresden_Frauenkirche",
+        "Cologne_Cathedral"
+    ],
+    "69": [
+        "Rostock",
+        "Vienna",
+        "Nuremberg",
+        "Freiburg_im_Breisgau",
+        "Munich",
+        "Frankfurt",
+        "Hamburg",
+        "Berlin",
+        "Potsdam",
+        "Ruhr",
+        "Augsburg",
+        "Rome",
+        "Bonn",
+        "Aachen",
+        "Garmisch-Partenkirchen"
+    ],
+    "70": [
+        "West_Africa",
+        "Sudetenland",
+        "Roman_province",
+        "Western_Pomerania",
+        "Germania",
+        "Rhineland",
+        "Swabia",
+        "East_Africa"
+    ],
+    "71": [
+        "Harz",
+        "Alps",
+        "Southern_Alps"
+    ],
+    "72": [
+        "Saxon_Switzerland_National_Park",
+        "Hainich_National_Park",
+        "Wadden_Sea",
+        "Berchtesgaden_National_Park",
+        "M\u00fcritz_National_Park",
+        "Bavarian_Forest_National_Park"
+    ],
+    "73": [
+        "Neuendorf-Sachsenbande",
+        "Saterland",
+        "Nebra_(Unstrut)",
+        "Balkans",
+        "Jasmund"
+    ],
+    "74": [
+        "France",
+        "Norway",
+        "Turkey",
+        "Kosovo",
+        "Austria",
+        "Greece",
+        "Hungary",
+        "Ukraine",
+        "Switzerland",
+        "Denmark",
+        "Serbia",
+        "Belgium",
+        "Afghanistan",
+        "Czech_Republic",
+        "Luxembourg",
+        "Russia",
+        "Netherlands",
+        "Namibia",
+        "China"
+    ],
+    "75": [
+        "Baden-W\u00fcrttemberg",
+        "Westphalia",
+        "Saarland",
+        "Hesse",
+        "Saxony",
+        "Lusatia",
+        "Lower_Saxony",
+        "Brandenburg",
+        "Bavaria",
+        "Schleswig-Holstein"
+    ],
+    "76": [
+        "Felix_Mendelssohn",
+        "Ludwig_van_Beethoven",
+        "Richard_Wagner",
+        "Richard_Strauss",
+        "Robert_Schumann",
+        "Carl_Maria_von_Weber"
+    ],
+    "77": [
+        "Karlheinz_Stockhausen"
+    ],
+    "78": [
+        "Hans_Holbein_the_Younger",
+        "Johann_Baptist_Zimmermann"
+    ],
+    "79": [
+        "Cold_War"
+    ],
+    "80": [
+        "Carolingian_dynasty",
+        "King_Arthur"
+    ],
+    "81": [
+        "Wolfram_von_Eschenbach"
+    ],
+    "82": [
+        "Heinrich_Br\u00fcning",
+        "Friedrich_Ebert",
+        "Konrad_Adenauer",
+        "Olaf_Scholz",
+        "Angela_Merkel",
+        "Adolf_Hitler",
+        "Willy_Brandt",
+        "Frank-Walter_Steinmeier"
+    ],
+    "83": [
+        "Otto_von_Bismarck",
+        "Napoleon",
+        "Klemens_von_Metternich",
+        "Wilhelm_II,_German_Emperor",
+        "Charlemagne",
+        "Charles_VI_of_France",
+        "Maria_Theresa",
+        "Francis_I_of_France",
+        "Frederick_William_IV_of_Prussia"
+    ],
+    "84": [
+        "Oswald_Spengler",
+        "Friedrich_Nietzsche",
+        "Johann_Gottlieb_Fichte",
+        "Immanuel_Kant",
+        "Georg_Wilhelm_Friedrich_Hegel",
+        "Friedrich_Engels",
+        "Friedrich_Wilhelm_Joseph_Schelling",
+        "Martin_Heidegger",
+        "Karl_Marx"
+    ],
+    "85": [
+        "Gottlob_Frege"
+    ],
+    "86": [
+        "Augustus",
+        "Julius_Caesar",
+        "Tacitus"
+    ],
+    "87": [
+        "Gotthold_Ephraim_Lessing",
+        "G\u00fcnter_Grass",
+        "Heinrich_B\u00f6ll",
+        "Thomas_Mann",
+        "Friedrich_Schiller",
+        "Gerhart_Hauptmann",
+        "Johann_Wolfgang_von_Goethe"
+    ],
+    "88": [
+        "Ludwig_Mies_van_der_Rohe",
+        "Walter_Gropius"
+    ],
+    "89": [
+        "Hermann_von_Helmholtz"
+    ],
+    "90": [
+        "Hermann_Muthesius",
+        "Johannes_Gutenberg",
+        "Fritz_Lang",
+        "Gottfried_B\u00f6hm",
+        "Wim_Wenders",
+        "Robin_Schulz",
+        "Paul_Kalkbrenner",
+        "Wolfgang_Rihm",
+        "Robert_Wiene",
+        "Werner_Herzog",
+        "F._W._Murnau",
+        "Paul_van_Dyk",
+        "Volker_Schl\u00f6ndorff"
+    ],
+    "91": [
+        "George_Frideric_Handel",
+        "Johann_Sebastian_Bach",
+        "Dieterich_Buxtehude"
+    ],
+    "92": [
+        "Albrecht_D\u00fcrer",
+        "Max_Ernst",
+        "Carl_Spitzweg",
+        "Caspar_David_Friedrich",
+        "Max_Liebermann"
+    ],
+    "93": [
+        "Deutsches_W\u00f6rterbuch",
+        "The_World_Factbook"
+    ],
+    "94": [
+        "Michelin_Guide"
+    ],
+    "95": [
+        "Der_Spiegel"
+    ],
+    "96": [
+        "Venus"
+    ],
+    "97": [
+        "Sebastian_Vettel",
+        "Michael_Schumacher"
+    ],
+    "98": [
+        "Brothers_Grimm"
+    ],
+    "99": [
+        "Tangerine"
+    ]
+}

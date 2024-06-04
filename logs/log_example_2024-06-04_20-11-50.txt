@@ -1,0 +1,32 @@
+2024-06-04 20:11:50,901 - Pipeline started at 2024-06-04 20:11:50
+2024-06-04 20:11:50,901 - INPUT TEXT: input/example
+2024-06-04 20:11:51,098 - Text partitioning done
+2024-06-04 20:11:51,098 - REBEL triples extraction for input/example started at 2024-06-04 20:11:51
+2024-06-04 20:12:03,403 - REBEL triples extraction for input/example ended at 2024-06-04 20:12:03
+2024-06-04 20:12:03,403 - REBEL triples extraction for input/example took 12.304845 seconds
+2024-06-04 20:12:03,403 - REBEL triples linking subjects to DBpedia URIs  for input/example started at 2024-06-04 20:12:03
+2024-06-04 20:12:04,322 - REBEL triples linking subjects to DBpedia URIs  for input/example ended at 2024-06-04 20:12:04
+2024-06-04 20:12:04,322 - REBEL triples linking subjects to DBpedia URIs  for input/example took 0.918152 seconds
+2024-06-04 20:12:04,322 - SpaCy entity extraction and mapping to DBpedia URIs for input/example started at 2024-06-04 20:12:04
+2024-06-04 20:12:04,804 - SpaCy entity extraction and mapping to DBpedia URIs for input/example ended at 2024-06-04 20:12:04
+2024-06-04 20:12:04,804 - SpaCy entity extraction and mapping to DBpedia URIs for input/example took 0.481629 seconds
+2024-06-04 20:12:04,805 - DBpedia property extraction for extracted entities for input/example started at 2024-06-04 20:12:04
+2024-06-04 20:12:06,654 - DBpedia property extraction for extracted entities for input/example ended at 2024-06-04 20:12:06
+2024-06-04 20:12:06,654 - DBpedia property extraction for extracted entities for input/example took 1.848773 seconds
+2024-06-04 20:12:06,748 - Removed triples containing forbidden properties
+2024-06-04 20:12:06,759 - Combined REBEL Triples and DBpedia triples done
+2024-06-04 20:12:06,839 - Saved URIs for all extracted entities
+2024-06-04 20:12:06,839 - Creating hypernym dictionary for input/example started at 2024-06-04 20:12:06
+2024-06-04 20:12:07,467 - Creating hypernym dictionary for input/example ended at 2024-06-04 20:12:07
+2024-06-04 20:12:07,467 - Creating hypernym dictionary for input/example took 0.62763 seconds
+2024-06-04 20:12:07,468 - Hierarchical clusterings for input/example started at 2024-06-04 20:12:07
+2024-06-04 20:12:15,794 - Hierarchical clusterings for input/example ended at 2024-06-04 20:12:15
+2024-06-04 20:12:15,794 - Hierarchical clusterings for input/example took 8.325737 seconds
+2024-06-04 20:12:15,794 - Adding hypernyms to clusters for input/example started at 2024-06-04 20:12:15
+2024-06-04 20:12:15,856 - Adding hypernyms to clusters for input/example ended at 2024-06-04 20:12:15
+2024-06-04 20:12:15,856 - Adding hypernyms to clusters for input/example took 0.061511 seconds
+2024-06-04 20:12:16,077 - Label clusters based on hypernyms done
+2024-06-04 20:12:16,078 - Statistics extracted
+2024-06-04 20:12:16,127 - Adding rdf:type and dcterms:subject values done
+2024-06-04 20:12:16,127 - Pipeline ended at 2024-06-04 20:12:16
+2024-06-04 20:12:16,127 - Total execution time 25.226737 seconds

@@ -1,0 +1,477 @@
+Summary of Clustering Evaluation
+
+Total number of clusters: 96
+Number of evaluated clusters: 63
+Number of excluded (one-element) clusters: 33
+Number of entities in the evaluated clusters: 300
+Number of accurately placed entities in the evaluated clusters: 251
+Number of accurate clusters in the evaluated clusters: 61
+
+
+Coherence Measure: 0.8812164466926372
+Precision Measure: 0.8366666666666667
+Coherent Clusters Measure: 0.9682539682539683
+Precision Measure x (Evaluated clusters/Clusters): 0.5490625
+
+Ignored clusters:
+- River 1
+- Planet 1
+- Composer 3
+- Philosopher 2
+- Magazine 1
+- Style 1
+- State 2
+- Knight 1
+- Species 1
+- Ceremony 2
+- Novel 1
+- Constitution 1
+- Collection 1
+- Academics 1
+- Fruit 1
+- Band 1
+- Germany 1
+- Service 1
+- Worldwide 1
+- Initialism 1
+- System 1
+- Period 1
+- Tribe 1
+- Subdivision 1
+- Period 2
+- Laws 1
+- Belief 1
+- Designation 2
+- Movement 1
+- Week 1
+- Depression 1
+- World 2
+- Agreement 2
+
+Evaluated Clusters:
+
+Cluster: City 1
+- Rostock: 1 (accurately placed)
+- Vienna: 1 (accurately placed)
+- Nuremberg: 1 (accurately placed)
+- Freiburg_im_Breisgau: 1 (accurately placed)
+- Munich: 1 (accurately placed)
+- Frankfurt: 1 (accurately placed)
+- Hamburg: 1 (accurately placed)
+- Berlin: 1 (accurately placed)
+- Potsdam: 1 (accurately placed)
+- Ruhr: 1 (accurately placed)
+- Augsburg: 1 (accurately placed)
+- Rome: 1 (accurately placed)
+- Bonn: 1 (accurately placed)
+- Aachen: 1 (accurately placed)
+- Garmisch-Partenkirchen: 1 (accurately placed)
+
+Cluster: State 1
+- Baden-Württemberg: 1 (accurately placed)
+- Saarland: 1 (accurately placed)
+- Hesse: 1 (accurately placed)
+- Saxony: 1 (accurately placed)
+- Lower_Saxony: 1 (accurately placed)
+- Brandenburg: 1 (accurately placed)
+- Bavaria: 1 (accurately placed)
+- Schleswig-Holstein: 1 (accurately placed)
+
+Cluster: Country 1
+- France: 1 (accurately placed)
+- Norway: 1 (accurately placed)
+- Turkey: 1 (accurately placed)
+- Kosovo: 1 (accurately placed)
+- Austria: 1 (accurately placed)
+- Greece: 1 (accurately placed)
+- Hungary: 1 (accurately placed)
+- Ukraine: 1 (accurately placed)
+- Switzerland: 1 (accurately placed)
+- Denmark: 1 (accurately placed)
+- Serbia: 1 (accurately placed)
+- Belgium: 1 (accurately placed)
+- Afghanistan: 1 (accurately placed)
+- Czech_Republic: 1 (accurately placed)
+- Luxembourg: 1 (accurately placed)
+- Russia: 1 (accurately placed)
+- Netherlands: 1 (accurately placed)
+- Namibia: 1 (accurately placed)
+- China: 1 (accurately placed)
+
+Cluster: Region 1
+- Westphalia: 1 (accurately placed)
+- Lusatia: 1 (accurately placed)
+- Scandinavia: 0
+
+Cluster: Name 1
+- West_Africa: 0
+- Sudetenland: 0
+- Roman_province: 0
+- Western_Pomerania: 0
+- Germania: 1 (accurately placed)
+- Rhineland: 1 (accurately placed)
+- Swabia: 1 (accurately placed)
+- East_Africa: 1 (accurately placed)
+
+Cluster: Airport 1
+- Munich_Airport: 1 (accurately placed)
+- Frankfurt_Airport: 1 (accurately placed)
+- Berlin_Brandenburg_Airport: 1 (accurately placed)
+
+Cluster: Palace 1
+- Berlin_Wall: 0
+- Neuschwanstein_Castle: 1 (accurately placed)
+- Sanssouci: 1 (accurately placed)
+
+Cluster: Castle 1
+- Heidelberg_Castle: 1 (accurately placed)
+- Wartburg: 1 (accurately placed)
+- Cologne_Cathedral: 1 (accurately placed)
+- Reichstag_building: 1 (accurately placed)
+
+Cluster: Sea 1
+- Baltic_Sea: 1 (accurately placed)
+- North_Sea: 1 (accurately placed)
+
+Cluster: Range 1
+- Harz: 1 (accurately placed)
+- Alps: 1 (accurately placed)
+- Southern_Alps: 1 (accurately placed)
+
+Cluster: Peninsula 1
+- Balkans: 1 (accurately placed)
+- Jasmund: 1 (accurately placed)
+
+Cluster: Park 1
+- Neuendorf-Sachsenbande: 0
+- Saterland: 0
+- Nebra_(Unstrut): 0
+- Saxon_Switzerland_National_Park: 0
+- Hainich_National_Park: 1 (accurately placed)
+- Wadden_Sea: 1 (accurately placed)
+- Berchtesgaden_National_Park: 1 (accurately placed)
+- Müritz_National_Park: 1 (accurately placed)
+- Bavarian_Forest_National_Park: 1 (accurately placed)
+
+Cluster: Composer 1
+- George_Frideric_Handel: 1 (accurately placed)
+- Johann_Sebastian_Bach: 1 (accurately placed)
+- Ludwig_van_Beethoven: 1 (accurately placed)
+- Richard_Strauss: 1 (accurately placed)
+- Robert_Schumann: 1 (accurately placed)
+- Dieterich_Buxtehude: 1 (accurately placed)
+
+Cluster: Composer 2
+- Felix_Mendelssohn: 1 (accurately placed)
+- Richard_Wagner: 1 (accurately placed)
+- Carl_Maria_von_Weber: 1 (accurately placed)
+
+Cluster: Politician 1
+- Heinrich_Brüning: 1 (accurately placed)
+- Friedrich_Ebert: 1 (accurately placed)
+- Konrad_Adenauer: 1 (accurately placed)
+- Olaf_Scholz: 1 (accurately placed)
+- Angela_Merkel: 1 (accurately placed)
+- Adolf_Hitler: 1 (accurately placed)
+- Willy_Brandt: 1 (accurately placed)
+- Frank-Walter_Steinmeier: 1 (accurately placed)
+
+Cluster: King 1
+- Otto_von_Bismarck: 1 (accurately placed)
+- Napoleon: 1 (accurately placed)
+- Klemens_von_Metternich: 1 (accurately placed)
+- Wilhelm_II,_German_Emperor: 1 (accurately placed)
+- Charlemagne: 1 (accurately placed)
+- Charles_VI_of_France: 1 (accurately placed)
+- Maria_Theresa: 1 (accurately placed)
+- Francis_I_of_France: 1 (accurately placed)
+- Frederick_William_IV_of_Prussia: 1 (accurately placed)
+
+Cluster: Founder 1
+- Augustus: 1 (accurately placed)
+- Julius_Caesar: 1 (accurately placed)
+- Tacitus: 1 (accurately placed)
+
+Cluster: Director 1
+- Hermann_Muthesius: 0
+- Johannes_Gutenberg: 0
+- Fritz_Lang: 0
+- Gottfried_Böhm: 0
+- Wim_Wenders: 0
+- Robin_Schulz: 0
+- Paul_Kalkbrenner: 1 (accurately placed)
+- Wolfgang_Rihm: 1 (accurately placed)
+- Robert_Wiene: 1 (accurately placed)
+- Werner_Herzog: 1 (accurately placed)
+- F._W._Murnau: 1 (accurately placed)
+- Paul_van_Dyk: 1 (accurately placed)
+- Volker_Schlöndorff: 1 (accurately placed)
+
+Cluster: Novelist 1
+- Günter_Grass: 1 (accurately placed)
+- Heinrich_Böll: 1 (accurately placed)
+- Thomas_Mann: 1 (accurately placed)
+- Gerhart_Hauptmann: 1 (accurately placed)
+
+Cluster: Painter 1
+- Albrecht_Dürer: 1 (accurately placed)
+- Max_Ernst: 1 (accurately placed)
+- Carl_Spitzweg: 1 (accurately placed)
+- Caspar_David_Friedrich: 1 (accurately placed)
+- Max_Liebermann: 1 (accurately placed)
+
+Cluster: Architect 1
+- Ludwig_Mies_van_der_Rohe: 1 (accurately placed)
+- Walter_Gropius: 1 (accurately placed)
+
+Cluster: Writer 1
+- Gotthold_Ephraim_Lessing: 0
+- Friedrich_Schiller: 1 (accurately placed)
+- Johann_Wolfgang_von_Goethe: 1 (accurately placed)
+- Hermann_von_Helmholtz: 1 (accurately placed)
+
+Cluster: Philosopher 1
+- Oswald_Spengler: 1 (accurately placed)
+- Friedrich_Nietzsche: 1 (accurately placed)
+- Johann_Gottlieb_Fichte: 1 (accurately placed)
+- Immanuel_Kant: 1 (accurately placed)
+- Georg_Wilhelm_Friedrich_Hegel: 1 (accurately placed)
+- Friedrich_Engels: 1 (accurately placed)
+- Friedrich_Wilhelm_Joseph_Schelling: 1 (accurately placed)
+- Martin_Heidegger: 1 (accurately placed)
+- Karl_Marx: 1 (accurately placed)
+
+Cluster: Series 1
+- Michelin_Guide: 1 (accurately placed)
+- Deutsches_Wörterbuch: 0
+- The_World_Factbook: 1 (accurately placed)
+
+Cluster: Church 1
+- Dresden_Frauenkirche: 0
+- Berlin_Zoological_Garden: 1 (accurately placed)
+- World_Heritage_Site: 1 (accurately placed)
+
+Cluster: Artist 1
+- Hans_Holbein_the_Younger: 1 (accurately placed)
+- Johann_Baptist_Zimmermann: 1 (accurately placed)
+
+Cluster: Family 1
+- Carolingian_dynasty: 1 (accurately placed)
+- King_Arthur: 1 (accurately placed)
+
+Cluster: War 1
+- World_War_I: 1 (accurately placed)
+- World_War_II: 1 (accurately placed)
+
+Cluster: Series 2
+- French_Revolutionary_Wars: 1 (accurately placed)
+- Cologne_War: 1 (accurately placed)
+- Napoleonic_Wars: 1 (accurately placed)
+- Austro-Prussian_War: 1 (accurately placed)
+- Franco-Prussian_War: 1 (accurately placed)
+
+Cluster: Organization 1
+- World_Health_Organization: 1 (accurately placed)
+- International_Monetary_Fund: 1 (accurately placed)
+
+Cluster: Alliance 1
+- NATO: 1 (accurately placed)
+- Warsaw_Pact: 1 (accurately placed)
+
+Cluster: Treaty 1
+- Zollverein: 1 (accurately placed)
+- North_German_Confederation_Treaty: 1 (accurately placed)
+
+Cluster: Agreement 1
+- Treaty_of_Lisbon: 1 (accurately placed)
+- Maastricht_Treaty: 1 (accurately placed)
+
+Cluster: Settlement 1
+- Berlin_Conference: 1 (accurately placed)
+- Munich_Agreement: 1 (accurately placed)
+
+Cluster: Language 1
+- Serbo-Croatian: 1 (accurately placed)
+- Arabic: 1 (accurately placed)
+- North_Frisian_language: 1 (accurately placed)
+
+Cluster: Ceremony 1
+- Pritzker_Architecture_Prize: 1 (accurately placed)
+- European_Film_Awards: 1 (accurately placed)
+- Deutscher_Filmpreis: 1 (accurately placed)
+
+Cluster: Organization 2
+- Hanseatic_League: 1 (accurately placed)
+- United_Nations: 1 (accurately placed)
+
+Cluster: State 3
+- West_Germany: 0
+- North_German_Confederation: 0
+- Kamerun: 0
+- East_Germany: 0
+- East_Berlin: 0
+- Czechoslovakia: 1 (accurately placed)
+- Nazi_Germany: 1 (accurately placed)
+- Togoland: 1 (accurately placed)
+- Austria-Hungary: 1 (accurately placed)
+- German_Confederation: 1 (accurately placed)
+- Roman_Empire: 1 (accurately placed)
+- Weimar_Republic: 1 (accurately placed)
+- South_West_Africa: 1 (accurately placed)
+- European_Economic_Community: 1 (accurately placed)
+- Holy_Roman_Empire: 1 (accurately placed)
+- East_Francia: 1 (accurately placed)
+
+Cluster: Driver 1
+- Sebastian_Vettel: 1 (accurately placed)
+- Michael_Schumacher: 1 (accurately placed)
+
+Cluster: Company 1
+- Robert_Bosch_GmbH: 0
+- ProSiebenSat.1_Media: 0
+- BBC: 0
+- Siemens: 0
+- Allianz: 0
+- Mercedes-Benz: 1 (accurately placed)
+- BMW: 1 (accurately placed)
+- Opel: 1 (accurately placed)
+- Adidas: 1 (accurately placed)
+- Audi: 1 (accurately placed)
+- Porsche: 1 (accurately placed)
+- BBC_News: 1 (accurately placed)
+- Deutsche_Telekom: 1 (accurately placed)
+- Volkswagen: 1 (accurately placed)
+- Hugo_Boss: 1 (accurately placed)
+- Bertelsmann: 1 (accurately placed)
+
+Cluster: Club 1
+- G20: 0
+- Fraunhofer_Society: 0
+- OECD: 0
+- UNESCO: 0
+- FIFA: 0
+- Stockholm_International_Peace_Research_Institute: 1 (accurately placed)
+- Max_Planck_Society: 1 (accurately placed)
+- ADAC: 1 (accurately placed)
+- Leibniz_Association: 1 (accurately placed)
+- European_Film_Academy: 1 (accurately placed)
+
+Cluster: Party 1
+- Free_Democratic_Party_of_Switzerland: 1 (accurately placed)
+- Socialist_Unity_Party_of_Germany: 1 (accurately placed)
+- Nazi_Party: 1 (accurately placed)
+- Social_Democratic_Party_of_Germany: 1 (accurately placed)
+
+Cluster: Dynasty 1
+- Hohenstaufen: 0
+- House_of_Habsburg: 1 (accurately placed)
+- Bundesliga: 1 (accurately placed)
+- Salian_dynasty: 1 (accurately placed)
+
+Cluster: Branch 1
+- Luftwaffe: 1 (accurately placed)
+- Joint_Medical_Service_(Germany): 1 (accurately placed)
+- United_States_Navy: 1 (accurately placed)
+- Bundeswehr: 1 (accurately placed)
+- Joint_Support_Service_(Germany): 1 (accurately placed)
+
+Cluster: Style 2
+- Reformation: 0
+- Art_Deco: 0
+
+Cluster: Designation 1
+- Volksmusik: 1 (accurately placed)
+- Trümmerfilm: 1 (accurately placed)
+- Race_and_ethnicity_in_the_United_States_Census: 0
+
+Cluster: Group 1
+- New_Leipzig_School: 1 (accurately placed)
+- Die_Brücke: 1 (accurately placed)
+- Der_Blaue_Reiter: 1 (accurately placed)
+
+Cluster: Reconstruction 1
+- Proto-Germanic_language: 1 (accurately placed)
+- Proto-Indo-European_language: 1 (accurately placed)
+
+Cluster: Group 2
+- Herero_people: 1 (accurately placed)
+- Sorbs: 1 (accurately placed)
+- Sinti: 1 (accurately placed)
+- Belarusians: 1 (accurately placed)
+- Frisians: 1 (accurately placed)
+- Nama_people: 1 (accurately placed)
+
+Cluster: Name 2
+- Renaissance: 0
+- New_Objectivity: 0
+- Heimatfilm: 1 (accurately placed)
+- Weser_Renaissance: 1 (accurately placed)
+- Romanesque_architecture: 1 (accurately placed)
+- Gründerzeit: 1 (accurately placed)
+- Neue_Deutsche_Welle: 1 (accurately placed)
+
+Cluster: Branch 2
+- Judaism: 1 (accurately placed)
+- Alevism: 1 (accurately placed)
+
+Cluster: Miscellaneous Cluster 1
+- Federal_Social_Court: 1 (accurately placed)
+- Federal_Constitutional_Court: 1 (accurately placed)
+- Federal_Fiscal_Court: 1 (accurately placed)
+- Federal_Labour_Court: 1 (accurately placed)
+- Federal_Administrative_Court_(Germany): 1 (accurately placed)
+
+Cluster: Body 1
+- National_Diet: 1 (accurately placed)
+- Bundestag: 1 (accurately placed)
+- Bundesrat_of_Germany: 1 (accurately placed)
+
+Cluster: University 1
+- Heidelberg_University: 0
+- Leipzig_University: 0
+- Babelsberg_Studio: 0
+- Eurostat: 0
+- European_Commission: 1 (accurately placed)
+- Cambridge_University_Press: 1 (accurately placed)
+- Frankfurt_Stock_Exchange: 1 (accurately placed)
+- European_Space_Agency: 1 (accurately placed)
+
+Cluster: School 1
+- Eastern_Bloc: 0
+- German_Football_Association: 0
+- Frankfurt_School: 0
+- Fortune_Global_500: 0
+- Deutscher_Werkbund: 0
+
+Cluster: Institution 1
+- World_Bank: 1 (accurately placed)
+- European_Central_Bank: 1 (accurately placed)
+
+Cluster: Church 2
+- Catholic_Church: 1 (accurately placed)
+- Protestantism: 1 (accurately placed)
+
+Cluster: Book 1
+- Gamescom: 1 (accurately placed)
+- Frankfurt_Book_Fair: 1 (accurately placed)
+- Leipzig_Book_Fair: 1 (accurately placed)
+
+Cluster: Event 1
+- UEFA_European_Championship: 1 (accurately placed)
+- Olympic_Games: 1 (accurately placed)
+
+Cluster: Process 1
+- Peaceful_Revolution: 1 (accurately placed)
+- German_Revolution_of_1918–19: 1 (accurately placed)
+
+Cluster: Term 1
+- Golden_Twenties: 1 (accurately placed)
+- Wirtschaftswunder: 1 (accurately placed)
+
+Cluster: Pogrom 1
+- Kristallnacht: 1 (accurately placed)
+- The_Holocaust: 1 (accurately placed)
+
+Cluster: World 1
+- German_Unity_Day: 1 (accurately placed)
+- Oktoberfest: 1 (accurately placed)

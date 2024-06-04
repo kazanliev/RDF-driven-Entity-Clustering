@@ -1,0 +1,11 @@
+.vscode
+
+myenv
+*.pyc
+__pycache__
+logs/old/*
+reports/old
+results/old
+input/old
+reports/old
+Notes.txt

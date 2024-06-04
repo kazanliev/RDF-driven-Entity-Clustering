@@ -1,0 +1,3264 @@
+{
+    "Organization 1": {
+        "entities": {
+            "World_Health_Organization": "Agency",
+            "International_Monetary_Fund": "Organization"
+        },
+        "dcterms:subject_values": {
+            "Category:United Nations Development Group": 2,
+            "Category:United Nations Economic and Social Council": 2,
+            "Category:United Nations specialized agencies": 2,
+            "Category:United Nations organizations based in Geneva": 1,
+            "Category:Public health": 1,
+            "Category:Global health": 1,
+            "Category:Organizations established in 1948": 1,
+            "Category:Organizations associated with the COVID-19 pandemic": 1,
+            "Category:Medical and health organisations based in Switzerland": 1,
+            "Category:World Health Organization": 1,
+            "Category:Health policy": 1,
+            "Category:Drug control treaties": 1,
+            "Category:Organizations established in 1945": 1,
+            "Category:International development organizations": 1,
+            "Category:Global policy organizations": 1,
+            "Category:International Monetary Fund relations": 1,
+            "Category:International Monetary Fund": 1,
+            "Category:1945 in economics": 1,
+            "Category:International finance institutions": 1,
+            "Category:Organizations based in Washington, D.C.": 1
+        },
+        "rdf:type_values": {
+            "WikicatTreatiesOfCapeVerde": 2,
+            "WikicatTreatiesOfSlovenia": 2,
+            "WikicatTreatiesOfMauritius": 2,
+            "Q43229": 2,
+            "WikicatTreatiesOfDenmark": 2,
+            "WikicatTreatiesOfTheKingdomOfGreece": 2,
+            "WikicatTreatiesOfKyrgyzstan": 2,
+            "Agency108337324": 2,
+            "WikicatTreatiesOfIreland": 2,
+            "WikicatTreatiesOfSouthKorea": 2,
+            "WikicatTreatiesOfTheSyrianRepublic(1930–58)": 2,
+            "WikicatTreatiesOfItaly": 2,
+            "WikicatTreatiesOfSlovakia": 2,
+            "WikicatTreatiesOfThePeople'sRepublicOfMozambique": 2,
+            "WikicatTreatiesOfThePahlaviDynasty": 2,
+            "WikicatTreatiesOfKiribati": 2,
+            "WikicatTreatiesOfOman": 2,
+            "WikicatTreatiesOfQatar": 2,
+            "WikicatTreatiesOfTheSomaliRepublic": 2,
+            "WikicatTreatiesOfBarbados": 2,
+            "WikicatTreatiesOfBotswana": 2,
+            "WikicatTreatiesOfSanMarino": 2,
+            "WikicatTreatiesOfDjibouti": 2,
+            "WikicatTreatiesOfTheMarshallIslands": 2,
+            "WikicatTreatiesOfKuwait": 2,
+            "WikicatTreatiesOfEastTimor": 2,
+            "WikicatTreatiesOfVanuatu": 2,
+            "WikicatTreatiesOfSaintLucia": 2,
+            "WikicatTreatiesOfGuinea-Bissau": 2,
+            "WikicatTreatiesEstablishingIntergovernmentalOrganizations": 2,
+            "WikicatTreatiesOfSouthSudan": 2,
+            "Message106598915": 2,
+            "WikicatTreatiesOfJapan": 2,
+            "WikicatTreatiesOfChile": 2,
+            "WikicatTreatiesOfTheUnitedArabEmirates": 2,
+            "WikicatTreatiesOfEquatorialGuinea": 2,
+            "WikicatTreatiesOfColombia": 2,
+            "Writing106362953": 2,
+            "WikicatTreatiesOfLithuania": 2,
+            "SocialGroup107950920": 2,
+            "WikicatTreatiesOfZambia": 2,
+            "Document106470073": 2,
+            "WikicatTreatiesOfZimbabwe": 2,
+            "WikicatTreatiesOfTogo": 2,
+            "WikicatTreatiesOfLebanon": 2,
+            "WikicatTreatiesOfTheBahamas": 2,
+            "WikicatTreatiesOfBelgium": 2,
+            "WikicatTreatiesOfBolivia": 2,
+            "Treaty106773434": 2,
+            "WikicatTreatiesOfTheKingdomOfEgypt": 2,
+            "WikicatTreatiesOfBhutan": 2,
+            "WikicatTreatiesOfParaguay": 2,
+            "DUL.owl#Agent": 2,
+            "WikicatTreatiesOfTheUnionOfSouthAfrica": 2,
+            "WikicatTreatiesOfGrenada": 2,
+            "WikicatTreatiesOfThePolishPeople'sRepublic": 2,
+            "WikicatTreatiesOfCyprus": 2,
+            "WikicatTreatiesOfMorocco": 2,
+            "WikicatTreatiesOfChad": 2,
+            "WikicatTreatiesOfTheNetherlands": 2,
+            "WikicatTreatiesOfTheKingdomOfAfghanistan": 2,
+            "WikicatTreatiesOfAntiguaAndBarbuda": 2,
+            "WikicatTreatiesOfMexico": 2,
+            "WikicatTreatiesOfNorway": 2,
+            "WikicatTreatiesOfTajikistan": 2,
+            "YagoLegalActorGeo": 2,
+            "WikicatTreatiesOfDominica": 2,
+            "WikicatTreatiesOfJordan": 2,
+            "WikicatTreatiesOfKazakhstan": 2,
+            "Communication100033020": 2,
+            "WikicatTreatiesOfMoldova": 2,
+            "WikicatTreatiesOfTheDominionOfPakistan": 2,
+            "WikicatTreatiesOfWestGermany": 2,
+            "WikicatTreatiesOfArgentina": 2,
+            "WikicatTreatiesOfCostaRica": 2,
+            "WikicatTreatiesOfBurkinaFaso": 2,
+            "WikicatTreatiesOfNigeria": 2,
+            "WikicatTreatiesOfTheMaldives": 2,
+            "WikicatTreatiesOfNiger": 2,
+            "WikicatTreatiesOfLiberia": 2,
+            "WikicatTreatiesOfLesotho": 2,
+            "WikicatTreatiesOfTonga": 2,
+            "WikicatTreatiesOfTheDominionOfCeylon": 2,
+            "WikicatTreatiesOfBritishIndia": 2,
+            "Agreement106770275": 2,
+            "WikicatTreatiesOfTheGambia": 2,
+            "WikicatTreatiesOfTheDominicanRepublic": 2,
+            "WikicatTreatiesOfTheEstadoNovo(Portugal)": 2,
+            "WikicatTreatiesOfPeru": 2,
+            "owl#Thing": 2,
+            "WikicatTreatiesOfSierraLeone": 2,
+            "WikicatTreatiesOfSeychelles": 2,
+            "WikicatTreatiesOfTheRepublicOfTheCongo(Léopoldville)": 2,
+            "WikicatTreatiesOfPapuaNewGuinea": 2,
+            "WikicatTreatiesOfMauritania": 2,
+            "WikicatTreatiesOfSwitzerland": 2,
+            "WikicatTreatiesOfNamibia": 2,
+            "WikicatTreatiesOfRwanda": 2,
+            "WikicatTreatiesOfMadagascar": 2,
+            "WikicatTreatiesOfTuvalu": 2,
+            "WikicatTreatiesOfHonduras": 2,
+            "WikicatTreatiesOfTheKingdomOfIraq": 2,
+            "WikicatTreatiesOfJamaica": 2,
+            "WikicatTreatiesOfMalta": 2,
+            "WikicatTreatiesOfMali": 2,
+            "WikicatTreatiesOfTunisia": 2,
+            "WikicatTreatiesOfBangladesh": 2,
+            "Group100031264": 2,
+            "WikicatTreatiesOfBrunei": 2,
+            "YagoLegalActor": 2,
+            "WikicatTreatiesOfEritrea": 2,
+            "WikicatTreatiesOfCanada": 2,
+            "WikicatTreatiesOfSãoToméAndPríncipe": 2,
+            "WikicatTreatiesOfBosniaAndHerzegovina": 2,
+            "Agent": 2,
+            "WikicatTreatiesOfAzerbaijan": 2,
+            "WikicatTreatiesOfBelize": 2,
+            "WikicatTreatiesOfVenezuela": 2,
+            "WikicatTreatiesOfMontenegro": 2,
+            "WrittenCommunication106349220": 2,
+            "WikicatTreatiesOfSaintVincentAndTheGrenadines": 2,
+            "WikicatTreatiesOfGabon": 2,
+            "WikicatTreatiesOfSamoa": 2,
+            "WikicatTreatiesOfGuinea": 2,
+            "WikicatTreatiesOfTheKingdomOfLibya": 2,
+            "WikicatTreatiesOfTheCentralAfricanRepublic": 2,
+            "YagoPermanentlyLocatedEntity": 2,
+            "WikicatTreatiesOfSenegal": 2,
+            "Q24229398": 2,
+            "WikicatTreatiesOfIsrael": 2,
+            "wgs84 pos#SpatialThing": 2,
+            "WikicatTreatiesOfBurma": 2,
+            "WikicatTreatiesOfUruguay": 2,
+            "WikicatTreatiesOfTheRepublicOfDahomey": 2,
+            "DUL.owl#SocialPerson": 2,
+            "WikicatTreatiesOfTheKingdomOfLaos": 2,
+            "WikicatTreatiesOfTheSolomonIslands": 2,
+            "State108168978": 2,
+            "WikicatTreatiesOfTheRepublicOfMacedonia": 2,
+            "WikicatTreatiesOfTanganyika": 2,
+            "WikicatTreatiesOfNepal": 2,
+            "WikicatTreatiesOfAustria": 2,
+            "WikicatTreatiesOfTheRepublicOfTheSudan(1956–69)": 2,
+            "Organization": 1,
+            "WikicatUnitedNationsSpecializedAgencies": 2,
+            "WikicatTreatiesOfIvoryCoast": 2,
+            "WikicatTreatiesOfKenya": 2,
+            "WikicatTreatiesOfBurundi": 2,
+            "WikicatTreatiesOfTheHungarianPeople'sRepublic": 2,
+            "WikicatTreatiesOfFiji": 2,
+            "WikicatTreatiesOfSweden": 2,
+            "WikicatTreatiesOfTheUnitedKingdom": 2,
+            "WikicatTreatiesOfAlgeria": 2,
+            "WikicatTreatiesOfTheRepublicOfChina(1912–49)": 2,
+            "WikicatTreatiesOfMalawi": 2,
+            "WikicatTreatiesOfFinland": 2,
+            "WikicatTreatiesOfSaudiArabia": 2,
+            "WikicatTreatiesOfIceland": 2,
+            "WikicatTreatiesOfCameroon": 2,
+            "WikicatTreatiesOfPanama": 2,
+            "WikicatTreatiesOfAustralia": 2,
+            "WikicatTreatiesOfEcuador": 2,
+            "PoliticalUnit108359949": 2,
+            "WikicatTreatiesOfTheUnitedStates": 2,
+            "AdministrativeUnit108077292": 2,
+            "WikicatTreatiesOfTurkey": 2,
+            "Organization108008335": 2,
+            "WikicatTreatiesOfUzbekistan": 2,
+            "WikicatTreatiesOfPalau": 2,
+            "WikicatTreatiesOfNewZealand": 2,
+            "WikicatTreatiesOfSouthYemen": 2,
+            "WikicatTreatiesOfGuatemala": 2,
+            "WikicatTreatiesOfThePeople'sRepublicOfAngola": 2,
+            "WikicatTreatiesOfCroatia": 2,
+            "WikicatTreatiesOfTrinidadAndTobago": 2,
+            "WikicatTreatiesOfTheRepublicOfTheCongo": 2,
+            "WikicatTreatiesOfHaiti": 2,
+            "WikicatTreatiesOfSuriname": 2,
+            "WikicatTreatiesOfGhana": 2,
+            "WikicatTreatiesOfTheCzechRepublic": 2,
+            "LegalDocument106479665": 2,
+            "WikicatTreatiesOfTheMongolianPeople'sRepublic": 2,
+            "WikicatTreatiesOfTurkmenistan": 2,
+            "WikicatTreatiesOfTheEthiopianEmpire": 2,
+            "WikicatTreatiesOfIndonesia": 2,
+            "WikicatTreatiesOfLuxembourg": 2,
+            "WikicatTreatiesOfNicaragua": 2,
+            "Statement106722453": 2,
+            "Unit108189659": 2,
+            "WrittenAgreement106771653": 2,
+            "Abstraction100002137": 2,
+            "WikicatTreatiesOfFrancoistSpain": 2,
+            "WikicatTreatiesOfLatvia": 2,
+            "WikicatTreatiesOfArmenia": 2,
+            "WikicatTreatiesOfCzechoslovakia": 2,
+            "WikicatTreatiesOfSingapore": 2,
+            "WikicatTreatiesOfSaintKittsAndNevis": 2,
+            "WikicatTreatiesOfBahrain": 2,
+            "WikicatTreatiesOfEstonia": 2,
+            "WikicatTreatiesOfYugoslavia": 2,
+            "WikicatTreatiesOfElSalvador": 2,
+            "WikicatTreatiesOfThailand": 2,
+            "WikicatTreatiesOfUganda": 2,
+            "WikicatTreatiesOfSwaziland": 2,
+            "Organisation": 2,
+            "WikicatTreatiesOfComoros": 2,
+            "WikicatTreatiesOfTheFederatedStatesOfMicronesia": 2,
+            "WikicatTreatiesOfSerbiaAndMontenegro": 2,
+            "WikicatTreatiesOfGeorgia(country)": 2,
+            "WikicatTreatiesExtendedToWestBerlin": 1,
+            "WikicatTreatiesOfTheSecondBrazilianRepublic": 1,
+            "WikicatTreatiesOfNauru": 1,
+            "WikicatOrganisationsBasedInGeneva": 1,
+            "WikicatTreatiesOfEastGermany": 1,
+            "WikicatTreatiesOfTheSocialistRepublicOfRomania": 1,
+            "WikicatTreatiesOfTheCookIslands": 1,
+            "WikicatTreatiesOfNorthKorea": 1,
+            "WikicatTreatiesOfNiue": 1,
+            "WikicatTreatiesExtendedToCuraçaoAndDependencies": 1,
+            "WikicatTreatiesOfThePeople'sSocialistRepublicOfAlbania": 1,
+            "WikicatTreatiesExtendedToHongKong": 1,
+            "WikicatPublicHealthOrganizations": 1,
+            "WikicatTreatiesOfSouthVietnam": 1,
+            "WikicatTreatiesOfNorthVietnam": 1,
+            "WikicatTreatiesOfCuba": 1,
+            "WikicatTreatiesOfTheUkrainianSovietSocialistRepublic": 1,
+            "WikicatTreatiesExtendedToGreenland": 1,
+            "WikicatTreatiesOfThePhilippines": 1,
+            "WikicatTreatiesOfTheFrenchFourthRepublic": 1,
+            "WikicatTreatiesOfMonaco": 1,
+            "WikicatTreatiesOfTheByelorussianSovietSocialistRepublic": 1,
+            "WikicatInternationalOrganizations": 1,
+            "WikicatTreatiesConcludedIn1946": 1,
+            "WikicatTreatiesOfThePeople'sRepublicOfBulgaria": 1,
+            "WorldOrganization108294696": 1,
+            "WikicatHealthTreaties": 1,
+            "WikicatTreatiesOfTheSovietUnion": 1,
+            "WikicatTreatiesOfMalaysia": 1,
+            "WikicatTreatiesOfTheFrenchProtectorateOfCambodia": 1,
+            "Alliance108293982": 1,
+            "WikicatTreatiesExtendedToTheFaroeIslands": 1,
+            "WikicatTreatiesOfTheSultanateOfZanzibar": 1,
+            "WikicatInternationalHealthOrganizations": 1,
+            "WikicatWorldHealthOrganizationTreaties": 1,
+            "Country": 1,
+            "WikicatOrganizationsEstablishedIn1948": 1,
+            "WikicatTreatiesOfAndorra": 1,
+            "WikicatTreatiesExtendedToMacau": 1,
+            "WikicatTreatiesOfRussia": 1,
+            "WikicatTreatiesOfUkraine": 1,
+            "Association108049401": 1,
+            "WikicatTreatiesOfTheKingdomOfCambodia(1953–70)": 1,
+            "WikicatTreatiesOfAlbania": 1,
+            "WikicatInternationalFinanceInstitutions": 1,
+            "WikicatTreatiesOfTheFederationOfMalaya": 1,
+            "WikicatTreatiesOfTheProvisionalGovernmentOfTheFrenchRepublic": 1,
+            "WikicatTreatiesOfKosovo": 1,
+            "WikicatTreatiesOfVietnam": 1,
+            "FinancialInstitution108054721": 1,
+            "WikicatTreatiesConcludedIn1944": 1,
+            "WikicatInternationalDevelopmentTreaties": 1,
+            "WikicatUnitedNations": 1,
+            "WikicatOrganizationsEstablishedIn1945": 1,
+            "WikicatTreatiesOfTheYemenArabRepublic": 1,
+            "WikicatBankingInstitutes": 1,
+            "WikicatGlobalPolicyOrganizations": 1,
+            "WikicatInternationalEconomicOrganizations": 1,
+            "WikicatTreatiesOfRomania": 1,
+            "WikicatTreatiesOfBelarus": 1,
+            "Institution108053576": 1,
+            "WikicatOrganizationsBasedInWashington,D.C.": 1,
+            "WikicatFinancialInstitutions": 1,
+            "WikicatTreatiesOfTheCommonwealthOfThePhilippines": 1,
+            "WikicatTreatiesOfGuyana": 1,
+            "Institute108407330": 1,
+            "WikicatTreatiesOfVargas-eraBrazil": 1,
+            "WikicatTreatiesOfBulgaria": 1
+        }
+    },
+    "Driver 1": {
+        "entities": {
+            "Sebastian_Vettel": "Driver"
+        }
+    },
+    "Driver 2": {
+        "entities": {
+            "Michael_Schumacher": "Driver"
+        }
+    },
+    "Language 1": {
+        "entities": {
+            "Serbo-Croatian": "Language"
+        }
+    },
+    "Language 2": {
+        "entities": {
+            "North_Frisian_language": "Language"
+        }
+    },
+    "Language 3": {
+        "entities": {
+            "Arabic": "Language"
+        }
+    },
+    "Reconstruction 1": {
+        "entities": {
+            "Proto-Germanic_language": "Completion",
+            "Proto-Indo-European_language": "Reconstruction"
+        },
+        "dcterms:subject_values": {
+            "Category:Proto-languages": 2,
+            "Category:Pre-Roman Iron Age": 1,
+            "Category:Germanic languages": 1,
+            "Category:Proto-Indo-Europeans": 1,
+            "Category:Proto-Indo-European language": 1,
+            "Category:Bronze Age": 1,
+            "Category:Indo-European languages": 1
+        },
+        "rdf:type_values": {
+            "Communication100033020": 2,
+            "Abstraction100002137": 2,
+            "WikicatExtinctLanguages": 2,
+            "owl#Thing": 2,
+            "Language106282651": 2,
+            "MilitaryConflict": 1,
+            "WikicatGermanicLanguages": 1,
+            "WikicatFusionalLanguages": 1,
+            "WikicatIndo-EuropeanLanguages": 1,
+            "Museum": 1
+        }
+    },
+    "Group 1": {
+        "entities": {
+            "New_Leipzig_School": "Not found",
+            "Die_Brücke": "Group",
+            "Der_Blaue_Reiter": "Group"
+        },
+        "dcterms:subject_values": {
+            "Category:German artist groups and collectives": 3,
+            "Category:German art movements": 2
+        },
+        "rdf:type_values": {
+            "ArtisticMovement108466643": 3,
+            "Abstraction100002137": 3,
+            "Movement108464601": 3,
+            "WikicatArtMovements": 3,
+            "owl#Thing": 3,
+            "SocialGroup107950920": 3,
+            "WikicatGermanArtistGroupsAndCollectives": 3,
+            "Group100031264": 3,
+            "Band": 2,
+            "WikicatArtistGroupsAndCollectives": 2
+        }
+    },
+    "Group 2": {
+        "entities": {
+            "Herero_people": "Group",
+            "Sorbs": "People",
+            "Belarusians": "Group",
+            "Frisians": "Group",
+            "Nama_people": "Group"
+        },
+        "dcterms:subject_values": {},
+        "rdf:type_values": {
+            "Q41710": 5,
+            "Abstraction100002137": 5,
+            "EthnicGroup107967382": 5,
+            "EthnicGroup": 5,
+            "owl#Thing": 5,
+            "Group100031264": 5,
+            "Band": 4,
+            "WikicatEthnicGroupsInEurope": 3,
+            "WikicatEthnicGroupsInPoland": 3
+        }
+    },
+    "People 1": {
+        "entities": {
+            "Sinti": "People"
+        }
+    },
+    "Confederation 1": {
+        "entities": {
+            "Hanseatic_League": "Confederation"
+        }
+    },
+    "Organization 2": {
+        "entities": {
+            "United_Nations": "Organization"
+        }
+    },
+    "Body 1": {
+        "entities": {
+            "National_Diet": "Japan",
+            "Bundestag": "Body"
+        },
+        "dcterms:subject_values": {
+            "Category:National legislatures": 2,
+            "Category:National Diet": 1,
+            "Category:1889 establishments in Japan": 1,
+            "Category:Bicameral legislatures": 1,
+            "Category:Bundestag": 1,
+            "Category:Parliaments by country": 1
+        },
+        "rdf:type_values": {
+            "Agent": 2,
+            "Parliament108319198": 2,
+            "WikicatNationalLegislatures": 2,
+            "Q43229": 2,
+            "Q24229398": 2,
+            "wgs84 pos#SpatialThing": 2,
+            "Q11204": 2,
+            "DUL.owl#SocialPerson": 2,
+            "GovernmentalOrganization": 2,
+            "Abstraction100002137": 2,
+            "Assembly108163792": 2,
+            "Legislature108163273": 2,
+            "owl#Thing": 2,
+            "Organization": 2,
+            "SocialGroup107950920": 2,
+            "WikicatParliamentsByCountry": 2,
+            "Gathering107975026": 2,
+            "Legislature": 2,
+            "Organisation": 2,
+            "Group100031264": 2,
+            "DUL.owl#Agent": 2,
+            "Company": 1,
+            "WikicatBicameralLegislatures": 1
+        }
+    },
+    "Body 2": {
+        "entities": {
+            "Bundesrat_of_Germany": "Body"
+        }
+    },
+    "Company 1": {
+        "entities": {
+            "Siemens": "Company"
+        }
+    },
+    "Division 1": {
+        "entities": {
+            "BBC_News": "Division"
+        }
+    },
+    "Pogrom 1": {
+        "entities": {
+            "Kristallnacht": "Pogrom"
+        }
+    },
+    "Genocide 1": {
+        "entities": {
+            "The_Holocaust": "Genocide"
+        }
+    },
+    "War 1": {
+        "entities": {
+            "World_War_I": "Not found",
+            "World_War_II": "War"
+        },
+        "dcterms:subject_values": {
+            "Category:Wars involving the United States": 2,
+            "Category:Wars involving Panama": 2,
+            "Category:Wars involving Italy": 2,
+            "Category:Wars involving Japan": 2,
+            "Category:Wars involving Bolivia": 2,
+            "Category:Wars involving South Africa": 2,
+            "Category:Wars involving Haiti": 2,
+            "Category:Wars involving Bulgaria": 2,
+            "Category:Wars involving Liberia": 2,
+            "Category:Wars involving Canada": 2,
+            "Category:Wars involving Serbia": 2,
+            "Category:Wars involving Romania": 2,
+            "Category:Wars involving Thailand": 2,
+            "Category:Wars involving Germany": 2,
+            "Category:Wars involving the Republic of China": 2,
+            "Category:Wars involving France": 2,
+            "Category:Global conflicts": 2,
+            "Category:Wars involving Sri Lanka": 2,
+            "Category:Wars involving Brazil": 2,
+            "Category:Wars involving British India": 2,
+            "Category:Wars involving Nepal": 2,
+            "Category:Wars involving Honduras": 2,
+            "Category:Wars involving the United Kingdom": 2,
+            "Category:Wars involving Guatemala": 2,
+            "Category:Wars involving Cuba": 2,
+            "Category:Wars involving Nicaragua": 2,
+            "Category:World Wars": 2,
+            "Category:Wars involving Australia": 2,
+            "Category:Wars involving Greece": 2,
+            "Category:Wars involving Belgium": 2,
+            "Category:Wars involving Costa Rica": 2,
+            "Category:Wars involving Rhodesia": 2,
+            "Category:War": 2,
+            "Category:Wars involving Montenegro": 2,
+            "Category:Wars involving Ireland": 1,
+            "Category:Wars involving the states and peoples of Oceania": 1,
+            "Category:Wars involving Malta": 1,
+            "Category:Wars involving Russia": 1,
+            "Category:Wars involving the Habsburg Monarchy": 1,
+            "Category:Russo-Turkish wars": 1,
+            "Category:Wars involving the Ottoman Empire": 1,
+            "Category:Articles containing video clips": 1,
+            "Category:Wars involving New Zealand": 1,
+            "Category:Wars involving Taiwan": 1,
+            "Category:Wars involving Portugal": 1,
+            "Category:World War I": 1,
+            "Category:Wars involving Sudan": 1,
+            "Category:Wars involving Korea": 1,
+            "Category:Wars involving Azerbaijan": 1,
+            "Category:Wars involving Armenia": 1,
+            "Category:Wars involving Syria": 1,
+            "Category:Wars involving Venezuela": 1,
+            "Category:Wars involving Estonia": 1,
+            "Category:Wars involving Paraguay": 1,
+            "Category:Wars involving Poland": 1,
+            "Category:Wars involving Luxembourg": 1,
+            "Category:Wars involving Saudi Arabia": 1,
+            "Category:Wars involving Peru": 1,
+            "Category:Wars involving Ecuador": 1,
+            "Category:Wars involving Lithuania": 1,
+            "Category:Wars involving the Dominican Republic": 1,
+            "Category:Wars involving Mongolia": 1,
+            "Category:Wars involving the Philippines": 1,
+            "Category:Conflicts in 1943": 1,
+            "Category:Wars involving Cambodia": 1,
+            "Category:Wars involving El Salvador": 1,
+            "Category:Wars involving Hungary": 1,
+            "Category:World War II": 1,
+            "Category:Wars involving Finland": 1,
+            "Category:Wars involving Indonesia": 1,
+            "Category:Wars involving Latvia": 1,
+            "Category:Wars involving Colombia": 1,
+            "Category:Wars involving Iceland": 1,
+            "Category:Conflicts in 1944": 1,
+            "Category:Wars involving Uruguay": 1,
+            "Category:Wars involving Mexico": 1,
+            "Category:Wars involving Slovenia": 1,
+            "Category:Wars involving Chile": 1,
+            "Category:Wars involving India": 1,
+            "Category:Wars involving Myanmar": 1,
+            "Category:Wars involving Austria": 1,
+            "Category:Wars involving Iran": 1,
+            "Category:Wars involving Iraq": 1,
+            "Category:Wars involving Denmark": 1,
+            "Category:Wars involving Lebanon": 1,
+            "Category:Conflicts in 1942": 1,
+            "Category:Wars involving Slovakia": 1,
+            "Category:Wars involving Laos": 1,
+            "Category:Wars involving the Netherlands": 1,
+            "Category:Wars involving Croatia": 1,
+            "Category:Conflicts in 1941": 1,
+            "Category:Wars involving Ethiopia": 1,
+            "Category:Conflicts in 1939": 1,
+            "Category:Conflicts in 1945": 1,
+            "Category:Late modern Europe": 1,
+            "Category:Wars involving Yugoslavia": 1,
+            "Category:Nuclear warfare": 1,
+            "Category:Wars involving Albania": 1,
+            "Category:Wars involving Norway": 1,
+            "Category:Wars involving Vietnam": 1,
+            "Category:Wars involving the Soviet Union": 1,
+            "Category:Wars involving Egypt": 1,
+            "Category:Wars involving Czechoslovakia": 1,
+            "Category:Conflicts in 1940": 1
+        },
+        "rdf:type_values": {
+            "WikicatWarsInvolvingGermany": 2,
+            "WikicatWarsInvolvingMontenegro": 2,
+            "WikicatWarsInvolvingSriLanka": 2,
+            "WikicatWarsInvolvingCostaRica": 2,
+            "WikicatWarsInvolvingCanada": 2,
+            "Conflict100958896": 2,
+            "DUL.owl#Event": 2,
+            "War100973077": 2,
+            "WikicatWarsInvolvingThailand": 2,
+            "PsychologicalFeature100023100": 2,
+            "WikicatWarsInvolvingJapan": 2,
+            "Event100029378": 2,
+            "WikicatWarsInvolvingHaiti": 2,
+            "WikicatWarsInvolvingFrance": 2,
+            "WikicatWarsInvolvingNicaragua": 2,
+            "WikicatWarsInvolvingAustralia": 2,
+            "YagoPermanentlyLocatedEntity": 2,
+            "WikicatWarsInvolvingGuatemala": 2,
+            "Wikicat20th-centuryConflicts": 2,
+            "WikicatWarsInvolvingBritishIndia": 2,
+            "WikicatWarsInvolvingSerbia": 2,
+            "WikicatWarsInvolvingPanama": 2,
+            "SocietalEvent": 2,
+            "MilitaryConflict": 2,
+            "WikicatWarsInvolvingLiberia": 2,
+            "MilitaryAction100952963": 2,
+            "WikicatWarsInvolvingTheUnitedKingdom": 2,
+            "Abstraction100002137": 2,
+            "WikicatItalianWars": 2,
+            "Event": 1,
+            "WikicatWarsInvolvingBrazil": 2,
+            "WikicatWarsInvolvingRomania": 2,
+            "WikicatWarsInvolvingCroatia": 2,
+            "WikicatWarsInvolvingTheRepublicOfChina": 2,
+            "owl#Thing": 2,
+            "WikicatWarsInvolvingCuba": 2,
+            "WikicatWarsInvolvingItaly": 2,
+            "WikicatWarsInvolvingHungary": 2,
+            "WikicatWarsInvolvingBelgium": 2,
+            "GroupAction101080366": 2,
+            "WikicatWarsInvolvingGreece": 2,
+            "WikicatWarsInvolvingSouthAfrica": 2,
+            "Act100030358": 2,
+            "WikicatWarsInvolvingBulgaria": 2,
+            "WikicatWarsInvolvingTheUnitedStates": 2,
+            "WikicatWarsInvolvingAustria": 2,
+            "WikicatGlobalConflicts": 2,
+            "Q1656682": 2,
+            "WikicatWarsInvolvingCzechoslovakia": 2,
+            "WikicatWarsInvolvingChina": 1,
+            "WikicatWarsInvolvingTheStatesAndPeoplesOfOceania": 1,
+            "WikicatWarsInvolvingNewZealand": 1,
+            "WikicatRusso-TurkishWars": 1,
+            "ConflictEvent": 1,
+            "WikicatWarsInvolvingIreland": 1,
+            "WikicatWarsInvolvingRussia": 1,
+            "WikicatWarsInvolvingTheOttomanEmpire": 1,
+            "WikicatWarsInvolvingArmenia": 1,
+            "WikicatWarsInvolvingPortugal": 1,
+            "WikicatConflictsIn1939": 1,
+            "WikicatWarsInvolvingTheNetherlands": 1,
+            "WikicatWarsInvolvingSlovakia": 1,
+            "WikicatWarsInvolvingDenmark": 1,
+            "WikicatWarsInvolvingUruguay": 1,
+            "WikicatWarsInvolvingPoland": 1,
+            "WikicatWarsInvolvingTheDominicanRepublic": 1,
+            "WikicatWarsInvolvingBurma": 1,
+            "WikicatConflictsIn1943": 1,
+            "WikicatWarsInvolvingYugoslavia": 1,
+            "WikicatWarsInvolvingEstonia": 1,
+            "WikicatWarsInvolvingMongolia": 1,
+            "WikicatWarsInvolvingIndonesia": 1,
+            "WikicatWarsInvolvingIceland": 1,
+            "WikicatWarsInvolvingIraq": 1,
+            "WikicatWarsInvolvingChile": 1,
+            "WikicatWarsInvolvingFinland": 1,
+            "WikicatWarsInvolvingTheSovietUnion": 1,
+            "WikicatWarsInvolvingLithuania": 1,
+            "WikicatConflictsIn1944": 1,
+            "WikicatWarsInvolvingHonduras": 1,
+            "WikicatConflictsIn1942": 1,
+            "WikicatWarsInvolvingNorway": 1,
+            "WikicatWarsInvolvingLebanon": 1,
+            "WikicatWarsInvolvingElSalvador": 1,
+            "WikicatWarsInvolvingThePhilippines": 1,
+            "WikicatWarsInvolvingMexico": 1,
+            "WikicatWarsInvolvingLatvia": 1,
+            "WikicatWarsInvolvingPeru": 1,
+            "WikicatConflictsIn1941": 1,
+            "WikicatWarsInvolvingSaudiArabia": 1,
+            "WikicatConflictsIn1945": 1,
+            "WikicatWarsInvolvingSlovenia": 1,
+            "WikicatWarsInvolvingCambodia": 1,
+            "WikicatWarsInvolvingSyria": 1,
+            "WikicatWarsInvolvingVietnam": 1,
+            "WikicatWarsInvolvingEcuador": 1,
+            "MilitaryPerson": 1,
+            "WikicatWarsInvolvingNepal": 1,
+            "WikicatWarsInvolvingBolivia": 1,
+            "WikicatWarsInvolvingTurkey": 1,
+            "WikicatWarsInvolvingAlbania": 1,
+            "WikicatWarsInvolvingVenezuela": 1,
+            "WikicatWarsInvolvingIran": 1,
+            "WikicatWarsInvolvingParaguay": 1,
+            "WikicatWarsInvolvingLaos": 1,
+            "WikicatWarsInvolvingEgypt": 1,
+            "WikicatWarsInvolvingLuxembourg": 1,
+            "WikicatConflictsIn1940": 1,
+            "WikicatWarsInvolvingColombia": 1,
+            "WikicatWarsInvolvingEthiopia": 1
+        }
+    },
+    "Series 1": {
+        "entities": {
+            "French_Revolutionary_Wars": "Series",
+            "Napoleonic_Wars": "Series",
+            "Austro-Prussian_War": "War",
+            "Franco-Prussian_War": "Conflict"
+        },
+        "dcterms:subject_values": {
+            "Category:Wars involving Baden": 3,
+            "Category:1800s in France": 2,
+            "Category:Wars involving Italy": 2,
+            "Category:Global conflicts": 2,
+            "Category:Wars involving Württemberg": 2,
+            "Category:Wars involving Bavaria": 2,
+            "Category:Wars involving Saxony": 2
+        },
+        "rdf:type_values": {
+            "WikicatWarsInvolvingGermany": 4,
+            "DUL.owl#Event": 4,
+            "Conflict100958896": 4,
+            "Event": 4,
+            "War100973077": 4,
+            "PsychologicalFeature100023100": 4,
+            "Event100029378": 4,
+            "YagoPermanentlyLocatedEntity": 4,
+            "SocietalEvent": 4,
+            "MilitaryAction100952963": 4,
+            "MilitaryConflict": 4,
+            "Abstraction100002137": 4,
+            "ConflictEvent": 4,
+            "owl#Thing": 4,
+            "GroupAction101080366": 4,
+            "Act100030358": 4,
+            "Q1656682": 4,
+            "WikicatWarsInvolvingFrance": 3,
+            "Wikicat19th-centuryConflicts": 3,
+            "WikicatWarsInvolvingTheStatesAndPeoplesOfEurope": 2,
+            "TelevisionShow": 2,
+            "WikicatNapoleonicWars": 2,
+            "WikicatGlobalConflicts": 2,
+            "WikicatWarsInvolvingPrussia": 2
+        }
+    },
+    "Miscellaneous Cluster 1": {
+        "entities": {
+            "Cologne_War": "Not found"
+        }
+    },
+    "City 1": {
+        "entities": {
+            "Rostock": "City",
+            "Vienna": "Capital",
+            "Nuremberg": "City",
+            "Freiburg_im_Breisgau": "City",
+            "Munich": "Capital",
+            "Frankfurt": "City",
+            "Hamburg": "City",
+            "Berlin": "Capital",
+            "Potsdam": "Capital",
+            "Ruhr": "Area",
+            "Augsburg": "City",
+            "Rome": "City",
+            "Bonn": "City",
+            "Aachen": "Spa",
+            "Garmisch-Partenkirchen": "Town"
+        },
+        "dcterms:subject_values": {},
+        "rdf:type_values": {
+            "District108552138": 15,
+            "Location100027167": 15,
+            "Settlement": 15,
+            "YagoGeoEntity": 15,
+            "Place": 15,
+            "YagoLegalActorGeo": 15,
+            "YagoPermanentlyLocatedEntity": 15,
+            "Object100002684": 15,
+            "wgs84 pos#SpatialThing": 15,
+            "AdministrativeDistrict108491826": 15,
+            "PhysicalEntity100001930": 15,
+            "PopulatedPlace": 9,
+            "Location": 15,
+            "owl#Thing": 15,
+            "Q486972": 15,
+            "Region108630985": 15,
+            "City108524735": 14,
+            "GeographicalArea108574314": 14,
+            "Town108665504": 14,
+            "UrbanArea108675967": 14,
+            "Municipality108626283": 14,
+            "City": 12,
+            "Site108651247": 13,
+            "Tract108673395": 13,
+            "Q515": 12,
+            "WikicatCitiesInGermany": 11,
+            "WikicatUniversityTownsInGermany": 10,
+            "Area108497294": 10,
+            "Village": 9,
+            "Location Underspecified": 9
+        }
+    },
+    "Sea 1": {
+        "entities": {
+            "Baltic_Sea": "Sea",
+            "North_Sea": "Sea"
+        },
+        "dcterms:subject_values": {
+            "Category:European seas": 2,
+            "Category:Seas of Germany": 2,
+            "Category:Federal waterways in Germany": 2,
+            "Category:Seas of Denmark": 2,
+            "Category:Baltic Sea": 1,
+            "Category:Geography of Central Europe": 1,
+            "Category:Geography of Scandinavia": 1,
+            "Category:Bodies of water of Kaliningrad Oblast": 1,
+            "Category:Baltic region": 1,
+            "Category:Bodies of water of Sweden": 1,
+            "Category:Ecoregions of Sweden": 1,
+            "Category:Ecoregions of Lithuania": 1,
+            "Category:Ecoregions of Estonia": 1,
+            "Category:Ecoregions of Denmark": 1,
+            "Category:Ecoregions of Russia": 1,
+            "Category:Bodies of water of Estonia": 1,
+            "Category:Bodies of water of Finland": 1,
+            "Category:Ecoregions of Latvia": 1,
+            "Category:Geography of Eastern Europe": 1,
+            "Category:Seas of the Atlantic Ocean": 1,
+            "Category:Ecoregions of Poland": 1,
+            "Category:Bodies of water of Saint Petersburg": 1,
+            "Category:Bodies of water of Leningrad Oblast": 1,
+            "Category:Bodies of water of Poland": 1,
+            "Category:Articles containing video clips": 1,
+            "Category:Ecoregions of Finland": 1,
+            "Category:Geography of Northern Europe": 1,
+            "Category:Ecoregions of Germany": 1,
+            "Category:Seas of Russia": 1,
+            "Category:Bodies of water of Lithuania": 1,
+            "Category:Marginal seas of the Atlantic Ocean": 1,
+            "Category:Bodies of water of Belgium": 1,
+            "Category:Triple junctions": 1,
+            "Category:Seas of Norway": 1,
+            "Category:Seas of France": 1,
+            "Category:Bodies of water of the Netherlands": 1,
+            "Category:Bodies of water of England": 1,
+            "Category:Seas of the United Kingdom": 1,
+            "Category:North Sea": 1
+        },
+        "rdf:type_values": {
+            "Lake": 2,
+            "WikicatFederalWaterwaysInGermany": 2,
+            "YagoGeoEntity": 2,
+            "Place": 2,
+            "YagoPermanentlyLocatedEntity": 2,
+            "wgs84 pos#SpatialThing": 2,
+            "BodyOfWater": 2,
+            "Waterway109476331": 2,
+            "WikicatSeasOfTheAtlanticOcean": 2,
+            "PhysicalEntity100001930": 2,
+            "SeaBodyOfWater": 2,
+            "Sea109426788": 2,
+            "Location": 2,
+            "owl#Thing": 2,
+            "Sea": 2,
+            "NaturalPlace": 2,
+            "WikicatEuropeanSeas": 2,
+            "Ocean109376198": 2,
+            "BodyOfWater109225146": 2,
+            "Thing100002452": 2,
+            "WikicatSeasOfRussia": 1,
+            "WikicatSeasOfNorway": 1
+        }
+    },
+    "Airport 1": {
+        "entities": {
+            "Munich_Airport": "Airport",
+            "Frankfurt_Airport": "Airport",
+            "Berlin_Brandenburg_Airport": "Airport"
+        },
+        "dcterms:subject_values": {},
+        "rdf:type_values": {
+            "Airport": 3,
+            "ArchitecturalStructure": 3,
+            "YagoGeoEntity": 3,
+            "Q1248784": 3,
+            "Facility103315023": 3,
+            "Airport102692232": 3,
+            "YagoPermanentlyLocatedEntity": 3,
+            "Object100002684": 3,
+            "wgs84 pos#SpatialThing": 3,
+            "WikicatAirportsInGermany": 3,
+            "PhysicalEntity100001930": 3,
+            "WikicatAirportsInEurope": 3,
+            "Whole100003553": 3,
+            "Infrastructure": 3,
+            "owl#Thing": 3,
+            "Airport Physical": 3,
+            "Building": 3,
+            "Artifact100021939": 3,
+            "Airfield102687992": 3,
+            "Location Underspecified": 2
+        }
+    },
+    "Miscellaneous Cluster 2": {
+        "entities": {
+            "Deutsches_Wörterbuch": "Not found"
+        }
+    },
+    "Resource 1": {
+        "entities": {
+            "The_World_Factbook": "Resource"
+        }
+    },
+    "Series 2": {
+        "entities": {
+            "Michelin_Guide": "Series"
+        }
+    },
+    "Composer 1": {
+        "entities": {
+            "Felix_Mendelssohn": "Composer"
+        }
+    },
+    "Composer 2": {
+        "entities": {
+            "Carl_Maria_von_Weber": "Composer"
+        }
+    },
+    "Composer 3": {
+        "entities": {
+            "Ludwig_van_Beethoven": "Composer"
+        }
+    },
+    "Composer 4": {
+        "entities": {
+            "Richard_Wagner": "Composer"
+        }
+    },
+    "Architect 1": {
+        "entities": {
+            "Ludwig_Mies_van_der_Rohe": "Architect",
+            "Walter_Gropius": "Architect"
+        },
+        "dcterms:subject_values": {
+            "Category:Fellows of the American Institute of Architects": 2,
+            "Category:Bauhaus teachers": 2,
+            "Category:20th-century American architects": 2,
+            "Category:20th-century German architects": 2,
+            "Category:Modernist architects from Germany": 2,
+            "Category:Architecture educators": 2,
+            "Category:Recipients of the Royal Gold Medal": 2,
+            "Category:Recipients of the AIA Gold Medal": 2,
+            "Category:1969 deaths": 2,
+            "Category:German emigrants to the United States": 2,
+            "Category:Recipients of the Pour le Mérite (civil class)": 1,
+            "Category:Artists from Chicago": 1,
+            "Category:International style architects": 1,
+            "Category:People from the Rhine Province": 1,
+            "Category:19th-century Prussian people": 1,
+            "Category:Presidential Medal of Freedom recipients": 1,
+            "Category:German furniture designers": 1,
+            "Category:Functionalist architects": 1,
+            "Category:1886 births": 1,
+            "Category:Burials at Graceland Cemetery (Chicago)": 1,
+            "Category:Illinois Institute of Technology faculty": 1,
+            "Category:People from Aachen": 1,
+            "Category:Harvard Graduate School of Design faculty": 1,
+            "Category:People from Saxony-Anhalt": 1,
+            "Category:Honorary Members of the Royal Academy": 1,
+            "Category:Olympic competitors in art competitions": 1,
+            "Category:Bauhaus University, Weimar faculty": 1,
+            "Category:People from Lincoln, Massachusetts": 1,
+            "Category:Architects from Berlin": 1,
+            "Category:Black Mountain College faculty": 1,
+            "Category:Knights Commander of the Order of Merit of the Federal Republic of Germany": 1,
+            "Category:German Army personnel of World War I": 1,
+            "Category:1883 births": 1,
+            "Category:People from the Province of Brandenburg": 1
+        },
+        "rdf:type_values": {
+            "WikicatAmericanArchitects": 2,
+            "Professional110480253": 2,
+            "Exile110071332": 2,
+            "Expert109617867": 2,
+            "Creator109614315": 2,
+            "YagoLegalActorGeo": 2,
+            "Architect109805475": 2,
+            "Adult109605289": 2,
+            "Object100002684": 2,
+            "Artist109812338": 2,
+            "Theorist110706812": 2,
+            "WikicatArchitecturalTheoreticians": 2,
+            "WikicatGermanDesigners": 2,
+            "WikicatGermanEmigrantsToTheUnitedStates": 2,
+            "LivingThing100004258": 2,
+            "WikicatGermanArchitects": 2,
+            "PhysicalEntity100001930": 2,
+            "Whole100003553": 2,
+            "Organism100004475": 2,
+            "Person100007846": 2,
+            "Person": 1,
+            "Traveler109629752": 2,
+            "Migrant110314952": 2,
+            "WikicatArchitectureEducators": 2,
+            "owl#Thing": 2,
+            "Architect": 1,
+            "WikicatIndustrialDesigners": 2,
+            "Specialist110631941": 2,
+            "CausalAgent100007347": 2,
+            "Intellectual109621545": 2,
+            "WikicatModernistArchitects": 2,
+            "WikicatDesigners": 2,
+            "Absentee109757653": 2,
+            "WikicatGermanExiles": 2,
+            "Wikicat20th-centuryArchitects": 2,
+            "Educator110045713": 2,
+            "Emigrant110051975": 2,
+            "YagoLegalActor": 2,
+            "InteriorDesigner110210648": 2,
+            "WikicatEthnicGermanPeople": 2,
+            "WikicatPeopleFromTheRhineProvince": 1,
+            "WikicatFurnitureDesigners": 1,
+            "WikicatGermanFurnitureDesigners": 1,
+            "wgs84 pos#SpatialThing": 1,
+            "PersonWithOccupation": 1,
+            "WikicatAmericanFurnitureDesigners": 1,
+            "WikicatFunctionalistArchitects": 1,
+            "WikicatArtistsFromChicago,Illinois": 1,
+            "WikicatExpressionistArchitects": 1,
+            "WikicatPeopleFromAachen": 1,
+            "WikicatAmericanPeople": 1,
+            "WikicatInternationalStyleArchitects": 1,
+            "Q5": 1,
+            "Species": 1,
+            "WikicatPeopleFromBerlin": 1,
+            "WikicatArtistsFromBerlin": 1,
+            "Eukaryote": 1,
+            "WikicatGermanUrbanPlanners": 1,
+            "Q215627": 1,
+            "WikicatPeopleFromWeimar": 1,
+            "DUL.owl#NaturalPerson": 1,
+            "Animal": 1,
+            "Worker109632518": 1,
+            "Planner110438172": 1,
+            "WikicatGermanEngineers": 1,
+            "WikicatPeopleFromTheProvinceOfBrandenburg": 1,
+            "WikicatKnightCommandersOfTheOrderOfMeritOfTheFederalRepublicOfGermany": 1,
+            "Serviceman110582746": 1,
+            "WikicatPeopleFromDessau-Roßlau": 1,
+            "MilitaryOfficer110317007": 1,
+            "CommandingOfficer109941964": 1,
+            "Q19088": 1,
+            "Q42973": 1,
+            "Engineer109615807": 1,
+            "SkilledWorker110605985": 1,
+            "Q729": 1
+        }
+    },
+    "King 1": {
+        "entities": {
+            "Charlemagne": "King",
+            "Charles_VI_of_France": "King",
+            "Maria_Theresa": "Not found",
+            "Francis_I_of_France": "King",
+            "Frederick_William_IV_of_Prussia": "Not found"
+        },
+        "dcterms:subject_values": {},
+        "rdf:type_values": {
+            "Official110372373": 5,
+            "Q5": 5,
+            "Species": 5,
+            "Communicator109610660": 5,
+            "Sovereign110628644": 5,
+            "YagoLegalActorGeo": 5,
+            "Eukaryote": 5,
+            "RoyalFamily": 5,
+            "Q215627": 5,
+            "Owner110389398": 5,
+            "Holder110180178": 5,
+            "Object100002684": 5,
+            "Negotiator110351874": 5,
+            "Person": 5,
+            "DUL.owl#NaturalPerson": 5,
+            "Animal": 5,
+            "Worker109632518": 5,
+            "LivingThing100004258": 5,
+            "Royalty": 5,
+            "PhysicalEntity100001930": 5,
+            "Organism100004475": 5,
+            "Whole100003553": 5,
+            "Person100007846": 5,
+            "HeadOfState110164747": 5,
+            "owl#Thing": 5,
+            "Ruler110541229": 5,
+            "Leader109623038": 5,
+            "CausalAgent100007347": 5,
+            "King110231515": 5,
+            "Q19088": 5,
+            "Aristocrat109807754": 5,
+            "Representative110522035": 5,
+            "Officeholder110371450": 5,
+            "SkilledWorker110605985": 5,
+            "YagoLegalActor": 5,
+            "Q729": 5,
+            "WikicatRomanCatholicMonarchs": 4,
+            "MaleAristocrat110285135": 4,
+            "PersonWithOccupation": 4,
+            "Prince110472799": 4,
+            "Duke110038620": 3,
+            "Peer110412910": 3,
+            "Noble110271677": 3
+        }
+    },
+    "Founder 1": {
+        "entities": {
+            "Augustus": "Founder"
+        }
+    },
+    "Politician 1": {
+        "entities": {
+            "Heinrich_Brüning": "Chancellor",
+            "Friedrich_Ebert": "Politician",
+            "Konrad_Adenauer": "Not found",
+            "Olaf_Scholz": "Politician",
+            "Angela_Merkel": "Not found",
+            "Frank-Walter_Steinmeier": "Not found"
+        },
+        "dcterms:subject_values": {
+            "Category:Chancellors of Germany": 5,
+            "Category:20th-century Chancellors of Germany": 3,
+            "Category:Prussian politicians": 3,
+            "Category:Foreign Ministers of Germany": 3,
+            "Category:Living people": 3,
+            "Category:Members of the Bundestag 2009–2013": 3
+        },
+        "rdf:type_values": {
+            "Official110372373": 6,
+            "Q5": 6,
+            "Species": 6,
+            "OfficeHolder": 6,
+            "YagoLegalActorGeo": 6,
+            "Eukaryote": 6,
+            "Q215627": 6,
+            "Owner110389398": 6,
+            "Object100002684": 6,
+            "Holder110180178": 6,
+            "Person": 6,
+            "DUL.owl#NaturalPerson": 6,
+            "Animal": 6,
+            "Head110162991": 6,
+            "Worker109632518": 6,
+            "LivingThing100004258": 6,
+            "WikicatGermanPoliticians": 6,
+            "PhysicalEntity100001930": 6,
+            "Q82955": 6,
+            "Organism100004475": 6,
+            "Whole100003553": 6,
+            "Person100007846": 6,
+            "Administrator109770949": 6,
+            "owl#Thing": 6,
+            "Politician": 6,
+            "Leader109623038": 6,
+            "CausalAgent100007347": 6,
+            "Politician110450303": 6,
+            "Q19088": 6,
+            "Officeholder110371450": 6,
+            "Executive110069645": 6,
+            "Minister110320863": 6,
+            "SkilledWorker110605985": 6,
+            "YagoLegalActor": 6,
+            "Q729": 6,
+            "Adult109605289": 5,
+            "WikicatLeadersOfPoliticalPartiesInGermany": 5,
+            "WikicatEthnicGermanPeople": 5,
+            "Professional110480253": 3,
+            "ForeignMinister110103794": 3,
+            "WikicatPrussianPoliticians": 3,
+            "WikicatForeignMinistersOfGermany": 3,
+            "Communicator109610660": 3,
+            "WikicatGrandOfficersOfTheOrderOfMeritOfTheItalianRepublic": 3,
+            "MilitaryOfficer110317007": 3,
+            "Serviceman110582746": 3,
+            "WikicatLivingPeople": 3
+        }
+    },
+    "Philosopher 1": {
+        "entities": {
+            "Friedrich_Engels": "Philosopher",
+            "Karl_Marx": "Philosopher"
+        },
+        "dcterms:subject_values": {
+            "Category:19th-century German philosophers": 2,
+            "Category:Philosophers of history": 2,
+            "Category:Marxist theorists": 2,
+            "Category:Critics of political economy": 2,
+            "Category:Materialists": 2,
+            "Category:German revolutionaries": 2,
+            "Category:Cultural critics": 2,
+            "Category:Social critics": 2,
+            "Category:19th-century atheists": 2,
+            "Category:Karl Marx": 2,
+            "Category:German political philosophers": 2,
+            "Category:German Communist writers": 2,
+            "Category:German anti-capitalists": 2,
+            "Category:Theorists on Western civilization": 2,
+            "Category:Atheist philosophers": 2,
+            "Category:Socialist economists": 2,
+            "Category:German social commentators": 2,
+            "Category:German atheism activists": 2,
+            "Category:Social philosophers": 2,
+            "Category:German atheist writers": 2,
+            "Category:Philosophers of economics": 2,
+            "Category:German Marxist writers": 2,
+            "Category:German emigrants to England": 2,
+            "Category:Members of the International Workingmen's Association": 2,
+            "Category:Philosophers of culture": 2,
+            "Category:Orthodox Marxists": 1,
+            "Category:19th-century German non-fiction writers": 1,
+            "Category:People of the Revolutions of 1848": 1,
+            "Category:People from the Rhine Province": 1,
+            "Category:19th-century Prussian people": 1,
+            "Category:Prussian Army personnel": 1,
+            "Category:People from the Province of Jülich-Cleves-Berg": 1,
+            "Category:Urban theorists": 1,
+            "Category:1820 births": 1,
+            "Category:Marxist feminists": 1,
+            "Category:Friedrich Engels": 1,
+            "Category:Theoretical historians": 1,
+            "Category:Deaths from throat cancer": 1,
+            "Category:19th-century German businesspeople": 1,
+            "Category:German feminists": 1,
+            "Category:Businesspeople from Wuppertal": 1,
+            "Category:German journalists": 1,
+            "Category:19th-century German economists": 1,
+            "Category:Writers from Wuppertal": 1,
+            "Category:19th-century German male writers": 1,
+            "Category:European democratic socialists": 1,
+            "Category:Deaths from cancer in England": 1,
+            "Category:1895 deaths": 1,
+            "Category:German industrialists": 1,
+            "Category:Marxist journalists": 1,
+            "Category:Writers about globalization": 1,
+            "Category:Historians of economic thought": 1,
+            "Category:German tax resisters": 1,
+            "Category:Anti-consumerists": 1,
+            "Category:Philosophical anthropology": 1,
+            "Category:Ontologists": 1,
+            "Category:Burials at Highgate Cemetery": 1,
+            "Category:Writers about religion and science": 1,
+            "Category:Socialism": 1,
+            "Category:Philosophers of law": 1,
+            "Category:19th-century German historians": 1,
+            "Category:Critics of work and the work ethic": 1,
+            "Category:Marxian economists": 1,
+            "Category:German expatriates in the United Kingdom": 1,
+            "Category:Philosophers of science": 1,
+            "Category:1818 births": 1,
+            "Category:Revolutionaries": 1,
+            "Category:1883 deaths": 1,
+            "Category:German communists": 1,
+            "Category:Philosophers of technology": 1,
+            "Category:Continental philosophers": 1,
+            "Category:Stateless people": 1,
+            "Category:Philosophers of education": 1,
+            "Category:Philosophers of ethics and morality": 1,
+            "Category:Anti-imperialism": 1,
+            "Category:University of Bonn alumni": 1,
+            "Category:German expatriates in France": 1,
+            "Category:Economic historians": 1,
+            "Category:German opinion journalists": 1,
+            "Category:German socialists": 1,
+            "Category:People from Trier": 1,
+            "Category:German expatriates in Belgium": 1,
+            "Category:Anti-globalization activists": 1,
+            "Category:German male non-fiction writers": 1,
+            "Category:Humboldt University of Berlin alumni": 1,
+            "Category:Philosophers of religion": 1,
+            "Category:Moral philosophers": 1,
+            "Category:German sociologists": 1,
+            "Category:Philosophers of mind": 1,
+            "Category:Male journalists": 1,
+            "Category:Marxist historians": 1,
+            "Category:Epistemologists": 1,
+            "Category:Metaphysicians": 1,
+            "Category:Pamphleteers": 1,
+            "Category:Writers about activism and social change": 1,
+            "Category:University of Jena alumni": 1,
+            "Category:Deaths from bronchitis": 1,
+            "Category:Critics of religions": 1,
+            "Category:German anti-poverty advocates": 1,
+            "Category:Conflict theory": 1,
+            "Category:German people of Dutch-Jewish descent": 1,
+            "Category:People from the Grand Duchy of the Lower Rhine": 1,
+            "Category:German Marxists": 1
+        },
+        "rdf:type_values": {
+            "WikicatPhilosophersOfHistory": 2,
+            "Communicator109610660": 2,
+            "WikicatPeopleFromTheRhineProvince": 2,
+            "Eukaryote": 2,
+            "Q215627": 2,
+            "Object100002684": 2,
+            "WikicatGermanAtheists": 2,
+            "Capitalist109609232": 2,
+            "NonreligiousPerson109625789": 2,
+            "Traveler109629752": 2,
+            "Migrant110314952": 2,
+            "Person": 2,
+            "Sociologist110620758": 2,
+            "CausalAgent100007347": 2,
+            "Philosopher": 2,
+            "SocialScientist110619642": 2,
+            "Scientist110560637": 2,
+            "YagoLegalActorGeo": 2,
+            "Wikicat19th-centuryGermanWriters": 2,
+            "Reformer110515194": 2,
+            "Wikicat19th-centuryEconomists": 2,
+            "Atheist109820044": 2,
+            "DUL.owl#NaturalPerson": 2,
+            "LivingThing100004258": 2,
+            "Philosopher110423589": 2,
+            "WikicatGermanEconomists": 2,
+            "Disbeliever110015897": 2,
+            "Scholar110557854": 2,
+            "owl#Thing": 2,
+            "WikicatEnglishPhilosophers": 2,
+            "WikicatGermanPhilosophers": 2,
+            "Materialist110300963": 2,
+            "Q19088": 2,
+            "WikicatRevolutionaries": 2,
+            "Economist110043643": 2,
+            "WikicatEthnicGermanPeople": 2,
+            "YagoLegalActor": 2,
+            "Q5": 2,
+            "WikicatMaterialists": 2,
+            "Revolutionist110527334": 2,
+            "WikicatGermanSociologists": 2,
+            "Radical110503452": 2,
+            "Wikicat19th-centuryPrussianPeople": 2,
+            "WikicatPoliticalPhilosophers": 2,
+            "PhysicalEntity100001930": 2,
+            "Organism100004475": 2,
+            "Whole100003553": 2,
+            "WikicatEnglishRevolutionaries": 2,
+            "WikicatEnglishEconomists": 2,
+            "WikicatGermanRevolutionaries": 2,
+            "Intellectual109621545": 2,
+            "WikicatPhilosophersOfLaw": 2,
+            "Animal": 2,
+            "WikicatAtheistPhilosophers": 2,
+            "Species": 2,
+            "WikicatMarxistTheorists": 2,
+            "Disputant109615465": 2,
+            "Theorist110706812": 2,
+            "PersonWithOccupation": 2,
+            "Writer110794014": 2,
+            "Person100007846": 2,
+            "WikicatGermanEmigrantsToTheUnitedKingdom": 2,
+            "Wikicat19th-centuryPhilosophers": 2,
+            "Emigrant110051975": 2,
+            "Q729": 2,
+            "Businessman109882007": 1,
+            "WikicatEnglishPeopleOfGermanDescent": 1,
+            "WikicatPopulatedPlacesOnTheVolga": 1,
+            "Tract108673395": 1,
+            "WikicatFeminists": 1,
+            "WikicatGermanWriters": 1,
+            "WikicatPeopleOfTheRevolutionsOf1848": 1,
+            "WikicatEnglishAtheists": 1,
+            "Location100027167": 1,
+            "GeographicalArea108574314": 1,
+            "Site108651247": 1,
+            "WikicatMaleFeminists": 1,
+            "AdministrativeDistrict108491826": 1,
+            "Businessperson109882716": 1,
+            "UrbanArea108675967": 1,
+            "Municipality108626283": 1,
+            "Feminist110084635": 1,
+            "WikicatGermanFeminists": 1,
+            "Region108630985": 1,
+            "WikicatPeopleFromWuppertal": 1,
+            "WikicatMilitaryTheorists": 1,
+            "YagoPermanentlyLocatedEntity": 1,
+            "WikicatBritishIndustrialists": 1,
+            "Industrialist110204177": 1,
+            "WikicatWriters": 1,
+            "WikicatUrbanTheorists": 1,
+            "WikicatPopulatedPlacesEstablishedIn1747": 1,
+            "WikicatMarxistFeminists": 1,
+            "District108552138": 1,
+            "WikicatCitiesAndTownsInSaratovOblast": 1,
+            "YagoGeoEntity": 1,
+            "City108524735": 1,
+            "WikicatEnglishFeminists": 1,
+            "WikicatGermanPoliticalPhilosophers": 1,
+            "Expert109617867": 1,
+            "WikicatExiles": 1,
+            "Authority109824361": 1,
+            "Refugee110516016": 1,
+            "WikicatEconomicsWriters": 1,
+            "WikicatAnti–deathPenaltyActivists": 1,
+            "WikicatEnglishSocialists": 1,
+            "WikicatSociologists": 1,
+            "WikicatEconomicHistorians": 1,
+            "WikicatSocialPhilosophers": 1,
+            "Historian110177150": 1,
+            "WikicatGermanTaxResisters": 1,
+            "Militant110315837": 1,
+            "Socialist110618848": 1,
+            "DisplacedPerson110017890": 1,
+            "Leader109623038": 1,
+            "WikicatHistoriansOfEconomicThought": 1,
+            "WikicatJewishHistorians": 1,
+            "Absentee109757653": 1,
+            "WikicatPoliticalWriters": 1,
+            "WikicatGermanSocialists": 1,
+            "WikicatMarxistHistorians": 1,
+            "Exile110071332": 1,
+            "Evaluator110066732": 1,
+            "WikicatWritersAboutGlobalization": 1,
+            "WikicatEmigrants": 1,
+            "WikicatMenSociologists": 1,
+            "WikicatPeopleAssociatedWithTheRoyalSocietyOfArts": 1,
+            "Critic109979321": 1,
+            "WikicatSocialists": 1,
+            "WikicatEnglishHistorians": 1,
+            "WikicatPeopleFromTrier": 1,
+            "WikicatEarlyModernPhilosophers": 1,
+            "WikicatJournalists": 1,
+            "Wikicat19th-centuryJournalists": 1,
+            "WikicatGermanJournalists": 1,
+            "WikicatJewishAtheists": 1,
+            "WikicatJewishPhilosophers": 1,
+            "WikicatCriticsOfReligions": 1,
+            "Obstructionist110349243": 1,
+            "WikicatGermanHistorians": 1,
+            "WikicatMarxianEconomists": 1,
+            "WikicatPeopleFromLondon": 1,
+            "Wikicat19th-centuryGermanPeople": 1,
+            "Journalist110224578": 1,
+            "Politician110450303": 1,
+            "WikicatJewishSociologists": 1,
+            "WikicatStatelessPeople": 1,
+            "WikicatMarxistJournalists": 1
+        }
+    },
+    "Philosopher 2": {
+        "entities": {
+            "Oswald_Spengler": "Historian",
+            "Johann_Gottlieb_Fichte": "Not found",
+            "Immanuel_Kant": "Philosopher",
+            "Georg_Wilhelm_Friedrich_Hegel": "Philosopher",
+            "Friedrich_Wilhelm_Joseph_Schelling": "Philosopher",
+            "Martin_Heidegger": "Philosopher"
+        },
+        "dcterms:subject_values": {
+            "Category:Philosophers of history": 6,
+            "Category:Continental philosophers": 6,
+            "Category:Philosophers of culture": 6,
+            "Category:Cultural critics": 5,
+            "Category:Social critics": 5,
+            "Category:Philosophers of art": 5,
+            "Category:Ontologists": 5,
+            "Category:Social philosophers": 5,
+            "Category:Epistemologists": 5,
+            "Category:Metaphysicians": 5,
+            "Category:Philosophers of religion": 5,
+            "Category:Philosophy writers": 4,
+            "Category:Philosophers of science": 4,
+            "Category:Historians of philosophy": 4,
+            "Category:Political philosophers": 4,
+            "Category:Theorists on Western civilization": 4,
+            "Category:Philosophers of education": 4,
+            "Category:German male non-fiction writers": 4,
+            "Category:19th-century German philosophers": 4,
+            "Category:Idealists": 4,
+            "Category:German idealism": 4,
+            "Category:18th-century German philosophers": 4,
+            "Category:Philosophers of mind": 4,
+            "Category:German Lutherans": 4,
+            "Category:19th-century German male writers": 4,
+            "Category:German nationalists": 3,
+            "Category:Theoretical historians": 3,
+            "Category:Humboldt University of Berlin faculty": 3,
+            "Category:Metaphilosophers": 3,
+            "Category:Moral philosophers": 3,
+            "Category:German social commentators": 3,
+            "Category:Philosophers of ethics and morality": 3,
+            "Category:Infectious disease deaths in Germany": 3,
+            "Category:18th-century German male writers": 3,
+            "Category:University of Jena faculty": 3,
+            "Category:19th-century essayists": 3
+        },
+        "rdf:type_values": {
+            "Q5": 6,
+            "Q4964182": 6,
+            "Species": 6,
+            "Communicator109610660": 6,
+            "YagoLegalActorGeo": 6,
+            "Eukaryote": 6,
+            "Q215627": 6,
+            "Q729": 6,
+            "Object100002684": 6,
+            "Person": 6,
+            "DUL.owl#NaturalPerson": 6,
+            "Writer110794014": 6,
+            "LivingThing100004258": 6,
+            "Philosopher110423589": 6,
+            "PhysicalEntity100001930": 6,
+            "Organism100004475": 6,
+            "Whole100003553": 6,
+            "Person100007846": 6,
+            "Scholar110557854": 6,
+            "owl#Thing": 6,
+            "CausalAgent100007347": 6,
+            "WikicatGermanPhilosophers": 6,
+            "Intellectual109621545": 6,
+            "Q19088": 6,
+            "Philosopher": 5,
+            "YagoLegalActor": 6,
+            "Animal": 6,
+            "WikicatEthnicGermanPeople": 6,
+            "PersonWithOccupation": 5,
+            "WikicatContinentalPhilosophers": 5,
+            "WikicatChristianPhilosophers": 4,
+            "Wikicat18th-centuryGermanWriters": 4,
+            "Visionary110756641": 4,
+            "WikicatProtestantPhilosophers": 4,
+            "WikicatIdealists": 4,
+            "WikicatEarlyModernPhilosophers": 4,
+            "Idealist110196965": 4,
+            "WikicatPhilosophersOfArt": 4,
+            "Theorist110706812": 3,
+            "Wikicat19th-centuryGermanWriters": 3,
+            "WikicatPoliticalPhilosophers": 3,
+            "Wikicat19th-centuryPhilosophers": 3
+        }
+    },
+    "Philosopher 3": {
+        "entities": {
+            "Friedrich_Nietzsche": "Philosopher"
+        }
+    },
+    "Director 1": {
+        "entities": {
+            "Fritz_Lang": "Filmmaker",
+            "Wim_Wenders": "Filmmaker",
+            "Robert_Wiene": "Director",
+            "Werner_Herzog": "Director",
+            "F._W._Murnau": "Director",
+            "Volker_Schlöndorff": "Filmmaker"
+        },
+        "dcterms:subject_values": {
+            "Category:German film directors": 4,
+            "Category:English-language film directors": 3,
+            "Category:Horror film directors": 3,
+            "Category:Living people": 3
+        },
+        "rdf:type_values": {
+            "Q5": 6,
+            "Species": 6,
+            "FilmMaker110088390": 6,
+            "Creator109614315": 6,
+            "YagoLegalActorGeo": 6,
+            "WikicatGerman-languageFilmDirectors": 6,
+            "Eukaryote": 6,
+            "Q215627": 6,
+            "Object100002684": 6,
+            "Person": 6,
+            "Animal": 6,
+            "DUL.owl#NaturalPerson": 6,
+            "FilmDirector110088200": 6,
+            "LivingThing100004258": 6,
+            "Person100007846": 6,
+            "PhysicalEntity100001930": 6,
+            "Organism100004475": 6,
+            "Whole100003553": 6,
+            "Producer110480018": 6,
+            "owl#Thing": 6,
+            "CausalAgent100007347": 6,
+            "Q19088": 6,
+            "YagoLegalActor": 6,
+            "WikicatEthnicGermanPeople": 6,
+            "Q729": 6,
+            "WikicatGermanFilmDirectors": 5,
+            "Head110162991": 4,
+            "Director110014939": 4,
+            "Traveler109629752": 4,
+            "Administrator109770949": 4,
+            "Leader109623038": 4,
+            "Communicator109610660": 3,
+            "WikicatSilentFilmDirectors": 3,
+            "Exile110071332": 3,
+            "WikicatEnglish-languageFilmDirectors": 3,
+            "Scriptwriter110564905": 3,
+            "Writer110794014": 3,
+            "Screenwriter110564400": 3,
+            "Absentee109757653": 3,
+            "WikicatLivingPeople": 3
+        }
+    },
+    "DJ 1": {
+        "entities": {
+            "Robin_Schulz": "DJ",
+            "Paul_Kalkbrenner": "Not found",
+            "Paul_van_Dyk": "DJ"
+        },
+        "dcterms:subject_values": {
+            "Category:German DJs": 3,
+            "Category:Electronic dance music DJs": 3,
+            "Category:Living people": 3,
+            "Category:German dance musicians": 2,
+            "Category:Remixers": 2,
+            "Category:Ableton Live users": 2
+        },
+        "rdf:type_values": {
+            "Q5": 3,
+            "Species": 3,
+            "Artist": 3,
+            "Communicator109610660": 3,
+            "WikicatLivingPeople": 3,
+            "Creator109614315": 3,
+            "YagoLegalActorGeo": 3,
+            "Eukaryote": 3,
+            "Q215627": 3,
+            "Q729": 3,
+            "Object100002684": 3,
+            "Artist109812338": 3,
+            "Person": 3,
+            "DUL.owl#NaturalPerson": 3,
+            "DiskJockey110017272": 3,
+            "LivingThing100004258": 3,
+            "MusicGroup": 3,
+            "Broadcaster109875786": 3,
+            "Musician110339966": 3,
+            "WikicatGermanDJs": 3,
+            "PhysicalEntity100001930": 3,
+            "Organism100004475": 3,
+            "Whole100003553": 3,
+            "Person100007846": 3,
+            "owl#Thing": 3,
+            "CausalAgent100007347": 3,
+            "Q19088": 3,
+            "Q483501": 3,
+            "MusicalArtist": 3,
+            "YagoLegalActor": 3,
+            "Animal": 3,
+            "WikicatGermanDanceMusicians": 2,
+            "User110741590": 2,
+            "WikicatAbletonLiveUsers": 2,
+            "WikicatClubDJs": 2,
+            "WikicatGermanMusicians": 2,
+            "WikicatGermanElectronicMusicians": 2,
+            "WikicatEthnicGermanPeople": 2
+        }
+    },
+    "Painter 1": {
+        "entities": {
+            "Hermann_Muthesius": "Architect",
+            "Gottfried_Böhm": "Architect",
+            "Max_Ernst": "Painter",
+            "Carl_Spitzweg": "Painter",
+            "Caspar_David_Friedrich": "Painter",
+            "Max_Liebermann": "Painter"
+        },
+        "dcterms:subject_values": {
+            "Category:German male painters": 4,
+            "Category:19th-century German painters": 3
+        },
+        "rdf:type_values": {
+            "Q5": 6,
+            "Species": 6,
+            "Creator109614315": 6,
+            "YagoLegalActorGeo": 6,
+            "Eukaryote": 6,
+            "Q215627": 6,
+            "Q729": 6,
+            "Object100002684": 6,
+            "Person": 6,
+            "DUL.owl#NaturalPerson": 6,
+            "LivingThing100004258": 6,
+            "PhysicalEntity100001930": 6,
+            "Organism100004475": 6,
+            "Whole100003553": 6,
+            "Person100007846": 6,
+            "owl#Thing": 6,
+            "CausalAgent100007347": 6,
+            "Q19088": 6,
+            "YagoLegalActor": 6,
+            "Animal": 6,
+            "Artist109812338": 5,
+            "Artist": 4,
+            "Painter110391653": 4,
+            "Q483501": 4,
+            "WikicatGermanPainters": 4,
+            "WikicatEthnicGermanPeople": 3,
+            "Wikicat19th-centuryGermanPainters": 3
+        }
+    },
+    "Composer 5": {
+        "entities": {
+            "George_Frideric_Handel": "Not found",
+            "Johann_Sebastian_Bach": "Composer",
+            "Dieterich_Buxtehude": "Organist"
+        },
+        "dcterms:subject_values": {
+            "Category:18th-century keyboardists": 3,
+            "Category:Composers for harpsichord": 3,
+            "Category:German male organists": 3,
+            "Category:German Baroque composers": 3,
+            "Category:Male classical organists": 3,
+            "Category:Composers for pipe organ": 3,
+            "Category:Organ improvisers": 3,
+            "Category:1685 births": 2,
+            "Category:18th-century German composers": 2,
+            "Category:18th-century German male musicians": 2,
+            "Category:Classical composers of church music": 2,
+            "Category:Oratorio composers": 2,
+            "Category:German classical organists": 2,
+            "Category:German classical composers": 2,
+            "Category:German male classical composers": 2,
+            "Category:Organists and composers in the North German tradition": 2
+        },
+        "rdf:type_values": {
+            "Composer109947232": 3,
+            "Q5": 3,
+            "Species": 3,
+            "Creator109614315": 3,
+            "YagoLegalActorGeo": 3,
+            "Eukaryote": 3,
+            "Q215627": 3,
+            "WikicatGermanComposers": 3,
+            "Q729": 3,
+            "Object100002684": 3,
+            "Performer110415638": 3,
+            "Artist109812338": 3,
+            "Person": 3,
+            "DUL.owl#NaturalPerson": 3,
+            "Animal": 3,
+            "LivingThing100004258": 3,
+            "Musician110340312": 3,
+            "Musician110339966": 3,
+            "Organist110382825": 3,
+            "PhysicalEntity100001930": 3,
+            "Organism100004475": 3,
+            "Whole100003553": 3,
+            "Person100007846": 3,
+            "owl#Thing": 3,
+            "CausalAgent100007347": 3,
+            "Q19088": 3,
+            "WikicatGermanClassicalOrganists": 3,
+            "WikicatComposersForPipeOrgan": 3,
+            "YagoLegalActor": 3,
+            "WikicatBaroqueComposers": 3,
+            "Entertainer109616922": 3,
+            "Saint110546850": 2,
+            "Wikicat18th-centuryGermanPeople": 2,
+            "Wikicat18th-centuryComposers": 2,
+            "WikicatGermanClassicalComposers": 2,
+            "WikicatOratorioComposers": 2,
+            "WikicatPeopleCelebratedInTheLutheranLiturgicalCalendar": 2,
+            "Wikicat18th-centuryClassicalComposers": 2,
+            "WikicatClassicalComposers": 2,
+            "GoodPerson110138767": 2,
+            "WikicatClassicalComposersOfChurchMusic": 2,
+            "WikicatGermanMusicians": 2,
+            "WikicatAnglicanSaints": 2,
+            "WikicatSacredMusicComposers": 2,
+            "WikicatComposers": 2,
+            "WikicatClassicalOrganists": 2,
+            "WikicatGermanHarpsichordists": 2,
+            "WikicatOrganistsAndComposersInTheNorthGermanTradition": 2,
+            "WikicatGermanOrganists": 2,
+            "Harpsichordist110161047": 2
+        }
+    },
+    "Composer 6": {
+        "entities": {
+            "Richard_Strauss": "Composer"
+        }
+    },
+    "Composer 7": {
+        "entities": {
+            "Robert_Schumann": "Composer"
+        }
+    },
+    "Rihm 1": {
+        "entities": {
+            "Wolfgang_Rihm": "Rihm"
+        }
+    },
+    "Novelist 1": {
+        "entities": {
+            "Günter_Grass": "Novelist",
+            "Heinrich_Böll": "Germany",
+            "Thomas_Mann": "Novelist",
+            "Gerhart_Hauptmann": "Dramatist"
+        },
+        "dcterms:subject_values": {
+            "Category:Nobel laureates in Literature": 4,
+            "Category:German Nobel laureates": 4,
+            "Category:German male novelists": 4,
+            "Category:20th-century German novelists": 4,
+            "Category:German autobiographers": 3,
+            "Category:20th-century German short story writers": 3,
+            "Category:German male short story writers": 3,
+            "Category:German male dramatists and playwrights": 2,
+            "Category:German male poets": 2,
+            "Category:20th-century German dramatists and playwrights": 2,
+            "Category:German essayists": 2,
+            "Category:German Roman Catholics": 2,
+            "Category:Georg Büchner Prize winners": 2,
+            "Category:German prisoners of war in World War II held by the United States": 2,
+            "Category:Recipients of the Pour le Mérite (civil class)": 2,
+            "Category:19th-century German novelists": 2,
+            "Category:19th-century German short story writers": 2
+        },
+        "rdf:type_values": {
+            "Communicator109610660": 4,
+            "Eukaryote": 4,
+            "Q215627": 4,
+            "Object100002684": 4,
+            "WikicatGermanNovelists": 4,
+            "Honoree110183757": 4,
+            "Poet110444194": 4,
+            "Person": 4,
+            "CausalAgent100007347": 4,
+            "WikicatGermanWriters": 4,
+            "WikicatGermanNobelLaureates": 4,
+            "YagoLegalActorGeo": 4,
+            "Q36180": 4,
+            "DUL.owl#NaturalPerson": 4,
+            "LivingThing100004258": 4,
+            "owl#Thing": 4,
+            "Q19088": 4,
+            "Recipient109627906": 4,
+            "YagoLegalActor": 4,
+            "Writer": 4,
+            "Q5": 4,
+            "Wikicat20th-centuryGermanWriters": 4,
+            "PhysicalEntity100001930": 4,
+            "Organism100004475": 4,
+            "Whole100003553": 4,
+            "Laureate110249011": 4,
+            "WikicatWriters": 4,
+            "WikicatNobelLaureatesInLiterature": 4,
+            "Animal": 4,
+            "Species": 4,
+            "Writer110794014": 4,
+            "Novelist110363573": 4,
+            "Person100007846": 4,
+            "Acquirer109764201": 4,
+            "WikicatGerman-languagePoets": 4,
+            "WikicatGerman-languageWriters": 4,
+            "Q729": 4,
+            "Autobiographer109825296": 3,
+            "Biographer109855433": 3,
+            "WikicatGermanAutobiographers": 3,
+            "WikicatGermanShortStoryWriters": 3,
+            "WikicatEthnicGermanPeople": 3,
+            "Gambler110118844": 2,
+            "Scriptwriter110564905": 2,
+            "Refugee110516016": 2,
+            "Traveler109629752": 2,
+            "WikicatScreenwriters": 2,
+            "WikicatGermanEssayists": 2,
+            "PrizeWinner109627807": 2,
+            "Alumnus109786338": 2,
+            "WikicatGeorgBüchnerPrizeWinners": 2,
+            "Scholar110557854": 2,
+            "Screenwriter110564400": 2,
+            "Absentee109757653": 2,
+            "Exile110071332": 2,
+            "WikicatGermanPoets": 2,
+            "WikicatGermanDramatistsAndPlaywrights": 2,
+            "Essayist110064405": 2,
+            "Intellectual109621545": 2,
+            "Winner110782791": 2,
+            "Dramatist110030277": 2,
+            "Adult109605289": 2,
+            "Wikicat19th-centuryGermanWriters": 2
+        }
+    },
+    "Writer 1": {
+        "entities": {
+            "Gotthold_Ephraim_Lessing": "Writer",
+            "Friedrich_Schiller": "Poet",
+            "Johann_Wolfgang_von_Goethe": "Writer"
+        },
+        "dcterms:subject_values": {
+            "Category:German male dramatists and playwrights": 3,
+            "Category:German male poets": 3,
+            "Category:18th-century German dramatists and playwrights": 3,
+            "Category:18th-century German poets": 3,
+            "Category:Enlightenment philosophers": 3,
+            "Category:German male non-fiction writers": 3,
+            "Category:German Freemasons": 2,
+            "Category:German-language poets": 2,
+            "Category:Leipzig University alumni": 2,
+            "Category:19th-century German philosophers": 2,
+            "Category:Philosophers of literature": 2,
+            "Category:19th-century German non-fiction writers": 2,
+            "Category:Sturm und Drang": 2,
+            "Category:Philosophy writers": 2,
+            "Category:German untitled nobility": 2,
+            "Category:Cultural critics": 2,
+            "Category:Social critics": 2,
+            "Category:19th-century German dramatists and playwrights": 2,
+            "Category:18th-century German philosophers": 2,
+            "Category:19th-century German poets": 2,
+            "Category:Philosophers of art": 2,
+            "Category:Philosophers of education": 2,
+            "Category:Johann Wolfgang von Goethe": 2,
+            "Category:18th-century German male writers": 2,
+            "Category:19th-century German male writers": 2,
+            "Category:Philosophers of culture": 2
+        },
+        "rdf:type_values": {
+            "Q5": 3,
+            "Species": 3,
+            "Communicator109610660": 3,
+            "Professional110480253": 3,
+            "Dramatist110030277": 3,
+            "WikicatGermanPoets": 3,
+            "WikicatGermanDramatistsAndPlaywrights": 3,
+            "YagoLegalActorGeo": 3,
+            "Eukaryote": 3,
+            "Writer": 3,
+            "Q215627": 3,
+            "Adult109605289": 3,
+            "WikicatEnlightenmentPhilosophers": 3,
+            "Object100002684": 3,
+            "Q36180": 3,
+            "Artist": 3,
+            "Person": 3,
+            "DUL.owl#NaturalPerson": 3,
+            "Animal": 3,
+            "PersonWithOccupation": 3,
+            "LivingThing100004258": 3,
+            "Writer110794014": 3,
+            "Wikicat18th-centuryGermanWriters": 3,
+            "Philosopher110423589": 3,
+            "PhysicalEntity100001930": 3,
+            "Organism100004475": 3,
+            "Whole100003553": 3,
+            "Person100007846": 3,
+            "Scholar110557854": 3,
+            "Poet110444194": 3,
+            "WikicatWriters": 3,
+            "owl#Thing": 3,
+            "CausalAgent100007347": 3,
+            "WikicatGermanPhilosophers": 3,
+            "Wikicat18th-centuryDramatistsAndPlaywrights": 3,
+            "WikicatGermanWriters": 3,
+            "WikicatGerman-languageWriters": 3,
+            "Intellectual109621545": 3,
+            "Q19088": 3,
+            "YagoLegalActor": 3,
+            "Q729": 3,
+            "Librarian110257948": 2,
+            "WikicatEarlyModernPhilosophers": 2,
+            "WikicatGermanLibrarians": 2,
+            "WikicatEthnicGermanPeople": 2,
+            "WikicatGermanNovelists": 2,
+            "Wikicat19th-centuryDramatistsAndPlaywrights": 2,
+            "Wikicat19th-centuryGermanWriters": 2,
+            "WikicatPeopleFromWeimar": 2,
+            "Wikicat18th-centuryNovelists": 2,
+            "Novelist110363573": 2,
+            "WikicatGerman-languagePoets": 2
+        }
+    },
+    "Politician 2": {
+        "entities": {
+            "Klemens_von_Metternich": "Politician"
+        }
+    },
+    "Miscellaneous Cluster 3": {
+        "entities": {
+            "Otto_von_Bismarck": "Not found"
+        }
+    },
+    "Leader 1": {
+        "entities": {
+            "Napoleon": "Leader"
+        }
+    },
+    "Emperor 1": {
+        "entities": {
+            "Wilhelm_II,_German_Emperor": "Emperor"
+        }
+    },
+    "Politician 3": {
+        "entities": {
+            "Adolf_Hitler": "Politician"
+        }
+    },
+    "Statesman 1": {
+        "entities": {
+            "Willy_Brandt": "Statesman"
+        }
+    },
+    "Miscellaneous Cluster 4": {
+        "entities": {
+            "Julius_Caesar": "Not found"
+        }
+    },
+    "Senator 1": {
+        "entities": {
+            "Tacitus": "Senator"
+        }
+    },
+    "Blacksmith 1": {
+        "entities": {
+            "Johannes_Gutenberg": "Blacksmith"
+        }
+    },
+    "Physician 1": {
+        "entities": {
+            "Hermann_von_Helmholtz": "Physician"
+        }
+    },
+    "Painter 2": {
+        "entities": {
+            "Albrecht_Dürer": "Painter"
+        }
+    },
+    "Artist 1": {
+        "entities": {
+            "Hans_Holbein_the_Younger": "Artist"
+        }
+    },
+    "Painter 3": {
+        "entities": {
+            "Johann_Baptist_Zimmermann": "Painter"
+        }
+    },
+    "Composer 8": {
+        "entities": {
+            "Karlheinz_Stockhausen": "Composer"
+        }
+    },
+    "Family 1": {
+        "entities": {
+            "Carolingian_dynasty": "Family"
+        }
+    },
+    "Leader 2": {
+        "entities": {
+            "King_Arthur": "Leader"
+        }
+    },
+    "Knight 1": {
+        "entities": {
+            "Wolfram_von_Eschenbach": "Knight"
+        }
+    },
+    "State 1": {
+        "entities": {
+            "Cold_War": "State"
+        }
+    },
+    "Miscellaneous Cluster 5": {
+        "entities": {
+            "Judaism": "Not found"
+        }
+    },
+    "Branch 1": {
+        "entities": {
+            "Alevism": "Branch"
+        }
+    },
+    "Term 1": {
+        "entities": {
+            "Renaissance": "Period",
+            "New_Objectivity": "Term",
+            "Weser_Renaissance": "Form",
+            "Romanesque_architecture": "Style",
+            "Gründerzeit": "Phase"
+        },
+        "dcterms:subject_values": {},
+        "rdf:type_values": {
+            "ArchitecturalStyle105841351": 5,
+            "PsychologicalFeature100023100": 5,
+            "Concept105835747": 5,
+            "Category105838765": 5,
+            "ArtForm105841151": 5,
+            "Kind105839024": 5,
+            "Content105809192": 5,
+            "Abstraction100002137": 5,
+            "owl#Thing": 5,
+            "WikicatArchitecturalStyles": 5,
+            "Cognition100023271": 5,
+            "Idea105833840": 5,
+            "Movement108464601": 3,
+            "ArtisticMovement108466643": 3,
+            "SocialGroup107950920": 3,
+            "WikicatArtMovements": 3,
+            "Group100031264": 3
+        }
+    },
+    "Name 1": {
+        "entities": {
+            "Heimatfilm": "Name"
+        }
+    },
+    "Genre 1": {
+        "entities": {
+            "Neue_Deutsche_Welle": "Genre"
+        }
+    },
+    "Term 2": {
+        "entities": {
+            "Golden_Twenties": "Term"
+        }
+    },
+    "Miscellaneous Cluster 6": {
+        "entities": {
+            "Wirtschaftswunder": "Not found"
+        }
+    },
+    "Process 1": {
+        "entities": {
+            "Peaceful_Revolution": "Process"
+        }
+    },
+    "Conflict 1": {
+        "entities": {
+            "German_Revolution_of_1918–19": "Conflict"
+        }
+    },
+    "Day 1": {
+        "entities": {
+            "German_Unity_Day": "Day"
+        }
+    },
+    "World 1": {
+        "entities": {
+            "Oktoberfest": "World"
+        }
+    },
+    "Book 1": {
+        "entities": {
+            "Gamescom": "Trade",
+            "Frankfurt_Book_Fair": "World",
+            "Leipzig_Book_Fair": "Book"
+        },
+        "dcterms:subject_values": {
+            "Category:Trade fairs in Germany": 3,
+            "Category:Book fairs in Germany": 2
+        },
+        "rdf:type_values": {
+            "Group100031264": 3,
+            "PsychologicalFeature100023100": 3,
+            "Diversion100426928": 3,
+            "Event100029378": 3,
+            "WikicatTradeFairsInGermany": 3,
+            "YagoPermanentlyLocatedEntity": 3,
+            "wgs84 pos#SpatialThing": 3,
+            "Show106619065": 3,
+            "Attraction106615561": 3,
+            "Activity100407535": 3,
+            "Abstraction100002137": 3,
+            "SocialEvent107288639": 3,
+            "owl#Thing": 3,
+            "Carnival100519333": 3,
+            "SocialGroup107950920": 3,
+            "Show100520257": 3,
+            "Gathering107975026": 3,
+            "Act100030358": 3,
+            "Entertainment100429048": 3,
+            "DUL.owl#Event": 2,
+            "WikicatExhibitionsInGermany": 2,
+            "Convention108309086": 2,
+            "Meeting108307589": 2,
+            "Presentation100521562": 2,
+            "SocietalEvent": 2,
+            "Event": 2,
+            "Convention": 2,
+            "Exhibition100522145": 2,
+            "Q1656682": 2,
+            "BookFair108408418": 2,
+            "WikicatBookFairs": 2,
+            "Fair108408557": 2,
+            "WikicatBookFairsInGermany": 2
+        }
+    },
+    "Miscellaneous Cluster 7": {
+        "entities": {
+            "Federal_Social_Court": "Not found",
+            "Federal_Fiscal_Court": "Not found",
+            "Federal_Labour_Court": "Not found",
+            "Federal_Administrative_Court_(Germany)": "Not found"
+        },
+        "dcterms:subject_values": {
+            "Category:Courts in Germany": 4,
+            "Category:National supreme courts": 4,
+            "Category:Courts and tribunals established in 1954": 2,
+            "Category:1954 establishments in West Germany": 2,
+            "Category:Administrative courts": 2
+        },
+        "rdf:type_values": {
+            "owl#Thing": 4,
+            "wgs84 pos#SpatialThing": 4
+        }
+    },
+    "Miscellaneous Cluster 8": {
+        "entities": {
+            "Federal_Constitutional_Court": "Not found"
+        }
+    },
+    "Party 1": {
+        "entities": {
+            "Free_Democratic_Party_of_Switzerland": "Liberal",
+            "Socialist_Unity_Party_of_Germany": "Not found",
+            "Nazi_Party": "Party",
+            "Social_Democratic_Party_of_Germany": "Party"
+        },
+        "dcterms:subject_values": {
+            "Category:Parties of one-party systems": 2,
+            "Category:Political parties in the Weimar Republic": 2
+        },
+        "rdf:type_values": {
+            "Agent": 4,
+            "Organization108008335": 4,
+            "Q43229": 4,
+            "YagoLegalActorGeo": 4,
+            "Q7278": 4,
+            "YagoPermanentlyLocatedEntity": 4,
+            "Q24229398": 4,
+            "PoliticalParty": 4,
+            "DUL.owl#SocialPerson": 4,
+            "Abstraction100002137": 4,
+            "owl#Thing": 4,
+            "Organization": 4,
+            "SocialGroup107950920": 4,
+            "Party108256968": 4,
+            "DUL.owl#Agent": 4,
+            "Organisation": 4,
+            "YagoLegalActor": 4,
+            "Group100031264": 4,
+            "WikicatPartiesOfSingle-partySystems": 2,
+            "WikicatPoliticalPartiesInTheWeimarRepublic": 2
+        }
+    },
+    "Dynasty 1": {
+        "entities": {
+            "Hohenstaufen": "Dynasty",
+            "Salian_dynasty": "Dynasty"
+        },
+        "dcterms:subject_values": {
+            "Category:Salian dynasty": 2,
+            "Category:Noble families of the Holy Roman Empire": 2,
+            "Category:German kings": 1,
+            "Category:1268 disestablishments in Europe": 1,
+            "Category:1260s disestablishments in the Holy Roman Empire": 1,
+            "Category:1079 establishments in Europe": 1,
+            "Category:Sicilian royal houses": 1,
+            "Category:1070s establishments in the Holy Roman Empire": 1,
+            "Category:Hohenstaufen": 1,
+            "Category:Holy Roman Emperors": 1,
+            "Category:Italian noble families": 1,
+            "Category:German noble families": 1
+        },
+        "rdf:type_values": {
+            "Agent": 2,
+            "Organization108008335": 2,
+            "Q43229": 2,
+            "YagoLegalActorGeo": 2,
+            "YagoPermanentlyLocatedEntity": 2,
+            "Country": 2,
+            "Q24229398": 2,
+            "Family108078020": 2,
+            "WikicatNobleFamiliesOfTheHolyRomanEmpire": 2,
+            "DUL.owl#SocialPerson": 2,
+            "Unit108189659": 2,
+            "Abstraction100002137": 2,
+            "owl#Thing": 2,
+            "Organization": 2,
+            "SocialGroup107950920": 2,
+            "WikicatGermanNobleFamilies": 2,
+            "Organisation": 2,
+            "YagoLegalActor": 2,
+            "Group100031264": 2,
+            "DUL.owl#Agent": 2,
+            "WikicatItalianNobleFamilies": 1
+        }
+    },
+    "Branch 2": {
+        "entities": {
+            "Luftwaffe": "Branch",
+            "Joint_Medical_Service_(Germany)": "Part",
+            "United_States_Navy": "Branch",
+            "Joint_Support_Service_(Germany)": "Branch"
+        },
+        "dcterms:subject_values": {
+            "Category:Branches of the Bundeswehr": 2,
+            "Category:Military units and formations established in 2000": 2
+        },
+        "rdf:type_values": {
+            "Agent": 4,
+            "Q176799": 4,
+            "Organization108008335": 4,
+            "Q43229": 4,
+            "YagoLegalActorGeo": 4,
+            "YagoPermanentlyLocatedEntity": 4,
+            "Q24229398": 4,
+            "DUL.owl#SocialPerson": 4,
+            "Unit108189659": 4,
+            "Abstraction100002137": 4,
+            "owl#Thing": 4,
+            "Organization": 4,
+            "SocialGroup107950920": 4,
+            "MilitaryUnit": 4,
+            "Organisation": 4,
+            "MilitaryUnit108198398": 4,
+            "YagoLegalActor": 4,
+            "Group100031264": 4,
+            "DUL.owl#Agent": 4,
+            "Force108208016": 2,
+            "MilitaryService108198137": 2
+        }
+    },
+    "University 1": {
+        "entities": {
+            "Heidelberg_University": "University",
+            "Leipzig_University": "Universities"
+        },
+        "dcterms:subject_values": {
+            "Category:1386 establishments in Europe": 1,
+            "Category:Tourist attractions in Heidelberg": 1,
+            "Category:Buildings and structures in Heidelberg": 1,
+            "Category:Electoral Palatinate": 1,
+            "Category:1380s establishments in the Holy Roman Empire": 1,
+            "Category:Educational institutions established in the 14th century": 1,
+            "Category:Universities and colleges in Baden-Württemberg": 1,
+            "Category:Heidelberg University": 1,
+            "Category:Tourist attractions in Leipzig": 1,
+            "Category:1400s establishments in the Holy Roman Empire": 1,
+            "Category:Educational institutions established in the 15th century": 1,
+            "Category:1409 establishments in Europe": 1,
+            "Category:Leipzig University": 1,
+            "Category:Universities and colleges in Saxony": 1
+        },
+        "rdf:type_values": {
+            "Agent": 2,
+            "CollegeOrUniversity": 2,
+            "Organization108008335": 2,
+            "EducationalInstitution": 2,
+            "Q43229": 2,
+            "YagoLegalActorGeo": 2,
+            "EducationalOrganization": 2,
+            "YagoPermanentlyLocatedEntity": 2,
+            "Q24229398": 2,
+            "wgs84 pos#SpatialThing": 2,
+            "University108286569": 2,
+            "Q3918": 2,
+            "DUL.owl#SocialPerson": 2,
+            "EducationalInstitution108276342": 2,
+            "University": 2,
+            "Abstraction100002137": 2,
+            "Institution108053576": 2,
+            "owl#Thing": 2,
+            "Organization": 2,
+            "SocialGroup107950920": 2,
+            "Q2385804": 2,
+            "Organisation": 2,
+            "YagoLegalActor": 2,
+            "Group100031264": 2,
+            "DUL.owl#Agent": 2,
+            "WikicatUniversitiesAndCollegesInBaden-Württemberg": 1,
+            "WikicatEducationalInstitutionsEstablishedInThe14thCentury": 1,
+            "WikicatUniversitiesInGermany": 1,
+            "WikicatUniversitiesAndCollegesInSaxony-Anhalt": 1,
+            "WikicatUniversitiesAndCollegesInSaxony": 1,
+            "WikicatEducationalInstitutionsEstablishedInThe15thCentury": 1
+        }
+    },
+    "Company 2": {
+        "entities": {
+            "Robert_Bosch_GmbH": "Engineering",
+            "ProSiebenSat.1_Media": "Company",
+            "BBC": "Broadcaster",
+            "Allianz": "Company",
+            "Mercedes-Benz": "Manufacturer",
+            "BMW": "Vehicles",
+            "Opel": "Manufacturer",
+            "Adidas": "Corporation",
+            "Audi": "Manufacturer",
+            "Porsche": "Not found",
+            "Deutsche_Telekom": "Company",
+            "Volkswagen": "Manufacturer",
+            "Hugo_Boss": "Company",
+            "Bertelsmann": "Corporation"
+        },
+        "dcterms:subject_values": {
+            "Category:German brands": 10,
+            "Category:Multinational companies headquartered in Germany": 7
+        },
+        "rdf:type_values": {
+            "Agent": 14,
+            "Organization108008335": 14,
+            "Q43229": 14,
+            "YagoLegalActorGeo": 14,
+            "Company108058098": 14,
+            "YagoPermanentlyLocatedEntity": 14,
+            "Q24229398": 14,
+            "DUL.owl#SocialPerson": 14,
+            "Abstraction100002137": 14,
+            "owl#Thing": 14,
+            "Institution108053576": 14,
+            "Organization": 9,
+            "Q4830453": 14,
+            "SocialGroup107950920": 14,
+            "Organisation": 14,
+            "Company": 14,
+            "YagoLegalActor": 14,
+            "Group100031264": 14,
+            "DUL.owl#Agent": 14,
+            "WikicatCompaniesListedOnTheFrankfurtStockExchange": 10,
+            "Enterprise108056231": 10,
+            "Business108061042": 10,
+            "Business": 10,
+            "Manufacturer108060446": 8,
+            "WikicatAutomotiveCompaniesOfGermany": 7
+        }
+    },
+    "Club 1": {
+        "entities": {
+            "Max_Planck_Society": "Not found",
+            "ADAC": "Club",
+            "Leibniz_Association": "Union",
+            "European_Film_Academy": "Initiative"
+        },
+        "dcterms:subject_values": {
+            "Category:Scientific organisations based in Germany": 2
+        },
+        "rdf:type_values": {
+            "Agent": 4,
+            "Organization108008335": 4,
+            "Q43229": 4,
+            "YagoLegalActorGeo": 4,
+            "YagoPermanentlyLocatedEntity": 4,
+            "Q24229398": 4,
+            "DUL.owl#SocialPerson": 4,
+            "Abstraction100002137": 4,
+            "owl#Thing": 4,
+            "Organization": 4,
+            "SocialGroup107950920": 4,
+            "Organisation": 4,
+            "Group100031264": 4,
+            "YagoLegalActor": 4,
+            "DUL.owl#Agent": 4,
+            "WikicatResearchOrganizations": 2,
+            "Association108049401": 2,
+            "WikicatScientificOrganizations": 2,
+            "WikicatScientificOrganisationsBasedInGermany": 2
+        }
+    },
+    "Institute 1": {
+        "entities": {
+            "Stockholm_International_Peace_Research_Institute": "Institute"
+        }
+    },
+    "Organization 3": {
+        "entities": {
+            "Fraunhofer_Society": "Organization"
+        }
+    },
+    "Studio 1": {
+        "entities": {
+            "Babelsberg_Studio": "Studio"
+        }
+    },
+    "General 1": {
+        "entities": {
+            "Eurostat": "General"
+        }
+    },
+    "Business 1": {
+        "entities": {
+            "Cambridge_University_Press": "Business"
+        }
+    },
+    "League 1": {
+        "entities": {
+            "Bundesliga": "League"
+        }
+    },
+    "Forces 1": {
+        "entities": {
+            "Bundeswehr": "Forces"
+        }
+    },
+    "Body 3": {
+        "entities": {
+            "German_Football_Association": "Body"
+        }
+    },
+    "Association 1": {
+        "entities": {
+            "Deutscher_Werkbund": "Association"
+        }
+    },
+    "Name 2": {
+        "entities": {
+            "Eastern_Bloc": "Name"
+        }
+    },
+    "Miscellaneous Cluster 9": {
+        "entities": {
+            "Fortune_Global_500": "Not found"
+        }
+    },
+    "Form 1": {
+        "entities": {
+            "Protestantism": "Form"
+        }
+    },
+    "Church 1": {
+        "entities": {
+            "Catholic_Church": "Church"
+        }
+    },
+    "Agency 1": {
+        "entities": {
+            "UNESCO": "Agency"
+        }
+    },
+    "Institution 1": {
+        "entities": {
+            "World_Bank": "Institution"
+        }
+    },
+    "Organisation 1": {
+        "entities": {
+            "European_Space_Agency": "Organisation"
+        }
+    },
+    "Bank 1": {
+        "entities": {
+            "European_Central_Bank": "Bank"
+        }
+    },
+    "World 2": {
+        "entities": {
+            "Frankfurt_Stock_Exchange": "World"
+        }
+    },
+    "Body 4": {
+        "entities": {
+            "European_Commission": "Body"
+        }
+    },
+    "Miscellaneous Cluster 10": {
+        "entities": {
+            "G20": "Not found"
+        }
+    },
+    "Miscellaneous Cluster 11": {
+        "entities": {
+            "OECD": "Not found"
+        }
+    },
+    "Body 5": {
+        "entities": {
+            "FIFA": "Body"
+        }
+    },
+    "Alliance 1": {
+        "entities": {
+            "NATO": "Alliance"
+        }
+    },
+    "Treaty 1": {
+        "entities": {
+            "Warsaw_Pact": "Treaty"
+        }
+    },
+    "Coalition 1": {
+        "entities": {
+            "Zollverein": "Coalition"
+        }
+    },
+    "Treaty 2": {
+        "entities": {
+            "North_German_Confederation_Treaty": "Treaty"
+        }
+    },
+    "Association 2": {
+        "entities": {
+            "German_Confederation": "Association"
+        }
+    },
+    "State 2": {
+        "entities": {
+            "West_Germany": "Name",
+            "North_German_Confederation": "Federation",
+            "Kamerun": "Colony",
+            "East_Germany": "State",
+            "East_Berlin": "Not found",
+            "Czechoslovakia": "State",
+            "Nazi_Germany": "Names",
+            "Togoland": "Protectorate",
+            "Austria-Hungary": "Union",
+            "Roman_Empire": "Period",
+            "Weimar_Republic": "Designation",
+            "Holy_Roman_Empire": "Complex",
+            "East_Francia": "Not found"
+        },
+        "dcterms:subject_values": {},
+        "rdf:type_values": {
+            "District108552138": 13,
+            "Country": 8,
+            "Location100027167": 13,
+            "YagoGeoEntity": 13,
+            "Place": 13,
+            "YagoLegalActorGeo": 13,
+            "YagoPermanentlyLocatedEntity": 13,
+            "Object100002684": 13,
+            "AdministrativeDistrict108491826": 13,
+            "Country108544813": 13,
+            "PhysicalEntity100001930": 13,
+            "PopulatedPlace": 13,
+            "Q6256": 13,
+            "Location": 13,
+            "owl#Thing": 13,
+            "Region108630985": 13,
+            "WikicatFormerCountriesInEurope": 10
+        }
+    },
+    "Organisation 2": {
+        "entities": {
+            "European_Economic_Community": "Organisation"
+        }
+    },
+    "Miscellaneous Cluster 12": {
+        "entities": {
+            "South_West_Africa": "Not found"
+        }
+    },
+    "Country 1": {
+        "entities": {
+            "Denmark": "Country",
+            "Netherlands": "Not found"
+        },
+        "dcterms:subject_values": {
+            "Category:Member states of NATO": 2,
+            "Category:Countries in Europe": 2,
+            "Category:Member states of the Council of Europe": 2,
+            "Category:Northwestern European countries": 2,
+            "Category:Members of the Nordic Council": 1,
+            "Category:States and territories established in the 8th century": 1,
+            "Category:Denmark": 1,
+            "Category:Member states of the United Nations": 1,
+            "Category:NUTS 2 statistical regions of the European Union": 1,
+            "Category:Metropolitan or continental parts of states": 1,
+            "Category:Danish monarchy": 1,
+            "Category:Member states of the Union for the Mediterranean": 1,
+            "Category:Danish-speaking countries and territories": 1,
+            "Category:Member states of the European Union": 1,
+            "Category:Barbarian kingdoms": 1,
+            "Category:Christian states": 1,
+            "Category:Scandinavian countries": 1,
+            "Category:Dutch-speaking countries and territories": 1,
+            "Category:Netherlands": 1,
+            "Category:Germanic countries and territories": 1,
+            "Category:Transcontinental countries": 1,
+            "Category:States and territories established in 1815": 1,
+            "Category:Kingdom of the Netherlands": 1
+        },
+        "rdf:type_values": {
+            "District108552138": 2,
+            "Location100027167": 2,
+            "WikicatMemberStatesOfNATO": 2,
+            "YagoGeoEntity": 2,
+            "YagoLegalActorGeo": 2,
+            "YagoPermanentlyLocatedEntity": 2,
+            "WikicatMemberStatesOfTheEuropeanUnion": 2,
+            "Object100002684": 2,
+            "Country": 2,
+            "wgs84 pos#SpatialThing": 2,
+            "WikicatCountries": 2,
+            "AdministrativeDistrict108491826": 2,
+            "Country108544813": 2,
+            "Region108630039": 2,
+            "PhysicalEntity100001930": 2,
+            "WikicatCountriesInEurope": 2,
+            "owl#Thing": 2,
+            "Location Underspecified": 2,
+            "WikicatMemberStatesOfTheUnitedNations": 2,
+            "WikicatGermanicCountriesAndTerritories": 2,
+            "WikicatMemberStatesOfTheUnionForTheMediterranean": 2,
+            "Region108630985": 2,
+            "PopulatedPlace": 2,
+            "WikicatNUTS2StatisticalRegionsOfTheEuropeanUnion": 1,
+            "WikicatNordicCountries": 1,
+            "WikicatStatesAndTerritoriesEstablishedIn1814": 1,
+            "WikicatDanish-speakingCountriesAndTerritories": 1,
+            "MusicalArtist": 1,
+            "WikicatCountriesInTheCaribbean": 1,
+            "WrittenCommunication106349220": 1,
+            "GeographicalArea108574314": 1,
+            "Communication100033020": 1,
+            "core#Work": 1,
+            "Novel106367879": 1,
+            "WikicatMemberStatesOfTheDutchLanguageUnion": 1,
+            "Tract108673395": 1,
+            "WikicatDutch-speakingCountriesAndTerritories": 1,
+            "Subdivision108674251": 1,
+            "Abstraction100002137": 1,
+            "LiteraryComposition106364329": 1,
+            "Writing106362953": 1,
+            "WikicatSubdivisionsOfTheNetherlands": 1,
+            "Fiction106367107": 1,
+            "Wikicat2008Novels": 1,
+            "WikicatNovelsAboutCricket": 1,
+            "WikicatIrishNovels": 1,
+            "WikicatNUTS1StatisticalRegionsOfTheEuropeanUnion": 1
+        }
+    },
+    "Country 2": {
+        "entities": {
+            "France": "State",
+            "Norway": "Monarchy",
+            "Turkey": "Republic",
+            "Kosovo": "Territory",
+            "Austria": "Republic",
+            "Greece": "Country",
+            "Hungary": "State",
+            "Ukraine": "Country",
+            "Switzerland": "Country",
+            "Serbia": "State",
+            "Belgium": "State",
+            "Afghanistan": "Country",
+            "Czech_Republic": "Country",
+            "Luxembourg": "Country",
+            "Russia": "State",
+            "Namibia": "Country",
+            "China": "State"
+        },
+        "dcterms:subject_values": {
+            "Category:Member states of the United Nations": 16,
+            "Category:Countries in Europe": 14,
+            "Category:Republics": 9
+        },
+        "rdf:type_values": {
+            "Country": 12,
+            "District108552138": 17,
+            "Location100027167": 17,
+            "YagoGeoEntity": 17,
+            "Place": 17,
+            "YagoLegalActorGeo": 17,
+            "YagoPermanentlyLocatedEntity": 17,
+            "Object100002684": 17,
+            "wgs84 pos#SpatialThing": 17,
+            "AdministrativeDistrict108491826": 17,
+            "Country108544813": 17,
+            "PhysicalEntity100001930": 17,
+            "PopulatedPlace": 12,
+            "Q6256": 17,
+            "Location": 17,
+            "owl#Thing": 17,
+            "Region108630985": 17,
+            "WikicatCountries": 16,
+            "WikicatMemberStatesOfTheUnitedNations": 16,
+            "WikicatCountriesInEurope": 14,
+            "Location Underspecified": 12
+        }
+    },
+    "State 3": {
+        "entities": {
+            "Baden-Württemberg": "State",
+            "Saarland": "States",
+            "Hesse": "State",
+            "Saxony": "State",
+            "Lower_Saxony": "State",
+            "Brandenburg": "States",
+            "Bavaria": "State",
+            "Schleswig-Holstein": "Northernmost"
+        },
+        "dcterms:subject_values": {
+            "Category:States of Germany": 8,
+            "Category:NUTS 1 statistical regions of the European Union": 7
+        },
+        "rdf:type_values": {
+            "District108552138": 8,
+            "Location100027167": 8,
+            "WikicatStatesOfGermany": 8,
+            "Settlement": 8,
+            "YagoGeoEntity": 8,
+            "Place": 8,
+            "YagoLegalActorGeo": 8,
+            "YagoPermanentlyLocatedEntity": 8,
+            "Object100002684": 8,
+            "wgs84 pos#SpatialThing": 8,
+            "AdministrativeDistrict108491826": 8,
+            "Region108630039": 8,
+            "PhysicalEntity100001930": 8,
+            "PopulatedPlace": 4,
+            "Location": 8,
+            "owl#Thing": 8,
+            "Q486972": 8,
+            "Region108630985": 8,
+            "AdministrativeRegion": 7,
+            "WikicatNUTS1StatisticalRegionsOfTheEuropeanUnion": 7,
+            "Location Underspecified": 4
+        }
+    },
+    "Region 1": {
+        "entities": {
+            "Westphalia": "Region"
+        }
+    },
+    "Region 2": {
+        "entities": {
+            "Lusatia": "Region"
+        }
+    },
+    "Castle 1": {
+        "entities": {
+            "Wartburg": "Castle"
+        }
+    },
+    "Edifice 1": {
+        "entities": {
+            "Reichstag_building": "Edifice"
+        }
+    },
+    "Miscellaneous Cluster 13": {
+        "entities": {
+            "Heidelberg_Castle": "Not found"
+        }
+    },
+    "Palace 1": {
+        "entities": {
+            "Neuschwanstein_Castle": "Palace"
+        }
+    },
+    "Palace 2": {
+        "entities": {
+            "Sanssouci": "Palace"
+        }
+    },
+    "Term 3": {
+        "entities": {
+            "West_Africa": "Subcontinent",
+            "Western_Pomerania": "Term",
+            "Rhineland": "Not found",
+            "Swabia": "Region",
+            "East_Africa": "Not found"
+        },
+        "dcterms:subject_values": {},
+        "rdf:type_values": {
+            "Region108630039": 5,
+            "PhysicalEntity100001930": 5,
+            "YagoPermanentlyLocatedEntity": 5,
+            "Location100027167": 5,
+            "Object100002684": 5,
+            "owl#Thing": 5,
+            "YagoGeoEntity": 5,
+            "YagoLegalActorGeo": 5,
+            "Country": 3,
+            "WikicatRegionsOfGermany": 3,
+            "WikicatHistoricalRegionsInGermany": 3
+        }
+    },
+    "Roman 1": {
+        "entities": {
+            "Roman_province": "Basic",
+            "Germania": "Roman"
+        },
+        "dcterms:subject_values": {
+            "Category:Historical regions": 2,
+            "Category:Provinces": 1,
+            "Category:Ancient Roman provinces": 1,
+            "Category:Germany in the Roman era": 1,
+            "Category:Historical regions in Germany": 1,
+            "Category:Germania": 1,
+            "Category:Netherlands in the Roman era": 1,
+            "Category:Prehistoric Poland": 1
+        },
+        "rdf:type_values": {
+            "District108552138": 2,
+            "Region108630039": 2,
+            "PhysicalEntity100001930": 2,
+            "Location100027167": 2,
+            "WikicatAncientRomanProvinces": 2,
+            "Object100002684": 2,
+            "YagoPermanentlyLocatedEntity": 2,
+            "State108654360": 2,
+            "WikicatHistoricalRegions": 2,
+            "owl#Thing": 2,
+            "YagoGeoEntity": 2,
+            "AdministrativeDistrict108491826": 2,
+            "YagoLegalActorGeo": 2,
+            "Region108630985": 2,
+            "WikicatHistoricalRegionsInGermany": 1,
+            "School": 1
+        }
+    },
+    "Name 3": {
+        "entities": {
+            "Sudetenland": "Name"
+        }
+    },
+    "Miscellaneous Cluster 14": {
+        "entities": {
+            "Berlin_Zoological_Garden": "Not found"
+        }
+    },
+    "Park 1": {
+        "entities": {
+            "Saxon_Switzerland_National_Park": "Park",
+            "Hainich_National_Park": "Park",
+            "Berchtesgaden_National_Park": "Not found",
+            "Müritz_National_Park": "Park",
+            "Bavarian_Forest_National_Park": "Park"
+        },
+        "dcterms:subject_values": {
+            "Category:National parks of Germany": 5
+        },
+        "rdf:type_values": {
+            "Location100027167": 5,
+            "WikicatNationalParksOfGermany": 5,
+            "YagoGeoEntity": 5,
+            "YagoLegalActorGeo": 5,
+            "GeographicalArea108574314": 5,
+            "YagoPermanentlyLocatedEntity": 5,
+            "Object100002684": 5,
+            "wgs84 pos#SpatialThing": 5,
+            "NationalPark108600992": 5,
+            "Place": 4,
+            "Tract108673395": 5,
+            "PhysicalEntity100001930": 5,
+            "owl#Thing": 5,
+            "Park108615149": 5,
+            "Area108497294": 5,
+            "Region108630985": 5,
+            "Location": 4,
+            "ProtectedArea": 4,
+            "Q473972": 4
+        }
+    },
+    "Range 1": {
+        "entities": {
+            "Harz": "Range"
+        }
+    },
+    "Miscellaneous Cluster 15": {
+        "entities": {
+            "Alps": "Not found"
+        }
+    },
+    "Range 2": {
+        "entities": {
+            "Southern_Alps": "Range"
+        }
+    },
+    "Place 1": {
+        "entities": {
+            "World_Heritage_Site": "Place"
+        }
+    },
+    "Barrier 1": {
+        "entities": {
+            "Berlin_Wall": "Barrier"
+        }
+    },
+    "Municipality 1": {
+        "entities": {
+            "Neuendorf-Sachsenbande": "Municipality",
+            "Saterland": "Municipality",
+            "Nebra_(Unstrut)": "Town"
+        },
+        "dcterms:subject_values": {},
+        "rdf:type_values": {
+            "Location100027167": 3,
+            "Settlement": 3,
+            "YagoGeoEntity": 3,
+            "Place": 3,
+            "YagoLegalActorGeo": 3,
+            "GeographicalArea108574314": 3,
+            "YagoPermanentlyLocatedEntity": 3,
+            "Object100002684": 3,
+            "wgs84 pos#SpatialThing": 3,
+            "PhysicalEntity100001930": 3,
+            "PopulatedPlace": 3,
+            "Location": 3,
+            "owl#Thing": 3,
+            "Q486972": 3,
+            "Region108630985": 3,
+            "District108552138": 2,
+            "AdministrativeDistrict108491826": 2,
+            "UrbanArea108675967": 2,
+            "Municipality108626283": 2
+        }
+    },
+    "Peninsula 1": {
+        "entities": {
+            "Balkans": "Peninsula"
+        }
+    },
+    "Peninsula 2": {
+        "entities": {
+            "Jasmund": "Peninsula"
+        }
+    },
+    "Region 3": {
+        "entities": {
+            "Scandinavia": "Region"
+        }
+    },
+    "Agreement 1": {
+        "entities": {
+            "Treaty_of_Lisbon": "Agreement"
+        }
+    },
+    "Miscellaneous Cluster 16": {
+        "entities": {
+            "Maastricht_Treaty": "Not found"
+        }
+    },
+    "Miscellaneous Cluster 17": {
+        "entities": {
+            "Berlin_Conference": "Not found"
+        }
+    },
+    "Settlement 1": {
+        "entities": {
+            "Munich_Agreement": "Settlement"
+        }
+    },
+    "Event 1": {
+        "entities": {
+            "Olympic_Games": "Event"
+        }
+    },
+    "Week 1": {
+        "entities": {
+            "Berlin_Fashion_Week": "Week"
+        }
+    },
+    "Competition 1": {
+        "entities": {
+            "UEFA_European_Championship": "Competition"
+        }
+    },
+    "Belief 1": {
+        "entities": {
+            "Atlanticism": "Belief"
+        }
+    },
+    "Laws 1": {
+        "entities": {
+            "Nuremberg_Laws": "Laws"
+        }
+    },
+    "Miscellaneous Cluster 18": {
+        "entities": {
+            "Pritzker_Architecture_Prize": "Not found"
+        }
+    },
+    "Miscellaneous Cluster 19": {
+        "entities": {
+            "European_Film_Awards": "Not found"
+        }
+    },
+    "Ceremony 1": {
+        "entities": {
+            "Deutscher_Filmpreis": "Ceremony"
+        }
+    },
+    "Ceremony 2": {
+        "entities": {
+            "Academy_Awards": "Ceremony"
+        }
+    },
+    "Style 1": {
+        "entities": {
+            "Brick_Gothic": "Style"
+        }
+    },
+    "Church 2": {
+        "entities": {
+            "Dresden_Frauenkirche": "Church"
+        }
+    },
+    "Cathedral 1": {
+        "entities": {
+            "Cologne_Cathedral": "Cathedral"
+        }
+    },
+    "Zone 1": {
+        "entities": {
+            "Wadden_Sea": "Zone"
+        }
+    },
+    "River 1": {
+        "entities": {
+            "Rhine": "River"
+        }
+    },
+    "Miscellaneous Cluster 20": {
+        "entities": {
+            "Trümmerfilm": "Not found"
+        }
+    },
+    "Items 1": {
+        "entities": {
+            "Race_and_ethnicity_in_the_United_States_Census": "Items"
+        }
+    },
+    "Designation 1": {
+        "entities": {
+            "Volksmusik": "Designation"
+        }
+    },
+    "Worldwide 1": {
+        "entities": {
+            "Evangelicalism": "Worldwide"
+        }
+    },
+    "Style 2": {
+        "entities": {
+            "Art_Deco": "Style"
+        }
+    },
+    "Miscellaneous Cluster 21": {
+        "entities": {
+            "Reformation": "Not found"
+        }
+    },
+    "System 1": {
+        "entities": {
+            "Autobahn": "System"
+        }
+    },
+    "World 3": {
+        "entities": {
+            "Berlin_International_Film_Festival": "World"
+        }
+    },
+    "Miscellaneous Cluster 22": {
+        "entities": {
+            "House_of_Habsburg": "Not found"
+        }
+    },
+    "Service 1": {
+        "entities": {
+            "Stasi": "Service"
+        }
+    },
+    "School 1": {
+        "entities": {
+            "Frankfurt_School": "School"
+        }
+    },
+    "Tribe 1": {
+        "entities": {
+            "Teutons": "Tribe"
+        }
+    },
+    "Period 1": {
+        "entities": {
+            "Nordic_Bronze_Age": "Period"
+        }
+    },
+    "Period 2": {
+        "entities": {
+            "Bronze_Age": "Period"
+        }
+    },
+    "Subdivision 1": {
+        "entities": {
+            "Lower_Paleolithic": "Subdivision"
+        }
+    },
+    "Depression 1": {
+        "entities": {
+            "Great_Depression": "Depression"
+        }
+    },
+    "Designation 2": {
+        "entities": {
+            "Abitur": "Designation"
+        }
+    },
+    "Constitution 1": {
+        "entities": {
+            "Weimar_Constitution": "Constitution"
+        }
+    },
+    "Novel 1": {
+        "entities": {
+            "The_Tin_Drum": "Novel"
+        }
+    },
+    "Movement 1": {
+        "entities": {
+            "Taliban": "Movement"
+        }
+    },
+    "Germany 1": {
+        "entities": {
+            "Deutsche_Welle": "Germany"
+        }
+    },
+    "Band 1": {
+        "entities": {
+            "Kraftwerk": "Band"
+        }
+    },
+    "Philosopher 4": {
+        "entities": {
+            "Gottlob_Frege": "Philosopher"
+        }
+    },
+    "Species 1": {
+        "entities": {
+            "Neanderthal": "Species"
+        }
+    },
+    "Magazine 1": {
+        "entities": {
+            "Der_Spiegel": "Magazine"
+        }
+    },
+    "Planet 1": {
+        "entities": {
+            "Venus": "Planet"
+        }
+    },
+    "Fruit 1": {
+        "entities": {
+            "Tangerine": "Fruit"
+        }
+    },
+    "Academics 1": {
+        "entities": {
+            "Brothers_Grimm": "Academics"
+        }
+    },
+    "Collection 1": {
+        "entities": {
+            "Bible": "Collection"
+        }
+    },
+    "Initialism 1": {
+        "entities": {
+            "LGBT": "Initialism"
+        }
+    },
+    "Agreement 2": {
+        "entities": {
+            "Paris_Agreement": "Agreement"
+        }
+    }
+}

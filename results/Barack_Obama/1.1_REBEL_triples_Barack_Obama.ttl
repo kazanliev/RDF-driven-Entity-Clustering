@@ -1,0 +1,72 @@
+<1985 Chicago Bears> <point in time> <1985> .
+<1986> <point in time> <1986> .
+<2004 Democratic National Convention> <point in time> <2004> .
+<2009> <followed by> <2010> .
+<2009> <point in time> <2009> .
+<2010> <point in time> <2010> .
+<2010> <follows> <2009> .
+<2014 Winter Olympics> <country> <Russia> .
+<2014 Winter Olympics> <point in time> <2014> .
+<2014 Winter Olympics> <location> <Sochi> .
+<82nd Airborne Division> <conflict> <war in Afghanistan> .
+<Barack> <spouse> <Michelle Obama> .
+<Barack Hussein Obama> <member of political party> <Democratic Party> .
+<Barack Hussein Obama> <candidacy in election> <presidential election> .
+<Barack Hussein Obama> <educated at> <University of Chicago Law School> .
+<Barack Obama> <significant event> <inauguration of Barack Obama> .
+<Barack Obama Presidential Center> <owned by> <University of Chicago> .
+<Benjamin Netanyahu> <position held> <Israeli Prime Minister> .
+<Best Spoken Word Album> <instance of> <Grammy Award> .
+<Bobby Rush> <member of political party> <Democratic> .
+<Budget Control Act of 2011> <point in time> <August 2, 2011> .
+<Cairo University> <country> <Egypt> .
+<Congressional Joint Select Committee on Deficit Reduction> <inception> <2011> .
+<Democratic National Convention> <location> <Denver, Colorado> .
+<Dodd–Frank Wall Street Reform and Consumer Protection Act> <instance of> <financial regulation> .
+<Don't Ask, Don't Tell Repeal Act> <main subject> <LGBT rights> .
+<Elena Kagan> <member of political party> <Democratic Party> .
+<Evergreen Chapel> <located in the administrative territorial entity> <Washington, D.C.> .
+<Harvard Law Review> <publisher> <Harvard Law School> .
+<Hyde Park–Kenwood> <located in the administrative territorial entity> <Chicago> .
+<Illinois Senate> <applies to jurisdiction> <Illinois> .
+<Illinois's 13th District> <located in the administrative territorial entity> <Illinois> .
+<Illinois's 1st congressional district> <located in the administrative territorial entity> <Illinois> .
+<Israeli Prime Minister> <officeholder> <Benjamin Netanyahu> .
+<Joe Biden> <member of political party> <Democratic Party> .
+<John McCain> <member of political party> <Republican> .
+<Kapiolani Medical Center for Women and Children> <located in the administrative territorial entity> <Honolulu, Hawaii> .
+<Ken Salazar> <position held> <Secretary of the Interior> .
+<Laurence Tribe> <educated at> <Harvard Law School> .
+<Madelyn Dunham> <date of death> <November 2, 2008> .
+<Mahmoud Abbas> <position held> <President of the Palestinian National Authority> .
+<Menteng Dalam> <located in the administrative territorial entity> <South Jakarta> .
+<Michelle Obama> <spouse> <Barack> .
+<National Federation of Independent Business v. Sebelius> <court> <Supreme Court> .
+<Obergefell v. Hodges> <court> <Supreme Court> .
+<Occidental College> <located in the administrative territorial entity> <Los Angeles> .
+<Osama bin Laden> <date of death> <May 1, 2011> .
+<Outstanding Narrator for Our Great National Parks> <instance of> <Primetime Emmy Award> .
+<President of the Palestinian National Authority> <officeholder> <Mahmoud Abbas> .
+<Sanaa> <country> <Yemen> .
+<Shiloh Baptist Church> <located in the administrative territorial entity> <Washington, D.C.> .
+<Sochi> <country> <Russia> .
+<Sonia Sotomayor> <member of political party> <Democratic Party> .
+<South Jakarta> <contains administrative territorial entity> <Menteng Dalam> .
+<South Shore> <located in the administrative territorial entity> <Chicago> .
+<Syrian civil war> <significant event> <a chemical weapons attack in Syria> .
+<The Audacity of Hope> <award received> <Grammy Award> .
+<Tim Kaine> <member of political party> <Democratic Party> .
+<Trinity United Church of Christ> <located in the administrative territorial entity> <Washington, D.C.> .
+<United Nations Security Council Resolution 2334> <publication date> <December 23, 2016> .
+<Valerie Jarrett> <position held> <Senior Advisor to the President> .
+<Working: What We Do All Day> <instance of> <Primetime Emmy Award> .
+<Yemen> <capital> <Sanaa> .
+<a chemical weapons attack in Syria> <part of> <Syrian civil war> .
+<ban on travel to the United States by those infected with HIV> <end time> <December 22, 2010> .
+<inauguration of Barack Obama> <point in time> <January 20, 2009> .
+<inauguration of Barack Obama> <participant> <Barack Obama> .
+<presidential election> <candidate> <Barack Hussein Obama> .
+<presidential election> <candidate> <Democratic Party> .
+<protests> <has cause> <shooting of Michael Brown> .
+<second inaugural address> <point in time> <January 21, 2013> .
+<shooting of Michael Brown> <has effect> <protests> .

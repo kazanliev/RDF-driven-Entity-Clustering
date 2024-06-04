@@ -1,0 +1,735 @@
+{
+    "1": {
+        "World_Health_Organization": "Agency",
+        "International_Monetary_Fund": "Organization"
+    },
+    "2": {
+        "National_Diet": "Japan",
+        "Bundestag": "Body"
+    },
+    "3": {
+        "Munich_Airport": "Airport",
+        "Frankfurt_Airport": "Airport",
+        "Berlin_Brandenburg_Airport": "Airport"
+    },
+    "4": {
+        "Baltic_Sea": "Sea",
+        "North_Sea": "Sea"
+    },
+    "5": {
+        "Sebastian_Vettel": "Driver"
+    },
+    "6": {
+        "Michael_Schumacher": "Driver"
+    },
+    "7": {
+        "South_West_Africa": "Not found"
+    },
+    "8": {
+        "European_Economic_Community": "Organisation"
+    },
+    "9": {
+        "Golden_Twenties": "Term"
+    },
+    "10": {
+        "Wirtschaftswunder": "Not found"
+    },
+    "11": {
+        "Proto-Germanic_language": "Completion"
+    },
+    "12": {
+        "Proto-Indo-European_language": "Reconstruction"
+    },
+    "13": {
+        "Pritzker_Architecture_Prize": "Not found"
+    },
+    "14": {
+        "European_Film_Awards": "Not found"
+    },
+    "15": {
+        "Deutscher_Filmpreis": "Ceremony"
+    },
+    "16": {
+        "Treaty_of_Lisbon": "Agreement"
+    },
+    "17": {
+        "Maastricht_Treaty": "Not found"
+    },
+    "18": {
+        "Zollverein": "Coalition"
+    },
+    "19": {
+        "North_German_Confederation_Treaty": "Treaty"
+    },
+    "20": {
+        "German_Confederation": "Association"
+    },
+    "21": {
+        "France": "State",
+        "Norway": "Monarchy",
+        "Turkey": "Republic",
+        "Kosovo": "Territory",
+        "Austria": "Republic",
+        "Greece": "Country",
+        "Hungary": "State",
+        "Ukraine": "Country",
+        "Switzerland": "Country",
+        "Denmark": "Country",
+        "Serbia": "State",
+        "Belgium": "State",
+        "Afghanistan": "Country",
+        "Czech_Republic": "Country",
+        "Luxembourg": "Country",
+        "Russia": "State",
+        "Netherlands": "Not found",
+        "Namibia": "Country",
+        "China": "State"
+    },
+    "22": {
+        "Judaism": "Not found"
+    },
+    "23": {
+        "Alevism": "Branch"
+    },
+    "24": {
+        "New_Leipzig_School": "Not found",
+        "Die_Br\u00fccke": "Group",
+        "Der_Blaue_Reiter": "Group"
+    },
+    "25": {
+        "Herero_people": "Group",
+        "Sorbs": "People",
+        "Belarusians": "Group",
+        "Frisians": "Group",
+        "Nama_people": "Group"
+    },
+    "26": {
+        "Sinti": "People"
+    },
+    "27": {
+        "Renaissance": "Period",
+        "New_Objectivity": "Term",
+        "Romanesque_architecture": "Style",
+        "Gr\u00fcnderzeit": "Phase"
+    },
+    "28": {
+        "Weser_Renaissance": "Form"
+    },
+    "29": {
+        "Heimatfilm": "Name"
+    },
+    "30": {
+        "World_War_I": "Not found"
+    },
+    "31": {
+        "World_War_II": "War"
+    },
+    "32": {
+        "French_Revolutionary_Wars": "Series",
+        "Napoleonic_Wars": "Series",
+        "Austro-Prussian_War": "War",
+        "Franco-Prussian_War": "Conflict"
+    },
+    "33": {
+        "Cologne_War": "Not found"
+    },
+    "34": {
+        "Gamescom": "Trade",
+        "Frankfurt_Book_Fair": "World",
+        "Leipzig_Book_Fair": "Book"
+    },
+    "35": {
+        "Hohenstaufen": "Dynasty",
+        "Salian_dynasty": "Dynasty"
+    },
+    "36": {
+        "Luftwaffe": "Branch",
+        "Joint_Medical_Service_(Germany)": "Part",
+        "United_States_Navy": "Branch",
+        "Joint_Support_Service_(Germany)": "Branch"
+    },
+    "37": {
+        "Heidelberg_University": "University",
+        "Leipzig_University": "Universities"
+    },
+    "38": {
+        "Robert_Bosch_GmbH": "Engineering",
+        "ProSiebenSat.1_Media": "Company",
+        "BBC": "Broadcaster",
+        "Allianz": "Company",
+        "Mercedes-Benz": "Manufacturer",
+        "BMW": "Vehicles",
+        "Opel": "Manufacturer",
+        "Adidas": "Corporation",
+        "Audi": "Manufacturer",
+        "Porsche": "Not found",
+        "Deutsche_Telekom": "Company",
+        "Volkswagen": "Manufacturer",
+        "Hugo_Boss": "Company",
+        "Bertelsmann": "Corporation"
+    },
+    "39": {
+        "Max_Planck_Society": "Not found",
+        "ADAC": "Club",
+        "Leibniz_Association": "Union",
+        "European_Film_Academy": "Initiative"
+    },
+    "40": {
+        "Stockholm_International_Peace_Research_Institute": "Institute"
+    },
+    "41": {
+        "Fraunhofer_Society": "Organization"
+    },
+    "42": {
+        "Babelsberg_Studio": "Studio"
+    },
+    "43": {
+        "Eurostat": "General"
+    },
+    "44": {
+        "Cambridge_University_Press": "Business"
+    },
+    "45": {
+        "Bundeswehr": "Forces"
+    },
+    "46": {
+        "Socialist_Unity_Party_of_Germany": "Not found"
+    },
+    "47": {
+        "Social_Democratic_Party_of_Germany": "Party"
+    },
+    "48": {
+        "Nazi_Party": "Party"
+    },
+    "49": {
+        "Free_Democratic_Party_of_Switzerland": "Liberal"
+    },
+    "50": {
+        "Bundesliga": "League"
+    },
+    "51": {
+        "Federal_Social_Court": "Not found",
+        "Federal_Fiscal_Court": "Not found",
+        "Federal_Labour_Court": "Not found",
+        "Federal_Administrative_Court_(Germany)": "Not found"
+    },
+    "52": {
+        "Federal_Constitutional_Court": "Not found"
+    },
+    "53": {
+        "Neuendorf-Sachsenbande": "Municipality",
+        "Saterland": "Municipality",
+        "Nebra_(Unstrut)": "Town"
+    },
+    "54": {
+        "Saxon_Switzerland_National_Park": "Park",
+        "Hainich_National_Park": "Park",
+        "Berchtesgaden_National_Park": "Not found",
+        "M\u00fcritz_National_Park": "Park",
+        "Bavarian_Forest_National_Park": "Park"
+    },
+    "55": {
+        "Roman_province": "Basic",
+        "Germania": "Roman"
+    },
+    "56": {
+        "West_Africa": "Subcontinent",
+        "Western_Pomerania": "Term",
+        "Rhineland": "Not found",
+        "Swabia": "Region",
+        "East_Africa": "Not found"
+    },
+    "57": {
+        "Sudetenland": "Name"
+    },
+    "58": {
+        "West_Germany": "Name",
+        "North_German_Confederation": "Federation",
+        "Kamerun": "Colony",
+        "East_Germany": "State",
+        "East_Berlin": "Not found",
+        "Czechoslovakia": "State",
+        "Nazi_Germany": "Names",
+        "Togoland": "Protectorate",
+        "Austria-Hungary": "Union",
+        "Roman_Empire": "Period",
+        "Weimar_Republic": "Designation",
+        "Holy_Roman_Empire": "Complex",
+        "East_Francia": "Not found"
+    },
+    "59": {
+        "Rostock": "City",
+        "Vienna": "Capital",
+        "Nuremberg": "City",
+        "Freiburg_im_Breisgau": "City",
+        "Munich": "Capital",
+        "Frankfurt": "City",
+        "Hamburg": "City",
+        "Berlin": "Capital",
+        "Potsdam": "Capital",
+        "Ruhr": "Area",
+        "Augsburg": "City",
+        "Rome": "City",
+        "Bonn": "City",
+        "Aachen": "Spa",
+        "Garmisch-Partenkirchen": "Town"
+    },
+    "60": {
+        "Baden-W\u00fcrttemberg": "State",
+        "Saarland": "States",
+        "Hesse": "State",
+        "Saxony": "State",
+        "Lower_Saxony": "State",
+        "Brandenburg": "States",
+        "Bavaria": "State",
+        "Schleswig-Holstein": "Northernmost"
+    },
+    "61": {
+        "Westphalia": "Region"
+    },
+    "62": {
+        "Lusatia": "Region"
+    },
+    "63": {
+        "Berlin_Zoological_Garden": "Not found"
+    },
+    "64": {
+        "World_Heritage_Site": "Place"
+    },
+    "65": {
+        "Harz": "Range"
+    },
+    "66": {
+        "Alps": "Not found"
+    },
+    "67": {
+        "Southern_Alps": "Range"
+    },
+    "68": {
+        "Balkans": "Peninsula"
+    },
+    "69": {
+        "Jasmund": "Peninsula"
+    },
+    "70": {
+        "Robin_Schulz": "DJ",
+        "Paul_Kalkbrenner": "Not found",
+        "Paul_van_Dyk": "DJ"
+    },
+    "71": {
+        "George_Frideric_Handel": "Not found",
+        "Johann_Sebastian_Bach": "Composer",
+        "Dieterich_Buxtehude": "Organist"
+    },
+    "72": {
+        "Oswald_Spengler": "Historian",
+        "Friedrich_Nietzsche": "Philosopher",
+        "Johann_Gottlieb_Fichte": "Not found",
+        "Immanuel_Kant": "Philosopher",
+        "Georg_Wilhelm_Friedrich_Hegel": "Philosopher",
+        "Friedrich_Wilhelm_Joseph_Schelling": "Philosopher",
+        "Martin_Heidegger": "Philosopher"
+    },
+    "73": {
+        "Hermann_Muthesius": "Architect",
+        "Ludwig_Mies_van_der_Rohe": "Architect",
+        "Walter_Gropius": "Architect",
+        "Gottfried_B\u00f6hm": "Architect",
+        "Carl_Spitzweg": "Painter",
+        "Caspar_David_Friedrich": "Painter",
+        "Robert_Wiene": "Director",
+        "Max_Liebermann": "Painter",
+        "F._W._Murnau": "Director",
+        "Volker_Schl\u00f6ndorff": "Filmmaker"
+    },
+    "74": {
+        "Heinrich_Br\u00fcning": "Chancellor",
+        "Friedrich_Ebert": "Politician",
+        "Konrad_Adenauer": "Not found",
+        "Olaf_Scholz": "Politician",
+        "Angela_Merkel": "Not found",
+        "Frank-Walter_Steinmeier": "Not found"
+    },
+    "75": {
+        "Charlemagne": "King",
+        "Charles_VI_of_France": "King",
+        "Maria_Theresa": "Not found",
+        "Francis_I_of_France": "King",
+        "Frederick_William_IV_of_Prussia": "Not found"
+    },
+    "76": {
+        "Augustus": "Founder"
+    },
+    "77": {
+        "Robert_Schumann": "Composer"
+    },
+    "78": {
+        "Richard_Strauss": "Composer"
+    },
+    "79": {
+        "Ludwig_van_Beethoven": "Composer"
+    },
+    "80": {
+        "Carl_Maria_von_Weber": "Composer"
+    },
+    "81": {
+        "Felix_Mendelssohn": "Composer"
+    },
+    "82": {
+        "Richard_Wagner": "Composer"
+    },
+    "83": {
+        "Friedrich_Engels": "Philosopher"
+    },
+    "84": {
+        "Karl_Marx": "Philosopher"
+    },
+    "85": {
+        "Thomas_Mann": "Novelist"
+    },
+    "86": {
+        "Gerhart_Hauptmann": "Dramatist"
+    },
+    "87": {
+        "Heinrich_B\u00f6ll": "Germany"
+    },
+    "88": {
+        "G\u00fcnter_Grass": "Novelist"
+    },
+    "89": {
+        "Gotthold_Ephraim_Lessing": "Writer"
+    },
+    "90": {
+        "Friedrich_Schiller": "Poet"
+    },
+    "91": {
+        "Johann_Wolfgang_von_Goethe": "Writer"
+    },
+    "92": {
+        "Wim_Wenders": "Filmmaker"
+    },
+    "93": {
+        "Werner_Herzog": "Director"
+    },
+    "94": {
+        "Fritz_Lang": "Filmmaker"
+    },
+    "95": {
+        "Wolfgang_Rihm": "Rihm"
+    },
+    "96": {
+        "Johannes_Gutenberg": "Blacksmith"
+    },
+    "97": {
+        "Max_Ernst": "Painter"
+    },
+    "98": {
+        "Albrecht_D\u00fcrer": "Painter"
+    },
+    "99": {
+        "Hans_Holbein_the_Younger": "Artist"
+    },
+    "100": {
+        "Catholic_Church": "Church"
+    },
+    "101": {
+        "Protestantism": "Form"
+    },
+    "102": {
+        "Eastern_Bloc": "Name"
+    },
+    "103": {
+        "Deutscher_Werkbund": "Association"
+    },
+    "104": {
+        "German_Football_Association": "Body"
+    },
+    "105": {
+        "Fortune_Global_500": "Not found"
+    },
+    "106": {
+        "Frankfurt_Stock_Exchange": "World"
+    },
+    "107": {
+        "European_Central_Bank": "Bank"
+    },
+    "108": {
+        "European_Commission": "Body"
+    },
+    "109": {
+        "European_Space_Agency": "Organisation"
+    },
+    "110": {
+        "World_Bank": "Institution"
+    },
+    "111": {
+        "UNESCO": "Agency"
+    },
+    "112": {
+        "FIFA": "Body"
+    },
+    "113": {
+        "OECD": "Not found"
+    },
+    "114": {
+        "G20": "Not found"
+    },
+    "115": {
+        "Neuschwanstein_Castle": "Palace"
+    },
+    "116": {
+        "Sanssouci": "Palace"
+    },
+    "117": {
+        "Wartburg": "Castle"
+    },
+    "118": {
+        "Reichstag_building": "Edifice"
+    },
+    "119": {
+        "Heidelberg_Castle": "Not found"
+    },
+    "120": {
+        "Cologne_Cathedral": "Cathedral"
+    },
+    "121": {
+        "Olympic_Games": "Event"
+    },
+    "122": {
+        "UEFA_European_Championship": "Competition"
+    },
+    "123": {
+        "Berlin_Fashion_Week": "Week"
+    },
+    "124": {
+        "German_Unity_Day": "Day"
+    },
+    "125": {
+        "Oktoberfest": "World"
+    },
+    "126": {
+        "German_Revolution_of_1918\u201319": "Conflict"
+    },
+    "127": {
+        "Peaceful_Revolution": "Process"
+    },
+    "128": {
+        "Otto_von_Bismarck": "Not found"
+    },
+    "129": {
+        "Klemens_von_Metternich": "Politician"
+    },
+    "130": {
+        "Napoleon": "Leader"
+    },
+    "131": {
+        "Wilhelm_II,_German_Emperor": "Emperor"
+    },
+    "132": {
+        "Adolf_Hitler": "Politician"
+    },
+    "133": {
+        "Willy_Brandt": "Statesman"
+    },
+    "134": {
+        "Julius_Caesar": "Not found"
+    },
+    "135": {
+        "Tacitus": "Senator"
+    },
+    "136": {
+        "United_Nations": "Organization"
+    },
+    "137": {
+        "Hanseatic_League": "Confederation"
+    },
+    "138": {
+        "Scandinavia": "Region"
+    },
+    "139": {
+        "Serbo-Croatian": "Language"
+    },
+    "140": {
+        "North_Frisian_language": "Language"
+    },
+    "141": {
+        "Arabic": "Language"
+    },
+    "142": {
+        "Wadden_Sea": "Zone"
+    },
+    "143": {
+        "Berlin_Wall": "Barrier"
+    },
+    "144": {
+        "Rhine": "River"
+    },
+    "145": {
+        "Volksmusik": "Designation"
+    },
+    "146": {
+        "Race_and_ethnicity_in_the_United_States_Census": "Items"
+    },
+    "147": {
+        "Tr\u00fcmmerfilm": "Not found"
+    },
+    "148": {
+        "Evangelicalism": "Worldwide"
+    },
+    "149": {
+        "Art_Deco": "Style"
+    },
+    "150": {
+        "Reformation": "Not found"
+    },
+    "151": {
+        "Atlanticism": "Belief"
+    },
+    "152": {
+        "Autobahn": "System"
+    },
+    "153": {
+        "Deutsches_W\u00f6rterbuch": "Not found"
+    },
+    "154": {
+        "The_World_Factbook": "Resource"
+    },
+    "155": {
+        "Michelin_Guide": "Series"
+    },
+    "156": {
+        "Brick_Gothic": "Style"
+    },
+    "157": {
+        "Dresden_Frauenkirche": "Church"
+    },
+    "158": {
+        "NATO": "Alliance"
+    },
+    "159": {
+        "Warsaw_Pact": "Treaty"
+    },
+    "160": {
+        "Deutsche_Welle": "Germany"
+    },
+    "161": {
+        "Bundesrat_of_Germany": "Body"
+    },
+    "162": {
+        "House_of_Habsburg": "Not found"
+    },
+    "163": {
+        "Stasi": "Service"
+    },
+    "164": {
+        "BBC_News": "Division"
+    },
+    "165": {
+        "Siemens": "Company"
+    },
+    "166": {
+        "Berlin_Conference": "Not found"
+    },
+    "167": {
+        "Munich_Agreement": "Settlement"
+    },
+    "168": {
+        "Carolingian_dynasty": "Family"
+    },
+    "169": {
+        "King_Arthur": "Leader"
+    },
+    "170": {
+        "Wolfram_von_Eschenbach": "Knight"
+    },
+    "171": {
+        "Johann_Baptist_Zimmermann": "Painter"
+    },
+    "172": {
+        "Cold_War": "State"
+    },
+    "173": {
+        "Kraftwerk": "Band"
+    },
+    "174": {
+        "Karlheinz_Stockhausen": "Composer"
+    },
+    "175": {
+        "Gottlob_Frege": "Philosopher"
+    },
+    "176": {
+        "Hermann_von_Helmholtz": "Physician"
+    },
+    "177": {
+        "Neanderthal": "Species"
+    },
+    "178": {
+        "Venus": "Planet"
+    },
+    "179": {
+        "Der_Spiegel": "Magazine"
+    },
+    "180": {
+        "The_Tin_Drum": "Novel"
+    },
+    "181": {
+        "Weimar_Constitution": "Constitution"
+    },
+    "182": {
+        "Great_Depression": "Depression"
+    },
+    "183": {
+        "Frankfurt_School": "School"
+    },
+    "184": {
+        "Abitur": "Designation"
+    },
+    "185": {
+        "Nuremberg_Laws": "Laws"
+    },
+    "186": {
+        "Neue_Deutsche_Welle": "Genre"
+    },
+    "187": {
+        "Teutons": "Tribe"
+    },
+    "188": {
+        "Nordic_Bronze_Age": "Period"
+    },
+    "189": {
+        "Lower_Paleolithic": "Subdivision"
+    },
+    "190": {
+        "Bronze_Age": "Period"
+    },
+    "191": {
+        "Berlin_International_Film_Festival": "World"
+    },
+    "192": {
+        "Academy_Awards": "Ceremony"
+    },
+    "193": {
+        "Kristallnacht": "Pogrom"
+    },
+    "194": {
+        "The_Holocaust": "Genocide"
+    },
+    "195": {
+        "Taliban": "Movement"
+    },
+    "196": {
+        "LGBT": "Initialism"
+    },
+    "197": {
+        "Bible": "Collection"
+    },
+    "198": {
+        "Brothers_Grimm": "Academics"
+    },
+    "199": {
+        "Tangerine": "Fruit"
+    },
+    "200": {
+        "Paris_Agreement": "Agreement"
+    }
+}

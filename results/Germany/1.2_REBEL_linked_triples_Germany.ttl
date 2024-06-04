@@ -1,0 +1,71 @@
+<http://dbpedia.org/resource/Adidas> <stock exchange> <Frankfurt Stock Exchange> .
+<http://dbpedia.org/resource/Adolf_Hitler> <position held> <chancellor of Germany> .
+<http://dbpedia.org/resource/Adolf_Hitler> <member of political party> <Nazi Party> .
+<http://dbpedia.org/resource/Allianz> <stock exchange> <Frankfurt Stock Exchange> .
+<http://dbpedia.org/resource/King_Arthur> <influenced by> <Friedrich Nietzsche> .
+<http://dbpedia.org/resource/Berlin_International_Film_Festival> <instance of> <film festival> .
+<http://dbpedia.org/resource/Berlin_International_Film_Festival> <location> <Berlin> .
+<http://dbpedia.org/resource/Robert_Bosch_GmbH> <stock exchange> <Frankfurt Stock Exchange> .
+<http://dbpedia.org/resource/Bundesrat_of_Germany> <part of> <Federal legislative power> .
+<http://dbpedia.org/resource/Bundestag> <chairperson> <Frank-Walter Steinmeier> .
+<http://dbpedia.org/resource/Bundestag> <part of> <Federal legislative power> .
+<http://dbpedia.org/resource/Bundeswehr> <has part> <Luftwaffe> .
+<http://dbpedia.org/resource/Bundeswehr> <has part> <Heer> .
+<http://dbpedia.org/resource/Bundeswehr> <office held by head of the organization> <Minister of Defence> .
+<http://dbpedia.org/resource/Bundeswehr> <has part> <Marine> .
+<http://dbpedia.org/resource/Charles_VI_of_France> <spouse> <Maria Theresa> .
+<http://dbpedia.org/resource/Czech_Republic> <shares border with> <Germany> .
+<http://dbpedia.org/resource/Czech_Republic> <shares border with> <Austria> .
+<http://dbpedia.org/resource/Czech_Republic> <shares border with> <Poland> .
+<http://dbpedia.org/resource/Denmark> <shares border with> <Poland> .
+<http://dbpedia.org/resource/Denmark> <shares border with> <Germany> .
+<http://dbpedia.org/resource/Deutsche_Telekom> <stock exchange> <Frankfurt Stock Exchange> .
+<http://dbpedia.org/resource/East_Francia> <replaced by> <Holy Roman Empire> .
+<http://dbpedia.org/resource/European_Economic_Community> <founded by> <West Germany> .
+<http://dbpedia.org/resource/FIFA> <has part> <1990> .
+<http://dbpedia.org/resource/FIFA> <has part> <2014> .
+<http://dbpedia.org/resource/FIFA> <has part> <1954> .
+<http://dbpedia.org/resource/FIFA> <has part> <1974> .
+<http://dbpedia.org/resource/Federal_Administrative_Court_(Germany)> <instance of> <supreme court> .
+<http://dbpedia.org/resource/Federal_Social_Court> <instance of> <supreme court> .
+<http://dbpedia.org/resource/Francis_I_of_France> <spouse> <Maria Theresa> .
+<http://dbpedia.org/resource/Frank-Walter_Steinmeier> <employer> <Bundestag> .
+<http://dbpedia.org/resource/Fraunhofer_Society> <country> <Germany> .
+<http://dbpedia.org/resource/Friedrich_Engels> <influenced by> <Arthur Schopenhauer> .
+<http://dbpedia.org/resource/Friedrich_Nietzsche> <influenced by> <Friedrich Engels> .
+<http://dbpedia.org/resource/Friedrich_Nietzsche> <influenced by> <Arthur Schopenhauer> .
+<http://dbpedia.org/resource/Friedrich_Wilhelm_Joseph_Schelling> <influenced by> <Johann Gottlieb Fichte> .
+<http://dbpedia.org/resource/Georg_Wilhelm_Friedrich_Hegel> <influenced by> <Johann Gottlieb Fichte> .
+<http://dbpedia.org/resource/Georg_Wilhelm_Friedrich_Hegel> <influenced by> <Friedrich Wilhelm Joseph Schelling> .
+<http://dbpedia.org/resource/Gottfried_Böhm> <award received> <Pritzker Prize> .
+<http://dbpedia.org/resource/Hermann_von_Helmholtz> <country> <Germany> .
+<http://dbpedia.org/resource/Hermann_Muthesius> <member of> <Werkbund> .
+<http://dbpedia.org/resource/Holy_Roman_Empire> <replaces> <East Francia> .
+<http://dbpedia.org/resource/Holy_Roman_Empire> <replaces> <Frankish Kingdom> .
+<http://dbpedia.org/resource/Hugo_Boss> <stock exchange> <Frankfurt Stock Exchange> .
+<http://dbpedia.org/resource/Berlin> <named after> <Wilhelm von Humboldt> .
+<http://dbpedia.org/resource/Berlin> <inception> <1810> .
+<http://dbpedia.org/resource/Leibniz_Association> <country> <Germany> .
+<http://dbpedia.org/resource/Ludwig_Mies_van_der_Rohe> <movement> <Expressionist architecture> .
+<http://dbpedia.org/resource/Ludwig_Mies_van_der_Rohe> <notable work> <skyscraper> .
+<http://dbpedia.org/resource/Ludwig_van_Beethoven> <genre> <Baroque period> .
+<http://dbpedia.org/resource/Luftwaffe> <part of> <Bundeswehr> .
+<http://dbpedia.org/resource/Lusatia> <located in the administrative territorial entity> <Saxony> .
+<http://dbpedia.org/resource/Lusatia> <located in the administrative territorial entity> <Brandenburg> .
+<http://dbpedia.org/resource/Maria_Theresa> <spouse> <Charles VI> .
+<http://dbpedia.org/resource/Maria_Theresa> <spouse> <Francis I> .
+<http://dbpedia.org/resource/Max_Planck_Society> <country> <Germany> .
+<http://dbpedia.org/resource/North_German_Confederation> <replaced by> <Germany> .
+<http://dbpedia.org/resource/OECD> <diplomatic relation> <EU> .
+<http://dbpedia.org/resource/Otto_von_Bismarck> <country of citizenship> <German Empire> .
+<http://dbpedia.org/resource/Richard_Wagner> <genre> <opera> .
+<http://dbpedia.org/resource/Siemens> <stock exchange> <Frankfurt Stock Exchange> .
+<http://dbpedia.org/resource/The_Tin_Drum> <award received> <Academy Award for Best Foreign Language Film> .
+<http://dbpedia.org/resource/Aachen> <participant> <Maria Theresa> .
+<http://dbpedia.org/resource/Volkswagen> <stock exchange> <Frankfurt Stock Exchange> .
+<http://dbpedia.org/resource/Deutscher_Werkbund> <founded by> <Hermann Muthesius> .
+<http://dbpedia.org/resource/West_Germany> <located in the administrative territorial entity> <Germany> .
+<http://dbpedia.org/resource/West_Germany> <member of> <NATO> .
+<http://dbpedia.org/resource/West_Germany> <member of> <European Economic Community> .
+<http://dbpedia.org/resource/World_War_II> <start time> <1 September 1939> .
+<http://dbpedia.org/resource/Austria> <point in time> <28 June 1914> .

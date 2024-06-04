@@ -1,0 +1,1593 @@
+{
+    "Station 1": {
+        "entities": {
+            "Somerville_station": "Not found",
+            "West_Pullman_station": "Station"
+        },
+        "dcterms:subject_values": {
+            "Category:Somerville, New Jersey": 1,
+            "Category:Railway stations in the United States opened in 1842": 1,
+            "Category:NJ Transit Rail Operations stations": 1,
+            "Category:Former Central Railroad of New Jersey stations": 1,
+            "Category:1842 establishments in New Jersey": 1,
+            "Category:Metra stations in Chicago": 1
+        },
+        "rdf:type_values": {
+            "wgs84 pos#SpatialThing": 2,
+            "ArchitecturalStructure": 2,
+            "Q719456": 2,
+            "owl#Thing": 2,
+            "Infrastructure": 2,
+            "Station": 2,
+            "Object100002684": 1,
+            "YagoPermanentlyLocatedEntity": 1,
+            "WikicatMetraStationsInChicago,Illinois": 1,
+            "Artifact100021939": 1,
+            "Station104306080": 1,
+            "Whole100003553": 1,
+            "PhysicalEntity100001930": 1,
+            "Facility103315023": 1,
+            "YagoGeoEntity": 1
+        }
+    },
+    "Organization 1": {
+        "entities": {
+            "Al-Qaeda": "Organization",
+            "Taliban": "Movement"
+        },
+        "dcterms:subject_values": {
+            "Category:Sunni Islamist groups": 2,
+            "Category:Islam-related controversies": 2,
+            "Category:Organizations designated as terrorist by Russia": 2,
+            "Category:Jihadist groups in Pakistan": 2,
+            "Category:Anti-Shi'ism": 2,
+            "Category:Violence against LGBT people": 2,
+            "Category:Rebel groups that actively control territory": 2,
+            "Category:Jihadist groups in Afghanistan": 2,
+            "Category:Organizations designated as terrorist by Canada": 2,
+            "Category:Organizations that oppose LGBT rights": 2,
+            "Category:Organizations designated as terrorist by Malaysia": 1,
+            "Category:Anti-Zionist organizations": 1,
+            "Category:Organisations designated as terrorist by Australia": 1,
+            "Category:Islamic fundamentalism in the United States": 1,
+            "Category:Organizations designated as terrorist by China": 1,
+            "Category:Al-Qaeda": 1,
+            "Category:Organisations designated as terrorist by India": 1,
+            "Category:Organisations designated as terrorist by Iran": 1,
+            "Category:Anti-communist terrorism": 1,
+            "Category:Salafi Jihadist groups": 1,
+            "Category:Organisations designated as terrorist by Japan": 1,
+            "Category:Organisations designated as terrorist by Pakistan": 1,
+            "Category:Organizations designated as terrorist by the United States": 1,
+            "Category:Antisemitism in the Arab world": 1,
+            "Category:Antisemitism in the Middle East": 1,
+            "Category:1988 establishments in Asia": 1,
+            "Category:Organizations established in 1988": 1,
+            "Category:Violence against Shia Muslims": 1,
+            "Category:Qutbist organisations": 1,
+            "Category:Organizations designated as terrorist by Turkey": 1,
+            "Category:Organizations designated as terrorist by Israel": 1,
+            "Category:Islamic fundamentalism": 1,
+            "Category:Islam and antisemitism": 1,
+            "Category:Organizations designated as terrorist by Paraguay": 1,
+            "Category:Organizations designated as terrorist by the United Arab Emirates": 1,
+            "Category:Antisemitism in Pakistan": 1,
+            "Category:Anti-communist organizations": 1,
+            "Category:Pan-Islamism": 1,
+            "Category:Organizations designated as terrorist by Bahrain": 1,
+            "Category:Organisations designated as terrorist by the United Kingdom": 1,
+            "Category:Organizations designated as terrorist by Saudi Arabia": 1,
+            "Category:Organizations based in Asia designated as terrorist": 1,
+            "Category:Totalitarianism": 1,
+            "Category:Supraorganizations": 1,
+            "Category:Sexism in Afghanistan": 1,
+            "Category:Deobandis": 1,
+            "Category:Taliban": 1,
+            "Category:Anti-Zionism in Asia": 1,
+            "Category:Far-right politics in Afghanistan": 1,
+            "Category:Axis of Resistance": 1,
+            "Category:Theocrats": 1,
+            "Category:Anti-Christian sentiment in Asia": 1,
+            "Category:Deobandi organisations": 1,
+            "Category:Government of Afghanistan": 1,
+            "Category:1994 establishments in Afghanistan": 1,
+            "Category:Anti-Buddhism": 1,
+            "Category:Antisemitism in Asia": 1,
+            "Category:Anti-Hindu sentiment": 1,
+            "Category:Anti-LGBT sentiment": 1
+        },
+        "rdf:type_values": {
+            "WikicatEuropeanUnionDesignatedTerroristOrganizations": 2,
+            "Cabal108241798": 2,
+            "WikicatRussianFederalSecurityServiceDesignatedTerroristOrganizations": 2,
+            "YagoPermanentlyLocatedEntity": 2,
+            "Clique108240633": 2,
+            "Set108240169": 2,
+            "Act100030358": 2,
+            "Disagreement107180787": 2,
+            "TerroristOrganization108392137": 2,
+            "Group100031264": 2,
+            "PsychologicalFeature100023100": 2,
+            "WikicatIslam-relatedControversies": 2,
+            "Country": 2,
+            "SocialGroup107950920": 2,
+            "PoliticalMovement108472335": 2,
+            "Abstraction100002137": 2,
+            "Movement108464601": 2,
+            "Dispute107181935": 2,
+            "SpeechAct107160883": 2,
+            "Controversy107183151": 2,
+            "WikicatRebelGroupsInPakistan": 2,
+            "WikicatRebelGroupsInAfghanistan": 2,
+            "WikicatIslamistGroups": 2,
+            "owl#Thing": 2,
+            "Organisation": 2,
+            "Event100029378": 2,
+            "WikicatOrganizedCrimeGroups": 1,
+            "WikicatRebelGroupsInSyria": 1,
+            "WikicatRebelGroupsInIraq": 1,
+            "WikicatRebelGroupsInYemen": 1
+        }
+    },
+    "Agreement 1": {
+        "entities": {
+            "START_I": "Treaty",
+            "Trans-Pacific_Partnership": "Agreement"
+        },
+        "dcterms:subject_values": {
+            "Category:Treaties entered into force in 1994": 1,
+            "Category:1991 in the United States": 1,
+            "Category:Treaties of Uzbekistan": 1,
+            "Category:Mikhail Gorbachev": 1,
+            "Category:Treaties concluded in 1991": 1,
+            "Category:Presidency of George H. W. Bush": 1,
+            "Category:Treaties of Belarus": 1,
+            "Category:Soviet Union–United States treaties": 1,
+            "Category:Nuclear technology treaties": 1,
+            "Category:1991 in the Soviet Union": 1,
+            "Category:Nuclear weapons governance": 1,
+            "Category:Perestroika": 1,
+            "Category:July 1991 events": 1,
+            "Category:Cold War treaties": 1,
+            "Category:Arms control treaties": 1,
+            "Category:Treaties of Turkmenistan": 1,
+            "Category:Military history of the Soviet Union": 1,
+            "Category:Treaties of Ukraine": 1,
+            "Category:Treaties of Kazakhstan": 1,
+            "Category:Trans-Pacific Partnership": 1,
+            "Category:Free trade agreements of Japan": 1,
+            "Category:Free trade agreements of Singapore": 1,
+            "Category:Treaties not entered into force": 1,
+            "Category:Treaties concluded in 2016": 1,
+            "Category:Classified documents": 1,
+            "Category:Proposed free trade agreements": 1,
+            "Category:Trade blocs": 1,
+            "Category:114th United States Congress": 1,
+            "Category:Free trade agreements of New Zealand": 1
+        },
+        "rdf:type_values": {
+            "Writing106362953": 2,
+            "LegalDocument106479665": 2,
+            "WrittenCommunication106349220": 2,
+            "Agreement106770275": 2,
+            "WrittenAgreement106771653": 2,
+            "Treaty106773434": 2,
+            "Communication100033020": 2,
+            "Statement106722453": 2,
+            "Abstraction100002137": 2,
+            "Document106470073": 2,
+            "Message106598915": 2,
+            "owl#Thing": 2,
+            "WikicatSovietUnion–UnitedStatesTreaties": 1,
+            "WikicatTreatiesOfTheSovietUnion": 1,
+            "WikicatTreaties": 1,
+            "WikicatArmsControlTreaties": 1,
+            "WikicatTreatiesOfRussia": 1,
+            "WikicatTreatiesConcludedIn1991": 1,
+            "WikicatTreatiesOfTheUnitedStates": 1,
+            "WikicatColdWarTreaties": 1,
+            "WikicatNuclearTechnologyTreaties": 1,
+            "Agent": 1,
+            "WikicatFreeTradeAgreementsOfChile": 1,
+            "WikicatFreeTradeAgreementsOfNewZealand": 1,
+            "WikicatFreeTradeAgreementsOfTheUnitedStates": 1,
+            "WikicatTreatiesConcludedIn2005": 1,
+            "WikicatTreatiesOfBrunei": 1,
+            "WikicatTreatiesOfSingapore": 1,
+            "WikicatFreeTradeAgreements": 1,
+            "Organisation": 1
+        }
+    },
+    "Period 1": {
+        "entities": {
+            "Great_Recession": "Period",
+            "Great_Depression": "Depression"
+        },
+        "dcterms:subject_values": {
+            "Category:World economy": 2,
+            "Category:2007 in economics": 1,
+            "Category:2000s economic history": 1,
+            "Category:2010s economic history": 1,
+            "Category:Great Recession": 1,
+            "Category:Financial crises": 1,
+            "Category:1930s economic history": 1,
+            "Category:Great Depression": 1,
+            "Category:1920s economic history": 1
+        },
+        "rdf:type_values": {
+            "YagoPermanentlyLocatedEntity": 2,
+            "Abstraction100002137": 2,
+            "Misfortune107304852": 2,
+            "Trouble107289014": 2,
+            "Happening107283608": 2,
+            "Attribute100024264": 2,
+            "WikicatEconomicDisasters": 2,
+            "Condition113920835": 2,
+            "State100024720": 2,
+            "PsychologicalFeature100023100": 2,
+            "Calamity107314838": 2,
+            "owl#Thing": 2,
+            "Event100029378": 2,
+            "EconomicCondition114488594": 1,
+            "Recession114013368": 1,
+            "WikicatRecessions": 1,
+            "Country": 1,
+            "Difficulty114408086": 1,
+            "WikicatEconomicProblems": 1,
+            "AnatomicalStructure": 1,
+            "WikicatFinancialCrises": 1,
+            "Problem114410605": 1,
+            "Situation114411243": 1,
+            "Crisis113933560": 1
+        }
+    },
+    "Miscellaneous Cluster 1": {
+        "entities": {
+            "Hurricane_Harvey": "Not found"
+        }
+    },
+    "Miscellaneous Cluster 2": {
+        "entities": {
+            "Hurricane_Irma": "Not found"
+        }
+    },
+    "Chamber 1": {
+        "entities": {
+            "Illinois_Senate": "Chamber",
+            "United_States_Senate": "Chamber"
+        },
+        "dcterms:subject_values": {
+            "Category:State upper houses in the United States": 1,
+            "Category:1818 establishments in Illinois Territory": 1,
+            "Category:Illinois General Assembly": 1,
+            "Category:Legislative branch of the United States government": 1,
+            "Category:National upper houses": 1,
+            "Category:1789 establishments in the United States": 1,
+            "Category:United States Senate": 1
+        },
+        "rdf:type_values": {
+            "Organization": 1,
+            "Assembly108163792": 2,
+            "Q24229398": 2,
+            "DUL.owl#Agent": 2,
+            "Legislature108163273": 2,
+            "Legislature": 2,
+            "Q43229": 2,
+            "DUL.owl#SocialPerson": 2,
+            "Group100031264": 2,
+            "Gathering107975026": 2,
+            "SocialGroup107950920": 2,
+            "Abstraction100002137": 2,
+            "Q11204": 2,
+            "Agent": 2,
+            "owl#Thing": 2,
+            "Organisation": 2,
+            "WikicatStateLegislaturesOfTheUnitedStates": 1,
+            "GovernmentalOrganization": 1,
+            "wgs84 pos#SpatialThing": 1,
+            "Parliament108319198": 1,
+            "WikicatNationalLegislatures": 1,
+            "WikicatParliamentsByCountry": 1
+        }
+    },
+    "United 1": {
+        "entities": {
+            "Civil_Rights_Act_of_1968": "Not found",
+            "Don't_Ask,_Don't_Tell_Repeal_Act_of_2010": "United",
+            "Religious_Freedom_Restoration_Act": "Not found"
+        },
+        "dcterms:subject_values": {},
+        "rdf:type_values": {
+            "Abstraction100002137": 3,
+            "Legislation106535222": 3,
+            "CivilLaw108453464": 3,
+            "Law108441203": 3,
+            "Group100031264": 3,
+            "owl#Thing": 3,
+            "Collection107951464": 3
+        }
+    },
+    "Act 1": {
+        "entities": {
+            "Antiquities_Act": "Act"
+        }
+    },
+    "Battle 1": {
+        "entities": {
+            "Iraq_War": "Conflict",
+            "Operation_Unified_Protector": "Operation",
+            "Battle_of_Shiloh": "Battle",
+            "American_Civil_War": "War"
+        },
+        "dcterms:subject_values": {
+            "Category:Wars involving the United States": 2
+        },
+        "rdf:type_values": {
+            "Event": 3,
+            "YagoPermanentlyLocatedEntity": 4,
+            "GroupAction101080366": 4,
+            "Conflict100958896": 4,
+            "Act100030358": 4,
+            "MilitaryConflict": 4,
+            "PsychologicalFeature100023100": 4,
+            "SocietalEvent": 4,
+            "Abstraction100002137": 4,
+            "DUL.owl#Event": 4,
+            "Q1656682": 4,
+            "owl#Thing": 4,
+            "Event100029378": 4,
+            "ConflictEvent": 3,
+            "MilitaryAction100952963": 3,
+            "WikicatConflictsIn2011": 2,
+            "War100973077": 2,
+            "WikicatWarsInvolvingTheUnitedStates": 2
+        }
+    },
+    "Newspaper 1": {
+        "entities": {
+            "Chicago_Tribune": "Newspaper",
+            "The_New_York_Times": "Newspaper",
+            "The_New_York_Times_International_Edition": "Not found"
+        },
+        "dcterms:subject_values": {
+            "Category:Pulitzer Prize-winning newspapers": 2,
+            "Category:Pulitzer Prize for Explanatory Journalism winners": 2,
+            "Category:The New York Times": 2
+        },
+        "rdf:type_values": {
+            "PeriodicalLiterature": 3,
+            "WrittenWork": 3,
+            "Q11032": 3,
+            "Q386724": 3,
+            "Work": 3,
+            "CreativeWork": 3,
+            "Q234460": 3,
+            "Q1092563": 3,
+            "owl#Thing": 3,
+            "Newspaper": 3,
+            "WikicatEnglish-languageNewspapers": 2,
+            "Press106263369": 2,
+            "WikicatDailyNewspapers": 2,
+            "Artifact100021939": 2,
+            "PhysicalEntity100001930": 2,
+            "Publication106589574": 2,
+            "Work104599396": 2,
+            "Object100002684": 2,
+            "WikicatNewspapersPublishedInTheUnitedStates": 2,
+            "Whole100003553": 2,
+            "Magazine106595351": 2,
+            "PrintMedia106263609": 2,
+            "Product104007894": 2,
+            "Medium106254669": 2,
+            "Newspaper106267145": 2,
+            "Instrumentality103575240": 2,
+            "WikicatDailyNewspapersPublishedInTheUnitedStates": 2,
+            "Creation103129123": 2
+        }
+    },
+    "Magazine 1": {
+        "entities": {
+            "Time_(magazine)": "Magazine",
+            "Money_(magazine)": "Magazine"
+        },
+        "dcterms:subject_values": {
+            "Category:Magazines formerly owned by Meredith Corporation": 2,
+            "Category:Magazines published in New York City": 2,
+            "Category:Magazines established in 1923": 1,
+            "Category:Weekly magazines published in the United States": 1,
+            "Category:Weekly news magazines": 1,
+            "Category:1923 establishments in New York City": 1,
+            "Category:News magazines published in the United States": 1,
+            "Category:Time (magazine)": 1,
+            "Category:English-language magazines": 1,
+            "Category:Biweekly magazines published in the United States": 1,
+            "Category:Magazines established in 1972": 1,
+            "Category:Business magazines published in the United States": 1,
+            "Category:Magazines disestablished in 2019": 1,
+            "Category:Monthly magazines published in the United States": 1,
+            "Category:2019 disestablishments in New York (state)": 1,
+            "Category:Online magazines published in the United States": 1,
+            "Category:1972 establishments in New York City": 1,
+            "Category:Online magazines with defunct print editions": 1
+        },
+        "rdf:type_values": {
+            "Press106263369": 2,
+            "WikicatAmericanMagazines": 2,
+            "Q41298": 2,
+            "Magazine": 1,
+            "Creation103129123": 2,
+            "Artifact100021939": 2,
+            "PeriodicalLiterature": 2,
+            "PhysicalEntity100001930": 2,
+            "Publication106589574": 2,
+            "Work104599396": 2,
+            "Object100002684": 2,
+            "WrittenWork": 2,
+            "Q386724": 2,
+            "Whole100003553": 2,
+            "Magazine106595351": 2,
+            "PrintMedia106263609": 2,
+            "Product104007894": 2,
+            "Q234460": 2,
+            "CreativeWork": 2,
+            "Medium106254669": 2,
+            "Instrumentality103575240": 2,
+            "Q1092563": 2,
+            "owl#Thing": 2,
+            "Work": 2,
+            "WikicatEnglish-languageMagazines": 1,
+            "WikicatAmericanNewsMagazines": 1,
+            "WikicatCanadianMagazines": 1,
+            "WikicatWeeklyNewspapers": 1,
+            "WikicatPublicationsEstablishedIn1923": 1,
+            "WikicatWeeklyNewspapersPublishedInTheUnitedStates": 1,
+            "WikicatNewsMagazines": 1,
+            "WikicatAmericanWeeklyMagazines": 1,
+            "WikicatCanadianNewsMagazines": 1,
+            "WikicatMagazinesEstablishedIn1923": 1,
+            "Newspaper106267145": 1,
+            "WikicatWeeklyMagazines": 1,
+            "NewsMagazine106596474": 1,
+            "WikicatOnlineMagazines": 1,
+            "WikicatMagazinesEstablishedIn1972": 1,
+            "WikicatAmericanBusinessMagazines": 1,
+            "WikicatAmericanMonthlyMagazines": 1
+        }
+    },
+    "Review 1": {
+        "entities": {
+            "Harvard_Law_Review": "Review"
+        }
+    },
+    "Center 1": {
+        "entities": {
+            "McCormick_Place": "Center",
+            "Macondo_Prospect": "Oil"
+        },
+        "dcterms:subject_values": {
+            "Category:McCormick Place": 1,
+            "Category:Volleyball venues in Chicago": 1,
+            "Category:Tourist attractions in Chicago": 1,
+            "Category:Buildings and structures in Chicago": 1,
+            "Category:Event venues established in 1960": 1,
+            "Category:Gymnastics venues in Chicago": 1,
+            "Category:Convention centers in Illinois": 1,
+            "Category:BP oil and gas fields": 1,
+            "Category:Deepwater Horizon oil spill": 1,
+            "Category:Gulf of Mexico oil fields of the United States": 1
+        },
+        "rdf:type_values": {
+            "Object100002684": 2,
+            "YagoPermanentlyLocatedEntity": 2,
+            "wgs84 pos#SpatialThing": 2,
+            "Region108630985": 2,
+            "Location100027167": 2,
+            "PhysicalEntity100001930": 2,
+            "YagoLegalActorGeo": 2,
+            "YagoGeoEntity": 2,
+            "Center108523483": 1,
+            "WikicatConventionCentersInIllinois": 1,
+            "Building": 1,
+            "Area108497294": 1,
+            "Field108569998": 1,
+            "WikicatOilFieldsOfTheUnitedStates": 1,
+            "Tract108673395": 1,
+            "GeographicalArea108574314": 1
+        }
+    },
+    "Organization 2": {
+        "entities": {
+            "Hamas": "Organization",
+            "Hezbollah": "Shi"
+        },
+        "dcterms:subject_values": {
+            "Category:Jihadist groups": 2,
+            "Category:Organisations designated as terrorist by Australia": 2,
+            "Category:Organisations designated as terrorist by Japan": 2,
+            "Category:Antisemitism in the Arab world": 2,
+            "Category:Islam and antisemitism": 2,
+            "Category:Axis of Resistance": 2,
+            "Category:Organizations designated as terrorist by Canada": 2,
+            "Category:Holocaust denial": 2,
+            "Category:Organizations based in Asia designated as terrorist": 2,
+            "Category:Sunni Islamist groups": 1,
+            "Category:Palestinian nationalist parties": 1,
+            "Category:National liberation movements": 1,
+            "Category:Hamas": 1,
+            "Category:Islamism in Israel": 1,
+            "Category:Organizations designated as terrorist by the United States": 1,
+            "Category:Antisemitism in the Middle East": 1,
+            "Category:Islamism in the State of Palestine": 1,
+            "Category:Anti-Zionism in the Palestinian territories": 1,
+            "Category:1987 establishments in the Palestinian territories": 1,
+            "Category:Islamic fundamentalism": 1,
+            "Category:Rebel groups that actively control territory": 1,
+            "Category:Palestinian militant groups": 1,
+            "Category:Palestinian political parties": 1,
+            "Category:Muslim Brotherhood": 1,
+            "Category:Resistance movements": 1,
+            "Category:Palestinian terrorism": 1,
+            "Category:Islamic political parties": 1,
+            "Category:Organisations designated as terrorist by the United Kingdom": 1,
+            "Category:Political parties established in 1987": 1,
+            "Category:Anti-Western sentiment": 1,
+            "Category:Lebanese nationalism": 1,
+            "Category:Anti-ISIL factions in Syria": 1,
+            "Category:Organizations designated as terrorist by Serbia": 1,
+            "Category:Organizations designated as terrorist by Colombia": 1,
+            "Category:Organizations designated as terrorist by Honduras": 1,
+            "Category:Shia Islamist groups": 1,
+            "Category:Political parties established in 1982": 1,
+            "Category:Organizations designated as terrorist by Lithuania": 1,
+            "Category:Iran–Lebanon relations": 1,
+            "Category:Islamic terrorism in Lebanon": 1,
+            "Category:Political parties in Lebanon": 1,
+            "Category:Pro-government factions of the Syrian civil war": 1,
+            "Category:Organizations designated as terrorist by Argentina": 1,
+            "Category:1985 establishments in Lebanon": 1,
+            "Category:Anti-ISIL factions in Iraq": 1,
+            "Category:Factions in the Lebanese Civil War": 1,
+            "Category:Organizations designated as terrorist by Paraguay": 1,
+            "Category:Hezbollah": 1,
+            "Category:March 8 Alliance": 1,
+            "Category:Anti-Zionism in Lebanon": 1,
+            "Category:Paramilitary organisations based in Lebanon": 1
+        },
+        "rdf:type_values": {
+            "Paramilitary108207209": 2,
+            "YagoLegalActor": 2,
+            "YagoLegalActorGeo": 2,
+            "YagoPermanentlyLocatedEntity": 2,
+            "WikicatGuerrillaOrganizations": 2,
+            "PoliticalParty": 2,
+            "Organization108008335": 2,
+            "Force108208016": 2,
+            "Group100031264": 2,
+            "SocialGroup107950920": 2,
+            "Abstraction100002137": 2,
+            "WikicatJihadistOrganizations": 2,
+            "WikicatParamilitaryOrganizations": 2,
+            "WikicatIslamicOrganizations": 2,
+            "Party108256968": 2,
+            "WikicatIslamicPoliticalParties": 2,
+            "owl#Thing": 2,
+            "Organisation": 2,
+            "WikicatPalestinianPoliticalParties": 1,
+            "WikicatOrganizationsEstablishedIn1987": 1,
+            "WikicatPoliticalPartiesEstablishedIn1987": 1,
+            "WikicatSecessionistOrganizations": 1,
+            "WikicatOrganizationsBasedInThePalestinianTerritories": 1,
+            "WikicatPoliticalParties": 1,
+            "Organization": 1,
+            "WikicatShiaOrganizations": 1,
+            "WikicatShiaIslamicMilitantOrganisations": 1,
+            "DUL.owl#Agent": 1,
+            "Q24229398": 1,
+            "Q43229": 1,
+            "DUL.owl#SocialPerson": 1,
+            "WikicatPoliticalPartiesEstablishedIn1982": 1,
+            "Q7278": 1,
+            "WikicatPoliticalPartiesInLebanon": 1,
+            "Agent": 1,
+            "Person": 1
+        }
+    },
+    "Agency 1": {
+        "entities": {
+            "United_States_Secret_Service": "Agency",
+            "Drug_Enforcement_Administration": "United"
+        },
+        "dcterms:subject_values": {
+            "Category:United States Department of Homeland Security agencies": 1,
+            "Category:1865 establishments in the United States": 1,
+            "Category:Financial crimes": 1,
+            "Category:United States Secret Service": 1,
+            "Category:Money forgery": 1,
+            "Category:Assassination of William McKinley": 1,
+            "Category:Protective security units": 1,
+            "Category:Law enforcement agencies of the District of Columbia": 1,
+            "Category:Government agencies established in 1973": 1,
+            "Category:Drug Enforcement Administration": 1,
+            "Category:Federal law enforcement agencies of the United States": 1,
+            "Category:United States intelligence agencies": 1,
+            "Category:1973 establishments in Washington, D.C.": 1,
+            "Category:Drug control law enforcement agencies": 1,
+            "Category:Drug control law in the United States": 1,
+            "Category:United States Department of Justice agencies": 1
+        },
+        "rdf:type_values": {
+            "AdministrativeUnit108077292": 2,
+            "Intelligence108339454": 2,
+            "YagoLegalActor": 2,
+            "YagoLegalActorGeo": 2,
+            "WikicatUnitedStatesIntelligenceAgencies": 2,
+            "YagoPermanentlyLocatedEntity": 2,
+            "LawEnforcementAgency108348815": 2,
+            "PersonFunction": 2,
+            "Agency108337324": 2,
+            "Organization108008335": 2,
+            "Unit108189659": 2,
+            "WikicatFederalLawEnforcementAgenciesOfTheUnitedStates": 2,
+            "Group100031264": 2,
+            "SocialGroup107950920": 2,
+            "Abstraction100002137": 2,
+            "owl#Thing": 2,
+            "WikicatLawEnforcementAgenciesOfTheDistrictOfColumbia": 1,
+            "WikicatOrganizationsEstablishedIn1865": 1,
+            "Organisation": 1,
+            "MilitaryUnit108198398": 1,
+            "WikicatGovernmentAgencies": 1,
+            "WikicatOrganizationsEstablishedIn1973": 1,
+            "WikicatGovernmentAgenciesEstablishedIn1973": 1,
+            "WikicatDrugControlLawEnforcementAgencies": 1
+        }
+    },
+    "Group 1": {
+        "entities": {
+            "LibriVox": "Group",
+            "Project_Gutenberg": "Effort"
+        },
+        "dcterms:subject_values": {
+            "Category:American book websites": 2,
+            "Category:Accessible information": 2,
+            "Category:Public domain books": 1,
+            "Category:Open content projects": 1,
+            "Category:Collaborative projects": 1,
+            "Category:Audiobook companies and organizations": 1,
+            "Category:Johannes Gutenberg": 1,
+            "Category:Public domain": 1,
+            "Category:1971 establishments in the United States": 1,
+            "Category:Organizations established in 1971": 1,
+            "Category:Open access projects": 1,
+            "Category:Multilingual websites": 1,
+            "Category:Full-text scholarly online databases": 1,
+            "Category:Mass digitization": 1,
+            "Category:Educational projects": 1,
+            "Category:MediaWiki websites": 1,
+            "Category:Benedictine University": 1,
+            "Category:Ebook suppliers": 1,
+            "Category:American digital libraries": 1
+        },
+        "rdf:type_values": {
+            "Organization": 2,
+            "EducationalInstitution": 2,
+            "Q24229398": 2,
+            "DUL.owl#Agent": 2,
+            "Library": 2,
+            "Artifact100021939": 2,
+            "PhysicalEntity100001930": 2,
+            "Q43229": 2,
+            "Organisation": 2,
+            "EducationalOrganization": 2,
+            "Object100002684": 2,
+            "Q2385804": 2,
+            "DUL.owl#SocialPerson": 2,
+            "Whole100003553": 2,
+            "Q7075": 2,
+            "Agent": 2,
+            "owl#Thing": 2,
+            "Structure104341686": 1,
+            "Room104105893": 1,
+            "YagoPermanentlyLocatedEntity": 1,
+            "WikicatDiscipline-orientedDigitalLibraries": 1,
+            "YagoGeoEntity": 1,
+            "Collection107951464": 1,
+            "WikicatDigitalLibraries": 1,
+            "Band": 1,
+            "Area102735688": 1,
+            "Group100031264": 1,
+            "Abstraction100002137": 1,
+            "Library103660909": 1,
+            "WikicatInternetArchiveCollections": 1,
+            "Device103183080": 1,
+            "WikicatBookWebsites": 1,
+            "WikicatWebsites": 1,
+            "Machine103699975": 1,
+            "WikicatMultilingualWebsites": 1,
+            "WikicatMediaWikiWebsites": 1,
+            "Instrumentality103575240": 1,
+            "WebSite106359193": 1,
+            "Computer103082979": 1
+        }
+    },
+    "Agency 2": {
+        "entities": {
+            "Citibank": "Division",
+            "New_York_Public_Interest_Research_Group": "York",
+            "Chrysler": "Manufacturer",
+            "United_States_Armed_Forces": "Forces",
+            "Columbia_University": "League",
+            "82nd_Airborne_Division": "Division",
+            "Harvard_University": "University",
+            "Punahou_School": "School",
+            "Pittsburgh_Steelers": "Team",
+            "National_Security_Agency": "Organization",
+            "Central_Intelligence_Agency": "Service",
+            "Norwegian_Nobel_Committee": "Not found",
+            "Fisher_House_Foundation": "Treatment",
+            "Ancestry.com": "Not found",
+            "Northwestern_University": "University",
+            "Calvert_School": "Not found",
+            "General_Motors": "Corporation",
+            "Cairo_University": "Egypt",
+            "Brookings_Institution": "American",
+            "United_Nations_Security_Council": "Organs",
+            "Occidental_College": "College",
+            "Joyce_Foundation": "Foundation",
+            "Harvard_Law_School": "Schools",
+            "Invesco": "Company",
+            "Hobby_Lobby": "Chain",
+            "Gamaliel_Foundation": "Not found",
+            "Al_Arabiya": "Not found",
+            "Audio_Publishers_Association": "Not found",
+            "Gallup_(company)": "Not found",
+            "Congressional_Budget_Office": "Agency",
+            "C-SPAN": "Cable",
+            "Sidwell_Friends_School": "Not found",
+            "Sidley_Austin": "S",
+            "United_States_Navy": "Branch",
+            "Pew_Research_Center": "American",
+            "Developing_Communities_Project": "Faith",
+            "Federal_Election_Commission": "Agency",
+            "NASA": "Agency",
+            "Fiat_Automobiles": "Automaker",
+            "Business_International_Corporation": "Publishing"
+        },
+        "dcterms:subject_values": {},
+        "rdf:type_values": {
+            "YagoPermanentlyLocatedEntity": 40,
+            "YagoLegalActor": 39,
+            "YagoLegalActorGeo": 39,
+            "Organization108008335": 39,
+            "Group100031264": 39,
+            "SocialGroup107950920": 39,
+            "Abstraction100002137": 39,
+            "owl#Thing": 37,
+            "Organisation": 35,
+            "Organization": 34,
+            "Q24229398": 34,
+            "DUL.owl#Agent": 34,
+            "Q43229": 34,
+            "DUL.owl#SocialPerson": 34,
+            "Agent": 34,
+            "Institution108053576": 24
+        }
+    },
+    "Team 1": {
+        "entities": {
+            "Chicago_White_Sox": "Team"
+        }
+    },
+    "Party 1": {
+        "entities": {
+            "Australian_Labor_Party": "Party"
+        }
+    },
+    "Organization 3": {
+        "entities": {
+            "United_Nations": "Organization",
+            "Arab_League": "Organization"
+        },
+        "dcterms:subject_values": {
+            "Category:Intergovernmental organizations established by treaty": 2,
+            "Category:Organizations established in 1945": 2,
+            "Category:Organizations awarded Nobel Peace Prizes": 1,
+            "Category:Sakharov Prize laureates": 1,
+            "Category:1945 establishments in the United States": 1,
+            "Category:United Nations": 1,
+            "Category:Peace organizations": 1,
+            "Category:Organizations based in New York City": 1,
+            "Category:International organizations based in the Middle East": 1,
+            "Category:Pan-Arabism": 1,
+            "Category:1945 establishments in Africa": 1,
+            "Category:Organisations based in Cairo": 1,
+            "Category:1945 establishments in Egypt": 1,
+            "Category:International organizations based in Africa": 1,
+            "Category:1945 establishments in Asia": 1,
+            "Category:Arab League": 1,
+            "Category:International organizations based in Asia": 1,
+            "Category:1940s in Islam": 1,
+            "Category:Supranational unions": 1
+        },
+        "rdf:type_values": {
+            "Country": 1,
+            "Alliance108293982": 2,
+            "YagoLegalActor": 2,
+            "YagoLegalActorGeo": 2,
+            "YagoPermanentlyLocatedEntity": 2,
+            "Location": 2,
+            "owl#Thing": 2,
+            "PopulatedPlace": 1,
+            "Place": 2,
+            "Organization108008335": 2,
+            "WorldOrganization108294696": 2,
+            "WikicatIntergovernmentalOrganizationsEstablishedByTreaty": 2,
+            "Group100031264": 2,
+            "Q6256": 2,
+            "SocialGroup107950920": 2,
+            "Abstraction100002137": 2,
+            "WikicatInternationalOrganizations": 2,
+            "WikicatOrganizationsEstablishedIn1945": 2,
+            "Organisation": 2,
+            "WikicatOrganizationsBasedInNewYorkCity": 1,
+            "DiplomaticMission108402693": 1,
+            "Unit108189659": 1,
+            "Deputation108402442": 1,
+            "State108168978": 1,
+            "WikicatDiplomaticMissions": 1,
+            "PoliticalUnit108359949": 1,
+            "WikicatUnitedNations": 1,
+            "Union108233056": 1,
+            "WikicatInternationalEconomicOrganizations": 1,
+            "WikicatSupranationalUnions": 1,
+            "WikicatInternationalOrganizationsOfTheMiddleEast": 1,
+            "WikicatOrganisationsBasedInCairo": 1,
+            "Bloc108171094": 1,
+            "Location Underspecified": 1,
+            "WikicatInternationalOrganizationsOfAsia": 1,
+            "WikicatTradeBlocs": 1,
+            "WikicatInternationalOrganizationsOfAfrica": 1
+        }
+    },
+    "Country 1": {
+        "entities": {
+            "Egypt": "Country",
+            "Yemen": "Country",
+            "Kenya": "Country",
+            "Indonesia": "Country",
+            "Australia": "Country",
+            "Ethiopia": "State",
+            "Cuba": "State",
+            "Libya": "Country",
+            "Somalia": "Country",
+            "Syria": "Country",
+            "Palestinian_National_Authority": "Body",
+            "France": "State",
+            "Iraq": "Country",
+            "Russia": "State",
+            "Pakistan": "Country",
+            "Israel": "State",
+            "Mexico": "Republic",
+            "Afghanistan": "Country",
+            "Iran": "State",
+            "Saudi_Arabia": "State",
+            "South_Africa": "State"
+        },
+        "dcterms:subject_values": {
+            "Category:Member states of the United Nations": 20,
+            "Category:Countries in Asia": 11,
+            "Category:Member states of the Organisation of Islamic Cooperation": 11
+        },
+        "rdf:type_values": {
+            "Country": 16,
+            "wgs84 pos#SpatialThing": 21,
+            "Location": 21,
+            "Place": 21,
+            "PopulatedPlace": 16,
+            "Q6256": 21,
+            "owl#Thing": 21,
+            "Location100027167": 20,
+            "YagoLegalActorGeo": 20,
+            "YagoPermanentlyLocatedEntity": 20,
+            "PhysicalEntity100001930": 20,
+            "YagoGeoEntity": 20,
+            "District108552138": 20,
+            "Object100002684": 20,
+            "Country108544813": 20,
+            "AdministrativeDistrict108491826": 20,
+            "Region108630985": 20,
+            "WikicatMemberStatesOfTheUnitedNations": 19,
+            "WikicatCountries": 17,
+            "Location Underspecified": 16,
+            "WikicatMemberStatesOfTheOrganisationOfIslamicCooperation": 12,
+            "MusicalArtist": 11
+        }
+    },
+    "State 1": {
+        "entities": {
+            "Hawaii": "Not found",
+            "Indiana": "State",
+            "Delaware": "States",
+            "Wisconsin": "State",
+            "Missouri": "State",
+            "Virginia": "State",
+            "Kansas": "State",
+            "Illinois": "State",
+            "Massachusetts": "Not found",
+            "Iowa": "State",
+            "Texas": "State",
+            "Alaska": "State",
+            "Colorado": "State",
+            "North_Carolina": "State"
+        },
+        "dcterms:subject_values": {
+            "Category:States of the United States": 14,
+            "Category:Contiguous United States": 12
+        },
+        "rdf:type_values": {
+            "wgs84 pos#SpatialThing": 14,
+            "AdministrativeRegion": 14,
+            "Location100027167": 14,
+            "YagoLegalActorGeo": 14,
+            "Region": 14,
+            "YagoPermanentlyLocatedEntity": 14,
+            "PhysicalEntity100001930": 14,
+            "Location": 14,
+            "AdministrativeArea": 14,
+            "YagoGeoEntity": 14,
+            "District108552138": 14,
+            "Q3455524": 14,
+            "PopulatedPlace": 11,
+            "Object100002684": 14,
+            "Place": 14,
+            "AdministrativeDistrict108491826": 14,
+            "Region108630985": 14,
+            "WikicatStatesOfTheUnitedStates": 14,
+            "owl#Thing": 14,
+            "Settlement": 10
+        }
+    },
+    "City 1": {
+        "entities": {
+            "New_York_City": "Not found",
+            "Abbottabad": "City",
+            "Mosul": "City",
+            "Nairobi": "Capital",
+            "Assisi": "Town",
+            "South_Jakarta": "City",
+            "Los_Angeles": "City",
+            "Jakarta": "Capital",
+            "Denver": "Capital",
+            "Baghdad": "Capital",
+            "Sinjar": "Town",
+            "Chicago": "Not found",
+            "Vatican_City": "Enclave",
+            "Seattle": "City",
+            "Mexico_City": "Capital",
+            "Honolulu": "Capital",
+            "Benghazi": "City",
+            "Havana": "City",
+            "Melbourne": "Capital",
+            "Central_Jakarta": "Cities",
+            "Johannesburg": "City",
+            "Islamabad": "City"
+        },
+        "dcterms:subject_values": {},
+        "rdf:type_values": {
+            "Location100027167": 22,
+            "YagoLegalActorGeo": 22,
+            "GeographicalArea108574314": 22,
+            "YagoPermanentlyLocatedEntity": 22,
+            "PhysicalEntity100001930": 22,
+            "Location": 22,
+            "YagoGeoEntity": 22,
+            "District108552138": 22,
+            "UrbanArea108675967": 22,
+            "PopulatedPlace": 15,
+            "Object100002684": 22,
+            "Settlement": 22,
+            "Municipality108626283": 22,
+            "Place": 22,
+            "AdministrativeDistrict108491826": 22,
+            "Region108630985": 22,
+            "owl#Thing": 22,
+            "City108524735": 22,
+            "wgs84 pos#SpatialThing": 21,
+            "Area108497294": 20,
+            "Tract108673395": 20,
+            "Q486972": 20,
+            "City": 18,
+            "Site108651247": 19,
+            "Q515": 18,
+            "Center108523483": 17,
+            "Seat108647945": 17,
+            "Village": 15,
+            "Location Underspecified": 14,
+            "Capital108518505": 13
+        }
+    },
+    "Island 1": {
+        "entities": {
+            "Crimea": "Mass",
+            "Molokai": "Island"
+        },
+        "dcterms:subject_values": {
+            "Category:Turkic toponyms": 1,
+            "Category:Peninsulas of Europe": 1,
+            "Category:Russian-speaking countries and territories": 1,
+            "Category:Crimea": 1,
+            "Category:Crimean Tatars": 1,
+            "Category:Geographic regions of Ukraine": 1,
+            "Category:Regions of Russia": 1,
+            "Category:Maui County, Hawaii": 1,
+            "Category:Islands of Hawaii": 1,
+            "Category:Molokai": 1,
+            "Category:Kalawao County, Hawaii": 1
+        },
+        "rdf:type_values": {
+            "wgs84 pos#SpatialThing": 2,
+            "Island": 2,
+            "Q23442": 2,
+            "Land109334396": 2,
+            "YagoPermanentlyLocatedEntity": 2,
+            "PhysicalEntity100001930": 2,
+            "Location": 2,
+            "YagoGeoEntity": 2,
+            "Object100002684": 2,
+            "PopulatedPlace": 1,
+            "Place": 2,
+            "Settlement": 2,
+            "owl#Thing": 2,
+            "Location100027167": 1,
+            "YagoLegalActorGeo": 1,
+            "WikicatPeninsulas": 1,
+            "WikicatUnrecognizedOrLargelyUnrecognizedStates": 1,
+            "District108552138": 1,
+            "Peninsula109388848": 1,
+            "WikicatPeninsulasOfUkraine": 1,
+            "Location Underspecified": 1,
+            "WikicatPeninsulasOfEurope": 1,
+            "Cape109233715": 1,
+            "AdministrativeDistrict108491826": 1,
+            "WikicatPeninsulasOfRussia": 1,
+            "Region108630985": 1,
+            "Country": 1,
+            "WikicatIslandsOfOceania": 1,
+            "WikicatIslandsOfThePacificOcean": 1,
+            "WikicatIslandsOfHawaii": 1,
+            "Island109316454": 1
+        }
+    },
+    "City 2": {
+        "entities": {
+            "Sochi": "City"
+        }
+    },
+    "Intersection 1": {
+        "entities": {
+            "Times_Square": "Intersection"
+        }
+    },
+    "Subdistrict 1": {
+        "entities": {
+            "Menteng": "Subdistrict"
+        }
+    },
+    "Politician 1": {
+        "entities": {
+            "Paul_Ryan": "Speaker",
+            "Tom_Carper": "Not found",
+            "Barack_Obama": "Politician",
+            "Jefferson_Davis": "Not found",
+            "John_McCain": "Not found",
+            "Stanley_Armour_Dunham": "Grandfather",
+            "Tim_Kaine": "Not found",
+            "Maya_Soetoro-Ng": "Maternal",
+            "Anthony_Albanese": "Not found",
+            "Vladimir_Putin": "Not found",
+            "Joe_Biden": "Not found",
+            "Elena_Kagan": "Justice",
+            "Jimmy_Carter": "Not found",
+            "Sarah_Palin": "Politician",
+            "Bill_Clinton": "Politician",
+            "Anwar_al-Awlaki": "American",
+            "Alan_Keyes": "Activist",
+            "Muammar_Gaddafi": "Not found",
+            "Michelle_Obama": "Lawyer",
+            "Mitt_Romney": "Businessman",
+            "Dick_Cheney": "Not found",
+            "Ronald_Reagan": "Politician",
+            "Robert_F._Kennedy": "Politician",
+            "Calvin_Coolidge": "Not found",
+            "Ken_Salazar": "Not found",
+            "Edward_Snowden": "Employee",
+            "Sonia_Sotomayor": "Justice",
+            "Hillary_Clinton": "Not found",
+            "Valerie_Jarrett": "Official",
+            "Nelson_Mandela": "Revolutionary",
+            "Donald_Trump": "Not found",
+            "Osama_bin_Laden": "Founder",
+            "Dmitry_Medvedev": "Not found",
+            "David_Petraeus": "Officer",
+            "John_Paul_Stevens": "Justice",
+            "Abraham_Lincoln": "President",
+            "Leon_Panetta": "Not found",
+            "Alice_Palmer_(politician)": "Educator",
+            "Timothy_Geithner": "Maker",
+            "David_Souter": "Justice",
+            "Ted_Kennedy": "Not found",
+            "Lolo_Soetoro": "Not found",
+            "Dwight_D._Eisenhower": "Not found",
+            "Pope_Francis": "Pope",
+            "Benjamin_Netanyahu": "Not found",
+            "Barack_Obama_Sr.": "Not found",
+            "Mahmoud_Abbas": "Not found",
+            "George_Zimmerman": "American",
+            "Carol_Moseley_Braun": "Not found",
+            "Laurence_Tribe": "Professor",
+            "Evan_Bayh": "Lawyer",
+            "Peter_Fitzgerald_(politician)": "United",
+            "Jeremiah_Wright": "Not found",
+            "Tom_Coburn": "Politician",
+            "Ben_Bernanke": "Not found",
+            "Margaret_Thatcher": "Not found",
+            "Raúl_Castro": "Not found",
+            "Jeffrey_Goldberg": "Journalist"
+        },
+        "dcterms:subject_values": {
+            "Category:Living people": 40
+        },
+        "rdf:type_values": {
+            "Animal": 58,
+            "Q215627": 58,
+            "Person": 58,
+            "DUL.owl#NaturalPerson": 58,
+            "Eukaryote": 58,
+            "Q5": 58,
+            "Q19088": 58,
+            "Species": 58,
+            "Q729": 58,
+            "owl#Thing": 58,
+            "YagoLegalActor": 57,
+            "YagoLegalActorGeo": 57,
+            "CausalAgent100007347": 57,
+            "Organism100004475": 57,
+            "PhysicalEntity100001930": 57,
+            "Object100002684": 57,
+            "LivingThing100004258": 57,
+            "Whole100003553": 57,
+            "Person100007846": 57,
+            "Leader109623038": 49,
+            "Politician": 47,
+            "Q82955": 47,
+            "Worker109632518": 46,
+            "Scholar110557854": 45,
+            "Intellectual109621545": 45,
+            "SkilledWorker110605985": 44,
+            "WikicatLivingPeople": 43,
+            "Official110372373": 42,
+            "OfficeHolder": 42,
+            "Alumnus109786338": 41,
+            "Owner110389398": 41,
+            "Officeholder110371450": 41,
+            "Holder110180178": 41,
+            "Politician110450303": 40,
+            "WikicatAmericanPeople": 37,
+            "Communicator109610660": 35,
+            "Adult109605289": 31,
+            "Professional110480253": 30
+        }
+    },
+    "Miscellaneous Cluster 3": {
+        "entities": {
+            "Benjamin_Franklin": "Not found"
+        }
+    },
+    "Mother 1": {
+        "entities": {
+            "Ann_Dunham": "Mother"
+        }
+    },
+    "Grandmother 1": {
+        "entities": {
+            "Madelyn_Dunham": "Grandmother"
+        }
+    },
+    "Group 2": {
+        "entities": {
+            "Diplomatic_mission": "Group",
+            "Islamic_State_of_Iraq_and_the_Levant": "Group"
+        },
+        "dcterms:subject_values": {
+            "Category:Diplomacy": 2,
+            "Category:Diplomatic missions": 2,
+            "Category:Politics": 2
+        },
+        "rdf:type_values": {
+            "Band": 2,
+            "owl#Thing": 1
+        }
+    },
+    "Items 1": {
+        "entities": {
+            "Race_and_ethnicity_in_the_United_States_Census": "Items",
+            "Jack_Ryan": "Not found",
+            "Sanaʽa": "Not found",
+            "Coronavirus_disease_2019": "Not found"
+        },
+        "dcterms:subject_values": {
+            "Category:Human name disambiguation pages": 3
+        },
+        "rdf:type_values": {
+            "Disease": 4
+        }
+    },
+    "United 2": {
+        "entities": {
+            "Medicare_Advantage": "United"
+        }
+    },
+    "Miscellaneous Cluster 4": {
+        "entities": {
+            "Secure_Communities": "Not found"
+        }
+    },
+    "Miscellaneous Cluster 5": {
+        "entities": {
+            "Project_Cassandra": "Not found"
+        }
+    },
+    "Region 1": {
+        "entities": {
+            "Central_Asia": "Region"
+        }
+    },
+    "Miscellaneous Cluster 6": {
+        "entities": {
+            "Grammy_Award_for_Best_Spoken_Word_Album": "Not found",
+            "Emmy_Award": "Not found"
+        },
+        "dcterms:subject_values": {},
+        "rdf:type_values": {
+            "Abstraction100002137": 2,
+            "Communication100033020": 2,
+            "Award106696483": 2,
+            "Symbol106806469": 2,
+            "Signal106791372": 2,
+            "WikicatGrammyAwardCategories": 1,
+            "WikicatAudiobookAwards": 1,
+            "Group100031264": 1,
+            "Class107997703": 1,
+            "Collection107951464": 1,
+            "TelevisionShow": 1,
+            "WikicatAmericanTelevisionAwards": 1,
+            "WikicatTelevisionAwards": 1,
+            "WikicatAwardsEstablishedIn1949": 1,
+            "AwardPractice": 1,
+            "WikicatEmmyAwards": 1
+        }
+    },
+    "Set 1": {
+        "entities": {
+            "Nobel_Peace_Prize": "Nobel",
+            "Nobel_Prize": "Set"
+        },
+        "dcterms:subject_values": {
+            "Category:Nobel Prize": 2,
+            "Category:Norwegian awards": 1,
+            "Category:Peace awards": 1,
+            "Category:Awards established in 1901": 1,
+            "Category:Nobel Peace Prize": 1,
+            "Category:1901 establishments in Norway": 1,
+            "Category:Science and technology awards": 1,
+            "Category:Academic awards": 1,
+            "Category:Awards established in 1895": 1,
+            "Category:International awards": 1,
+            "Category:1895 establishments in Sweden": 1,
+            "Category:Articles containing video clips": 1,
+            "Category:Royal Swedish Academy of Sciences": 1,
+            "Category:Science and technology in Sweden": 1,
+            "Category:Alfred Nobel": 1,
+            "Category:Swedish science and technology awards": 1
+        },
+        "rdf:type_values": {
+            "Abstraction100002137": 2,
+            "Communication100033020": 2,
+            "TelevisionShow": 2,
+            "Award": 2,
+            "Q618779": 2,
+            "Award106696483": 2,
+            "WikicatPeaceAwards": 2,
+            "AwardPractice": 2,
+            "Symbol106806469": 2,
+            "owl#Thing": 2,
+            "Signal106791372": 2,
+            "WikicatHumanRightsAwards": 1,
+            "WikicatNorwegianAwards": 1,
+            "WikicatLiteraryAwards": 1,
+            "WikicatAwardsEstablishedIn1895": 1,
+            "WikicatAcademicAwards": 1,
+            "WikicatInternationalAwards": 1
+        }
+    },
+    "Ceremony 1": {
+        "entities": {
+            "Academy_Awards": "Ceremony"
+        }
+    },
+    "Retreat 1": {
+        "entities": {
+            "Camp_David": "Retreat"
+        }
+    },
+    "Headquarters 1": {
+        "entities": {
+            "The_Pentagon": "Headquarters"
+        }
+    },
+    "Residence 1": {
+        "entities": {
+            "White_House": "Residence"
+        }
+    },
+    "Miscellaneous Cluster 7": {
+        "entities": {
+            "Gautama_Buddha": "Not found"
+        }
+    },
+    "Region 2": {
+        "entities": {
+            "Arctic": "Region"
+        }
+    },
+    "Form 1": {
+        "entities": {
+            "Protestantism": "Form"
+        }
+    },
+    "Musician 1": {
+        "entities": {
+            "Bruce_Springsteen": "Musician"
+        }
+    },
+    "Sector 1": {
+        "entities": {
+            "East_Jerusalem": "Sector"
+        }
+    },
+    "Miscellaneous Cluster 8": {
+        "entities": {
+            "Sandy_Hook_Elementary_School_shooting": "Not found"
+        }
+    },
+    "Provider 1": {
+        "entities": {
+            "Netflix": "Provider"
+        }
+    },
+    "Band 1": {
+        "entities": {
+            "Rush_(band)": "Band"
+        }
+    },
+    "Event 1": {
+        "entities": {
+            "2014_Winter_Olympics": "Event"
+        }
+    },
+    "Game 1": {
+        "entities": {
+            "Super_Bowl": "Game"
+        }
+    },
+    "Miscellaneous Cluster 9": {
+        "entities": {
+            "Kalorama_(Washington,_D.C.)": "Not found"
+        }
+    },
+    "Land 1": {
+        "entities": {
+            "Promised_Land": "Land"
+        }
+    },
+    "Committee 1": {
+        "entities": {
+            "United_States_Senate_Committee_on_Foreign_Relations": "Committee"
+        }
+    },
+    "Miscellaneous Cluster 10": {
+        "entities": {
+            "Sheila_Miyoshi_Jager": "Not found"
+        }
+    },
+    "League 1": {
+        "entities": {
+            "National_Football_League": "League"
+        }
+    },
+    "Event 2": {
+        "entities": {
+            "NJPW_The_New_Beginning": "Event"
+        }
+    },
+    "Businessman 1": {
+        "entities": {
+            "Tony_Rezko": "Businessman"
+        }
+    },
+    "Miscellaneous Cluster 11": {
+        "entities": {
+            "HIV": "Not found"
+        }
+    },
+    "Alliance 1": {
+        "entities": {
+            "NATO": "Alliance"
+        }
+    },
+    "Genocide 1": {
+        "entities": {
+            "The_Holocaust": "Genocide"
+        }
+    },
+    "Miscellaneous Cluster 12": {
+        "entities": {
+            "Altgeld_Gardens_Homes": "Not found"
+        }
+    },
+    "Movement 1": {
+        "entities": {
+            "Zionism": "Movement"
+        }
+    },
+    "Miscellaneous Cluster 13": {
+        "entities": {
+            "Shooting_of_Michael_Brown": "Not found"
+        }
+    },
+    "Station 2": {
+        "entities": {
+            "International_Space_Station": "Station"
+        }
+    },
+    "Library 1": {
+        "entities": {
+            "Barack_Obama_Presidential_Center": "Library"
+        }
+    },
+    "System 1": {
+        "entities": {
+            "Keystone_Pipeline": "System"
+        }
+    },
+    "Course 1": {
+        "entities": {
+            "Wailuku_River": "Course"
+        }
+    },
+    "Branch 1": {
+        "entities": {
+            "Surveillance_court": "Branch"
+        }
+    },
+    "Miscellaneous Cluster 14": {
+        "entities": {
+            "Obama_Foundation": "Not found"
+        }
+    },
+    "Series 1": {
+        "entities": {
+            "Democratic_National_Convention": "Series"
+        }
+    },
+    "Planet 1": {
+        "entities": {
+            "Mars": "Planet"
+        }
+    },
+    "Choice 1": {
+        "entities": {
+            "Courage": "Choice"
+        }
+    },
+    "Program 1": {
+        "entities": {
+            "Medicaid": "Program"
+        }
+    },
+    "Miscellaneous Cluster 15": {
+        "entities": {
+            "Federal_Reserve": "Not found"
+        }
+    },
+    "Group 3": {
+        "entities": {
+            "Palestinians": "Group"
+        }
+    },
+    "System 2": {
+        "entities": {
+            "Iron_Dome": "System"
+        }
+    },
+    "Game 2": {
+        "entities": {
+            "Super_Bowl_XLIII": "Game"
+        }
+    },
+    "Wave 1": {
+        "entities": {
+            "Arab_Spring": "Wave"
+        }
+    },
+    "Miscellaneous Cluster 16": {
+        "entities": {
+            "Cuban_thaw": "Not found"
+        }
+    },
+    "Album 1": {
+        "entities": {
+            "18_Months": "Album"
+        }
+    },
+    "Miscellaneous Cluster 17": {
+        "entities": {
+            "Space_Shuttle": "Not found"
+        }
+    },
+    "Reform 1": {
+        "entities": {
+            "Julian_calendar": "Reform"
+        }
+    },
+    "Initialism 1": {
+        "entities": {
+            "LGBT": "Initialism"
+        }
+    },
+    "Miscellaneous Cluster 18": {
+        "entities": {
+            "Syrian_Civil_War": "Not found"
+        }
+    },
+    "Miscellaneous Cluster 19": {
+        "entities": {
+            "HuffPost": "Not found"
+        }
+    },
+    "Miscellaneous Cluster 20": {
+        "entities": {
+            "Luo_people": "Not found"
+        }
+    },
+    "Miscellaneous Cluster 21": {
+        "entities": {
+            "1985_Chicago_Bears_season": "Not found"
+        }
+    },
+    "United 3": {
+        "entities": {
+            "Equal_Credit_Opportunity_Act": "United"
+        }
+    },
+    "Miscellaneous Cluster 22": {
+        "entities": {
+            "United_Nations_Security_Council_Resolution_2334": "Not found"
+        }
+    },
+    "War 1": {
+        "entities": {
+            "World_War_II": "War"
+        }
+    },
+    "Miscellaneous Cluster 23": {
+        "entities": {
+            "American_Factory": "Not found"
+        }
+    },
+    "Miscellaneous Cluster 24": {
+        "entities": {
+            "Obergefell_v._Hodges": "Not found"
+        }
+    }
+}
