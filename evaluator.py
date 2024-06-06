@@ -2,21 +2,21 @@
 Evaluator for clustering summaries (containing values for the rdf:type and dcterms:subject DBpedia properties
 which apply to the majority of the entities in every cluster).
 
-Generates a report file with the cluster evaluation and values for the evaluation metrics and saves it in the report folder.
+Generates a report file with the cluster evaluation, i.e., values for each evaluation metric, and saves it in the report folder.
 
 How to use:
 
     1. Save the path of a given clustering from the "5_labeled_clusters_dcterms_rdf" folder to the INPUT_FILE constant.
 
-    2. You can also change the output folder ('REPORT_FOLDER' constant), the default folder is "reports".
+    2. You can also change the output folder ('OUTPUT_FOLDER' constant), the default folder is "reports".
 
     3. Run
 
     4. Follow the prompts to evaluate each cluster:
 
-    (Note: displayed labels are NOT official labels of the clusters and the displayed values of rdf:type and dcterms:subject can 
-    help you in the evaluation process. For instance, if you see that 40 out of 50 entities have a type of politician, you can
-    assume that at least 40 out of 50 are really politicians, or, e.g., in the following cluster:
+    (Note: displayed labels are NOT the aim of our evaluation. The displayed values of rdf:type and dcterms:subject can 
+    help you think of an accurate label in the evaluation process. For instance, if you see that 40 out of 50 entities have a type of politician,
+    you can assume that at least 40 out of 50 are really politicians, or, e.g., in the following cluster:
 
         Cluster: Company 1
             -1- Adidas: Corporation              URL: <http://dbpedia.org/resource/Adidas>
@@ -27,7 +27,7 @@ How to use:
                 ...
 
     we get a really good recommendation: "Category:Multinational companies headquartered in Germany: 3" with '3' meaning all three elements
-    have this property)
+    have this property).
 
         4.1. Evaluate a cluster as accurate (type 'accurate') if you can think of a cluster label
             that would be accurate for all entities and not too general
@@ -37,9 +37,10 @@ How to use:
         4.2. Evaluate a cluster as 'inaccurate' you cannot think of an accurate cluster label for the cluster.
 
         4.3. Pass a cluster (type 'p') if you want to exclude a cluster from the evaluation.
-             For example, in our research we used this option to one-element clusters.
+             For example, in our research we used this option to exclude one-element clusters.
+             In the case of one-element clusters, pressing ENTER to skip is also allowed.
 
-        4.4. Evaluater a cluster as 'partly accurate' if you can think of a good label that would describe
+        4.4. Evaluate a cluster as 'partly accurate' if you can think of a good label that would describe
             at least half of the elements, but not all of them. Then you would be prompted further to evaluate each element:
 
              4.4.1. type 1 and enter, if you think the element is accurately placed in the cluster based on your label.
