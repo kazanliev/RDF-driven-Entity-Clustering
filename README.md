@@ -5,7 +5,7 @@
 We present an RDF-driven Entity Clustering pipeline for text (.txt) files, utilizing a hierarchical clustering algorithm as presented in the works of Christodoulou et al. [[1]](#1) and Eddamiri et al. [[2]](#2). Our pipeline uses DBpedia[[3]](#3) for further knowledge extraction and builds up on Natural Language Processing tools, including REBEL [[4]](#4) for relational triple extraction and spaCy [[5]](#5) for Named Entity Recognition.
 
 
-For more details on the methods and results, see the thesis_docs folder, which contains the full bachelor thesis and presentation on the topic.
+For more details on the methods and results, see the `thesis_docs` folder, which contains the full bachelor thesis and presentation on the topic.
 
 ## Compatibility
 
